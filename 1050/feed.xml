@@ -6,8 +6,8 @@
 </description>
     <link>https://we-are-ols.org//</link>
     <atom:link href="https://we-are-ols.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Jul 2025 04:13:45 +0000</pubDate>
-    <lastBuildDate>Fri, 18 Jul 2025 04:13:45 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Jul 2025 04:17:09 +0000</pubDate>
+    <lastBuildDate>Fri, 18 Jul 2025 04:17:09 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -294,6 +294,8 @@ and the 1:1 meetings with my manager, &lt;a href=&quot;/people.html#iramosp&quot
       <item>
         <title>OLS Organisational Values: Draft is Open for Community Review</title>
         <description>&lt;h1 id=&quot;seeking-feedback-from-our-community-members-on-proposed-organisational-values-your-perspective-matters&quot;&gt;Seeking Feedback from Our Community Members on Proposed Organisational Values: Your Perspective Matters!&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Note: The feedback phase has concluded, and a page is published on the OLS website: http://we-are-ols.org/ols-values. You are very welcome to still comment by creating an issue on this repository or by reaching out to the OLS team by email: team@we-are-ols.org.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;At OLS, our community is at the heart of everything we do.
 To ensure our core principles reflect and represent the collective vision and aspirations of our members, we are delighted to share the revised &lt;strong&gt;draft of our Organisational Values&lt;/strong&gt;, which is now open for community review!&lt;/p&gt;
