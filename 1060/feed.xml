@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OLS</title>
+    <description>A mentoring &amp; training program for Open Science ambassadors
+</description>
+    <link>https://we-are-ols.org//</link>
+    <atom:link href="https://we-are-ols.org//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 01 Aug 2025 11:21:49 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Aug 2025 11:21:49 +0000</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Honest reflections on running Open Neuroseeds</title>
+        <description>&lt;h2 id=&quot;sara-villa-senior-resident-fellow---open-neuroseeds-coordinator&quot;&gt;&lt;em&gt;&lt;a href=&quot;/people.html#saravilla&quot;&gt;Sara Villa&lt;/a&gt;, Senior Resident fellow - Open Neuroseeds coordinator&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;When I started my journey as a learner in &lt;a href=&quot;https://we-are-ols.org/&quot;&gt;OLS&lt;/a&gt; in 2021, I would have never guessed that I’d be working WITH the team implementing my own training cohort at King’s College London. &lt;br /&gt;
+But I guess that’s the point of dreaming big…you can actually get high enough!!&lt;/p&gt;
+
+&lt;p&gt;Open Neuroseeds is my attempt to bring all that I love and learned about open science to my own academic research community, versioning the &lt;a href=&quot;/openseeds/&quot;&gt;Open Seeds&lt;/a&gt; format to fit requirements (learning objectives, schedules, funding, etc). 
+In this blog, I will share how I started the programme, lessons learned along the way, and most importantly, successful outcomes from it!&lt;/p&gt;
+
+&lt;p&gt;What looked like a crazy idea in the beginning, started to look like a very obvious step last year after having participated in several Open Seeds cohorts and having given several talks to promote open science within my department (&lt;a href=&quot;https://www.kcl.ac.uk/neuroscience/about/departments/wolfson&quot;&gt;Wolfson SPaRC, KCL&lt;/a&gt;) and others. 
+Being awarded a Research Culture award from King’s College London was the final push that put everything in motion. And like that, we organised Open Neuroseeds from February to June 2025.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-it-started-plans-and-fears&quot;&gt;How it started: plans and fears&lt;/h2&gt;
+
+&lt;p&gt;Starting Open NeuroSeeds was seemingly easy, I had some funding to run it and it would involve doing a version of a programme I knew and loved very well, Open Seeds. &lt;br /&gt;
+However, funds were still a bit tight and came with a deadline, so I had to recruit rather quickly and with not many communications strategies in place.&lt;/p&gt;
+
+&lt;p&gt;In order to get more participants, I opened the expression of interest for the whole School of Neuroscience and we successfully involved 10 different participants. 
+We have quite a diverse representation of research levels (from undergraduate students to PI level), but I didn’t manage to get people from professional services (one of my main goals). 
+People selected were also very diverse in their open science knowledge. Some applications included very well thought projects to work on during the mentoring part of the programme, while some applicants didn’t join with a project. 
+Since this was the first approach to open science to this type of academic setting, I’d decided to include everyone in this pilot cohort, to learn from all different perspectives. &lt;br /&gt;
+This last decision was one of the first ‘hiccups’ I encountered: coordinating this programme also involved recruiting mentors and experts, mainly from the OLS community, who had been involved in other cohorts. 
+Of course, their expectations were similar to their experiences in the past, and I underestimated the orientation needed to adjust materials to a new domain, and that participants would need extra guidance. 
+An important &lt;strong&gt;lesson learned&lt;/strong&gt; for the next iteration: regularly communicate with all participants to establish clear expectations! &lt;br /&gt;
+Needless to say, everyone adapted quite quickly and the miscommunications were solved fast enough for people to get on with their mentors and their projects.&lt;/p&gt;
+
+&lt;p&gt;During the training weeks, we had 5 different experts to come and introduce Open Concepts, curated from previous Open Seeds lessons. The topics chosen were:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Open data&lt;/strong&gt; led by &lt;a href=&quot;https://experts.griffith.edu.au/42874-shern-tee&quot;&gt;Shern Tee&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Open Project management&lt;/strong&gt; led by &lt;a href=&quot;https://www.linkedin.com/in/ariellebennett&quot;&gt;Arielle Bennet&lt;/a&gt; - &lt;a href=&quot;https://doi.org/10.5281/zenodo.15125211&quot;&gt;See publication&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Open community management&lt;/strong&gt; led by &lt;a href=&quot;https://www.aleesteele.com/&quot;&gt;Anne Lee Steele&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://zenodo.org/records/15006451&quot;&gt;See publication&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Open tools&lt;/strong&gt; led by &lt;a href=&quot;https://ke.linkedin.com/in/pauline-karega-20b72a145&quot;&gt;Pauline Karega&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Open software and hardware&lt;/strong&gt; led by &lt;a href=&quot;https://de.linkedin.com/in/colombjulien&quot;&gt;Julien Colomb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These experts were invited from OLS and The Turing Way community to share general concepts and working examples from their projects involving open science. 
+As reflected in the feedback (shared below), our participants really appreciated their presentations and support during the programme.&lt;/p&gt;
+
+&lt;p&gt;One of my main goals was to deliver a more context-specific training in neuroscience. I can see an opportunity to curate domain-specific examples together with trainers. 
+Although it was challenging to identify neuroscience-specific experts under tight deadlines, this could be implemented for the next iterations.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-it-concluded&quot;&gt;How it concluded&lt;/h2&gt;
+
+&lt;p&gt;I can proudly say that this was an amazing experience working with the participants, and I was blown away on graduation day. 
+The participants were very engaged, plans for their projects were bold, well thought, and some of them even already being implemented. 
+You can check the presentations on our &lt;a href=&quot;https://zenodo.org/communities/openlifesci/records?q=&amp;amp;l=list&amp;amp;p=1&amp;amp;s=10&amp;amp;sort=newest&quot;&gt;Zenodo community&lt;/a&gt; and check for yourself!&lt;/p&gt;
+
+&lt;p&gt;Some of the feedback was:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;The calls were all amazing. The presentations were well thought through and probably useful for people coming in from multiple levels. I was familiar with some of the topics and was a bit worried it would be a “waste of time”. It was not. All of the talks worked both as introduction and as deep dives into the topics. Congratulations to all presenters!&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;My training experience was truly amazing. The structured approach and insightful courses guided me towards new collaborations and innovative interdisciplinary projects.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;It was a really helpful experience in helping me to think beyond just a problem and how to look for opportunities to expand into other initiatives such as open science and creating platforms for such.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;That was an unforgettable journey for me to focus on interdisciplinary studies, collaborating with people who are from different fields. I truly appreciate it, and hearty thanks to the Open Seeds Program.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;I learned how critical accessibility and community is if you want research to make a real difference.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I am chuffed to say that participants were as happy as me, and that this pilot cohort has been a success!&lt;/p&gt;
+
+&lt;p&gt;One of the big surprises was the feedback received when asked which part was their favourite and 2 related things were pointed out: the favourite training session was the one delivered by Anne Lee Steele on &lt;strong&gt;Open Community Management&lt;/strong&gt;, 
+and the best moments for almost every participant were the discussions in the breakout rooms during the training calls.&lt;/p&gt;
+
+&lt;p&gt;Of course, I might be biased, but as a researcher,  I interpret these findings (within what I know was a small cohort), as an &lt;strong&gt;emerging need for connection&lt;/strong&gt; in research. Open NeuroSeeds provided the perfect stage for people to talk about their research and projects openly and in a supportive way. More specifically,  the community management call and the positive feedback on the breakout rooms discussions highlighted everything that is possible when working collaboratively and within a community.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-next&quot;&gt;What’s next&lt;/h2&gt;
+
+&lt;p&gt;I would love to repeat this experience within the Schools of Neuroscience but also other universities and departments and keep working on context-specific training. 
+I think certainly one of the changes I would like to implement is including a community strategy to make emergent groups sustainable within their own departments/schools.&lt;/p&gt;
+
+&lt;p&gt;I think it would also be helpful to include a lesson on collaborative research/work to spearhead the connections made during the programme.&lt;/p&gt;
+
+&lt;p&gt;All in all, I think this was an amazing pilot, and we will be working very hard to bring it to as many academic settings as we can. 
+&lt;strong&gt;So, get in touch and keep an eye on what’s coming!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This whole experience has only supported my views that we need more open science skills taught in academic settings. 
+There are many reasons (high expectations, low support, competitive environment…), but academic settings have changed their ways of working without realising that maintaining a research community requires new ways of working too. 
+Increased collaborative projects, together with more remote working, have changed the rules of the game. We need to focus on the people behind the science, and equip them with the best tools to make the best science they can. I strongly believe that open science can bridge the research goals and people, making teams more efficient and science more inclusive.&lt;/em&gt; &lt;br /&gt;
+&lt;strong&gt;&lt;em&gt;In the end… if we don’t dream big, why are we dreaming at all?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+        <link>https://we-are-ols.org//posts/2025/08/01/reflections-on-neuroseeds/</link>
+        <guid isPermaLink="true">https://we-are-ols.org//posts/2025/08/01/reflections-on-neuroseeds/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Announcing Funding for the Seeds to Systems Initiative</title>
+        <description>&lt;p&gt;OLS is thrilled to announce the &lt;strong&gt;‘Seeds to Systems’&lt;/strong&gt; initiative made possible by generous funding from the Open Science Program of Chan Zuckerberg Initiative (&lt;a href=&quot;http://chanzuckerberg.com/&quot;&gt;CZI&lt;/a&gt;). This funding will build up OLS’s capacity to support individuals and teams in biomedical and related research fields who are ready to transition their open source/science projects to the next stage.&lt;/p&gt;
+
+&lt;p&gt;This announcement marks a significant beginning of &lt;strong&gt;OLS’s new strategic direction for 2025-2030&lt;/strong&gt;, reinforcing our commitment to fostering a thriving open science ecosystem. Building upon the proven success of our flagship program, &lt;a href=&quot;/openseeds/&quot;&gt;Open Seeds&lt;/a&gt;, the ‘Seeds to Systems’ initiative will support open research projects (the “seeds”) by developing and systematising strategies, processes, and infrastructure needed to sustain their work in the long term.&lt;/p&gt;
+
+&lt;p&gt;Our work under this initiative will enable the &lt;strong&gt;development of a research-based curriculum and training programme&lt;/strong&gt; targeted at projects that have become established, such as research initiatives, research communities of practice, or volunteer-run organisations. This will be complemented by our &lt;a href=&quot;/open-incubator/fiscal-hosting/&quot;&gt;fiscal hosting&lt;/a&gt; infrastructure. The goal is to build researchers’ skills and expertise needed to &lt;strong&gt;navigate the complex research funding and sustainability landscape&lt;/strong&gt;, and ensure the effective management and impactful delivery of their open research projects. This work encompasses three key components:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Open Research:&lt;/strong&gt; Conducting community-based research and building reference resources for a Seeds to System curriculum informed by the current research ecosystem and sustainability models.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cohort-Based Training and Mentoring:&lt;/strong&gt; Providing Seeds to Systems training with personalised mentorship and a supportive peer network for collaborative learning and problem-solving.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fiscal Hosting Infrastructure:&lt;/strong&gt; Offering critical support such as fiscal hosting, finance management and essential legal guidance, particularly crucial during the early stages of project development and management.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Through rigorous impact assessment and a dedicated community feedback process, we will ensure that ‘Seeds to Systems’ is continuously developed and delivers tangible impact for our community members, extending the positive outcomes of open science throughout their wider research communities.&lt;/p&gt;
+
+&lt;p&gt;Find more details in a separate post (coming soon) announcing our strategic direction.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+        <link>https://we-are-ols.org//posts/2025/06/17/seeds-to-system-funding/</link>
+        <guid isPermaLink="true">https://we-are-ols.org//posts/2025/06/17/seeds-to-system-funding/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>OSPARK Explainer: What is the European Open Science Cloud?</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/9e44581e-a037-4528-b02a-ed9abe5fbfa0&quot; alt=&quot;A mind map showing how EOSC concepts, such as the tripartite governance structure and Science Clusters, link together.&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;ospark-explainer-what-is-the-european-open-science-cloud&quot;&gt;OSPARK Explainer: What is the European Open Science Cloud?&lt;/h1&gt;
+
+&lt;p&gt;If you’re involved in open science within Europe, you might have heard of the &lt;strong&gt;European Open Science Cloud (EOSC)&lt;/strong&gt;, a long-term project overseen by the European Commission. However, you might have found yourself wondering, “what is EOSC?”. We hope that this short explainer will shed some light on what EOSC is and how it might help you.&lt;/p&gt;
+
+&lt;p&gt;In today’s digital world, research is increasingly dependent on sharing data, tools, and knowledge across disciplines and borders. EOSC is a large-scale, long-term project which aims to change research culture and technology usage across Europe. In particular, the project is focusing on the use of cloud computing services such as virtual machines and file storage, training, and FAIR digital objects such as datasets and software. EOSC’s aim is to develop an ecosystem in which &lt;strong&gt;open, inclusive, trustworthy, and reproducible science&lt;/strong&gt; is embedded in digital research practices; this will become a unified environment where researchers can find, share, and collaborate on digital research. The hope is that this will improve public perceptions of science and facilitate team science approaches, such as multidisciplinary and crowdsourced/citizen science projects.&lt;/p&gt;
+
+&lt;h1 id=&quot;so-what-does-eosc-look-like&quot;&gt;So what does EOSC look like?&lt;/h1&gt;
+
+&lt;p&gt;You could think of EOSC as a massive &lt;strong&gt;digital research ecosystem&lt;/strong&gt;. It’s not just a “cloud” in the sense of a network of remote servers, although this does form part of EOSC’s service offerings. EOSC is a multidisciplinary environment where researchers can discover and share digital research objects, tools, and services for research, education, and innovation.&lt;/p&gt;
+
+&lt;p&gt;One of EOSC’s strengths is its adoption of five &lt;strong&gt;Science Clusters&lt;/strong&gt;, which each focus on adapting EOSC’s services and infrastructures to the needs of specific research fields:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://envri.eu/&quot;&gt;&lt;strong&gt;ENVRI&lt;/strong&gt;&lt;/a&gt; represents earth sciences, which includes research focused on the atmosphere, ecosystem, marine environment, and solid earth. Their work has included a data portal, training gateway, and innovation hub for earth scientists.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lifescience-ri.eu/home.html&quot;&gt;&lt;strong&gt;LS-RI&lt;/strong&gt;&lt;/a&gt; encompasses the life sciences such as biology. They offer specialised resources and services such as access to high-end microscopes, an innovation helpdesk, and biobanking support.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://projectescape.eu/&quot;&gt;&lt;strong&gt;ESCAPE&lt;/strong&gt;&lt;/a&gt; provides services for astronomy, astroparticle, and particle physics. They provide a virtual observatory which archives astronomical high-level products and provides related services, alongside data crowdsourcing and analysis platforms.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.panosc.eu/&quot;&gt;&lt;strong&gt;PaNOSC&lt;/strong&gt;&lt;/a&gt; represents facilities which work on photon and neutron (PaN) experiments. Their work has included the creation of a standard data format (NeXus), a federated search API for PaN data catalogues, and a specialised e-learning platform and training catalogue.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sshopencloud.eu/&quot;&gt;&lt;strong&gt;SSHOC&lt;/strong&gt;&lt;/a&gt; is focused on the social sciences and humanities. They have created a specialised database of training, services, and resources.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Through the Science Clusters and its open infrastructure, EOSC aims to break down silos between scientific disciplines and between EU countries. This should make it easier to find collaborators and access methodologies from adjacent disciplines, allowing researchers to work together more effectively and accelerating scientific discovery.&lt;/p&gt;
+
+&lt;h1 id=&quot;how-is-eosc-moving-forward&quot;&gt;How is EOSC moving forward?&lt;/h1&gt;
+
+&lt;p&gt;While it’s important to have a shared vision and reduce fragmentation, EOSC also recognises that different regions have different infrastructure and cultural needs. For this reason, EOSC is operating using a tripartite governance structure that operates at both the European and national levels.&lt;/p&gt;
+
+&lt;p&gt;Currently, the &lt;strong&gt;European Commission&lt;/strong&gt; provides leadership by overseeing project governance and piloting services through an &lt;strong&gt;EOSC EU Node&lt;/strong&gt;. It does this with input from stakeholders the &lt;strong&gt;EOSC Steering Board&lt;/strong&gt;, who represent the participating countries, and the &lt;strong&gt;EOSC Association&lt;/strong&gt;, who represent the research community.&lt;/p&gt;
+
+&lt;p&gt;Each participating country also has its own &lt;strong&gt;National Node&lt;/strong&gt; which likewise uses a tripartite structure. For example, Ireland’s national governance group is composed of its local European Commission representation; HEANet, who provide IT services to the Irish higher education sector; and members of relevant government departments.&lt;/p&gt;
+
+&lt;p&gt;All services and governance will eventually be &lt;strong&gt;federated&lt;/strong&gt;, with National Nodes overseeing their own digital objects and services. All federated Nodes will be expected to follow shared governance principles and be interoperable, but will have some flexibility in implementation. More information on the EOSC Federation can be found in the &lt;a href=&quot;https://eosc.eu/eosc-federation-handbook/&quot;&gt;Federation Handbook&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;so-whats-in-it-for-me&quot;&gt;So what’s in it for me?&lt;/h1&gt;
+
+&lt;p&gt;If you’re a scientist or research professional, EOSC might be useful in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Through the EOSC EU Node, you can access &lt;strong&gt;cloud computing services&lt;/strong&gt;, such as file transfers and virtual machines, without procurement hurdles or direct costs. You don’t need to be based in Europe to use them.&lt;/li&gt;
+  &lt;li&gt;Instead of navigating different portals, repositories, and authentication systems, EOSC provides a &lt;strong&gt;single point of access&lt;/strong&gt; to a wide range of digital research tools, datasets, and services.&lt;/li&gt;
+  &lt;li&gt;From literature search to data collection, analysis, publication, and preservation, EOSC provides infrastructure that supports the &lt;strong&gt;full research lifecycle&lt;/strong&gt; and meets funders’ open science requirements.&lt;/li&gt;
+  &lt;li&gt;By making existing datasets FAIR and discoverable, EOSC helps you &lt;strong&gt;identify data that can be reused&lt;/strong&gt;. Reducing redundancy in this way can save time and resources that would otherwise be spent collecting similar data.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For scientists across and beyond Europe, EOSC offers opportunities to accelerate discovery, enhance reproducibility, and amplify the impact of your research. As it continues to develop through 2030, EOSC aims to cement Europe’s position at the forefront of open, collaborative, and impactful science.&lt;/p&gt;
+
+&lt;h2 id=&quot;glossary&quot;&gt;Glossary&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;EOSC:&lt;/strong&gt; The European Open Science Cloud, a federated system of digital research services and infrastructures.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;EOSC EU Node:&lt;/strong&gt; A Europe-wide platform which is piloting EOSC services and infrastructure.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;EOSC National Nodes:&lt;/strong&gt; Country-specific entry points within EOSC which provide researchers with access to local governance, systems, and resources which are interoperable with the wider EOSC federation.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Federation:&lt;/strong&gt; EOSC is a decentralised and interoperable system where multiple independent research infrastructures, data repositories, and service providers across multiple countries connect and collaborate.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Science Clusters:&lt;/strong&gt; Collaborative networks which focus on promoting open science practices and tailoring EOSC services and infrastructures for a group of related research disciplines.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tripartite:&lt;/strong&gt; The three-prong governance structure in EOSC: the European Commission, EOSC Association, and EOSC Steering Board at the European level; and national authorities, service providers, and research communities at the national level.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+        <link>https://we-are-ols.org//posts/2025/06/13/eosc-blog-post/</link>
+        <guid isPermaLink="true">https://we-are-ols.org//posts/2025/06/13/eosc-blog-post/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>OLS Retreat: Debs’ Experience</title>
+        <description>&lt;p&gt;&lt;strong&gt;Attendees:&lt;/strong&gt; &lt;a href=&quot;/people.html#yochannah&quot;&gt;Yo Yehudi&lt;/a&gt;, &lt;a href=&quot;/people.html#malvikasharan&quot;&gt;Malvika Sharan&lt;/a&gt;, &lt;a href=&quot;/people.html#pherterich&quot;&gt;Patricia Herterich&lt;/a&gt;, &lt;a href=&quot;/people.html#bethaniley&quot;&gt;Bethan Iley&lt;/a&gt;, &lt;a href=&quot;/people.html#iramosp&quot;&gt;Irene Ramos&lt;/a&gt;, &lt;a href=&quot;/people.html#saravilla&quot;&gt;Sara Villa&lt;/a&gt;, &lt;a href=&quot;/people.html#npdebs&quot;&gt;Deborah Udoh&lt;/a&gt;, and &lt;a href=&quot;/people.html#Tajuddeen1&quot;&gt;Tajuddeen Gwadabe&lt;/a&gt; &lt;em&gt;(virtually!)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In my previous post, I reflected on my CW25 experience. One highlight from that week was &lt;strong&gt;meeting more of the OLS community in person&lt;/strong&gt; — including core team members I’d only ever seen in squares on a Zoom screen. On Thursday, &lt;strong&gt;May 15th&lt;/strong&gt;, after the CW25 Hack Day, we boarded a train and set off for our &lt;strong&gt;annual retreat in Edinburgh&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Of course, once we arrived at the station, Yo Yehudi — our Executive Director — set off ahead of us on her bicycle. Some would say she went ahead to prep the Airbnb… but we all know Yo just wanted to claim the best room. 😉&lt;/p&gt;
+
+&lt;h2 id=&quot;breathing-the-same-air&quot;&gt;Breathing the Same Air&lt;/h2&gt;
+
+&lt;p&gt;The &lt;strong&gt;OLS Retreat&lt;/strong&gt;, held on May 16th, was the &lt;strong&gt;first time in a long time that many of us got to share physical space&lt;/strong&gt; — breathing the same air, exchanging actual hugs, and making the kind of memories that just don’t translate through a screen.&lt;/p&gt;
+
+&lt;p&gt;I love my colleagues, even as pixelated boxes…but in person? Even more.&lt;/p&gt;
+
+&lt;p&gt;And no, it wasn’t all sticky notes and strategy sessions (though there were a few of those). It was deeper. Softer. Braver.&lt;/p&gt;
+
+&lt;h2 id=&quot;team-values-personal-reflections&quot;&gt;Team Values, Personal Reflections&lt;/h2&gt;
+
+&lt;p&gt;We started the day with a &lt;strong&gt;values-based reflection exercise&lt;/strong&gt;. Each of us wrote down our personal values, then went around adding positive qualities we saw in others — things they might not realise about themselves.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“I love how you’re able to make people feel like they are part of your family — but not in a creepy way.”&lt;br /&gt;
+— &lt;em&gt;Bethan Iley&lt;/em&gt;, and yes, this made my week.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There was a calm moment in the room as everyone let those words land.&lt;/p&gt;
+
+&lt;p&gt;Afterward, we mapped these personal values to team values and behaviors that support them. &lt;strong&gt;Kindness. Balance. Joy. Curiosity. Accountability. Collaboration.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I had this discussion with Malvika on the porch, sunlight pouring in, a glass of juice in hand. One of those rare, golden moments.&lt;/p&gt;
+
+&lt;h2 id=&quot;vulnerability-at-work-yes-please&quot;&gt;Vulnerability at Work? Yes, Please.&lt;/h2&gt;
+
+&lt;p&gt;One of the biggest takeaways from our time together: &lt;strong&gt;vulnerability is a strength, not a weakness&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s okay to admit when you’re not feeling like yourself. &lt;a href=&quot;https://en.wikipedia.org/wiki/Presenteeism&quot;&gt;Presenteeism&lt;/a&gt; — just showing up to tick the box — serves no one, least of all ourselves.&lt;/p&gt;
+
+&lt;p&gt;OLS doesn’t just talk about inclusive spaces. We &lt;em&gt;live&lt;/em&gt; them. Even at lunch.&lt;/p&gt;
+
+&lt;h2 id=&quot;speaking-of-lunch&quot;&gt;Speaking of Lunch…&lt;/h2&gt;
+
+&lt;p&gt;You could feel the care woven into every detail — especially when it came to food.&lt;/p&gt;
+
+&lt;p&gt;Despite our varying dietary needs (vegan, gluten-free, carnivore), ordering food was never chaotic. Menus were reviewed in advance. 
+Preferences and restrictions were thoughtfully considered.&lt;/p&gt;
+
+&lt;p&gt;At lunch, I ordered a meat-based sandwich that unexpectedly came loaded with veggies. 
+Patricia noticed me silently fighting a losing battle to de-veggie the thing and made a funny remark. I couldn’t help but laugh at this.&lt;/p&gt;
+
+&lt;p&gt;Also, every time someone bought something, Bethan would chime in:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;“Keep the receipt!”&lt;/strong&gt;
+That finance officer energy triggered an outburst of giggles, every single time.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;big-questions-bold-dreams&quot;&gt;Big Questions, Bold Dreams&lt;/h2&gt;
+
+&lt;p&gt;Post-lunch, we turned to &lt;strong&gt;reflections on the future of OLS&lt;/strong&gt;. These weren’t vague strategy chats. They were real, candid conversations.&lt;/p&gt;
+
+&lt;p&gt;What do we want to see more of? What’s missing? What would we build if we could?&lt;/p&gt;
+
+&lt;p&gt;There were laughs. There were truth bombs. There was hope.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-thoughts&quot;&gt;Final Thoughts&lt;/h2&gt;
+
+&lt;p&gt;Being in the same room with this brilliant, warm-hearted group — brainstorming, laughing, commiserating — reminded me of what we’re really building here.&lt;/p&gt;
+
+&lt;p&gt;Open science is great online, but my advice to any remote team is: &lt;strong&gt;make room for in-person meetups&lt;/strong&gt;, even if it’s just local ones.&lt;/p&gt;
+
+&lt;p&gt;They’re not just about work – but pouring into each other’s cups.&lt;/p&gt;
+
+&lt;p&gt;So here’s to more retreats, more veggie-loaded sandwiches, and more moments that remind us that showing up — fully, vulnerably, and honestly — is more than enough.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+        <link>https://we-are-ols.org//posts/2025/06/04/ols-retreat-debs/</link>
+        <guid isPermaLink="true">https://we-are-ols.org//posts/2025/06/04/ols-retreat-debs/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Strengthening Transparency and Growth: The OLS Governance Report (July-December, 2024)</title>
+        <description>&lt;p&gt;Since being elected in &lt;strong&gt;June 2023&lt;/strong&gt;, the &lt;a href=&quot;/governance.html&quot;&gt;OLS Governance Committee&lt;/a&gt;, has been quietly but actively working behind the 
+scenes—providing oversight, supporting leadership decisions, and helping to steer OLS toward a stronger future.&lt;/p&gt;
+
+&lt;p&gt;Today, we proudly share the latest &lt;strong&gt;Governance Committee Report&lt;/strong&gt;, which covers discussions and reflections 
+from &lt;strong&gt;July through December 2024&lt;/strong&gt;. In it, you’ll find highlights of what’s been going well, where we’re still learning, 
+and the steps we’re taking to make sure OLS remains transparent, inclusive, and ready for the future.&lt;/p&gt;
+
+&lt;p&gt;Over the past six months, the Governance has:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Reflected on OLS’s financial stabilisation and emphasised the need for thoughtful budgeting moving forward&lt;/li&gt;
+  &lt;li&gt;Pushed for clearer leadership roles and succession planning&lt;/li&gt;
+  &lt;li&gt;Helped shape strategies for more sustainable funding and outreach&lt;/li&gt;
+  &lt;li&gt;Prioritised safe spaces, inclusivity, and strong governance processes&lt;/li&gt;
+  &lt;li&gt;Laid the groundwork for recruiting the next generation of Governance Committee members&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This work underscores a crucial truth: governance at OLS is not about bureaucracy—it’s about building a resilient, 
+values-driven organisation where everyone can thrive.&lt;/p&gt;
+
+&lt;p&gt;We invite you to read the &lt;a href=&quot;https://docs.google.com/document/d/1ekt1AZ1IPqfvdp-833Mu72Ce0a30alzp/edit?usp=sharing&amp;amp;ouid=101989895789810384353&amp;amp;rtpof=true&amp;amp;sd=true&quot;&gt;full report&lt;/a&gt; 
+and see how collective leadership is shaping the future of OLS.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enquiries:&lt;/strong&gt;
+For questions or contributions, do reach out to &lt;a href=&quot;mailto:directors@we-are-ols.org&quot;&gt;directors@we-are-ols.org&lt;/a&gt; or connect with any Governance Committee member.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+        <link>https://we-are-ols.org//posts/2025/05/07/ols-governance-report/</link>
+        <guid isPermaLink="true">https://we-are-ols.org//posts/2025/05/07/ols-governance-report/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>From mentee to Resident Fellow: My OLS journey</title>
+        <description>&lt;p&gt;Mentee! Yes, this is how it started 2 years ago as a mentee in &lt;a href=&quot;/openseeds/ols-7/projects-participants.html#projects&quot;&gt;OLS 7&lt;/a&gt;. 
+It was the first time I felt this wasn’t just another course about leadership or developing a project (I ended up building &lt;a href=&quot;https://osc-international.com/osc-egypt/&quot;&gt;Open Science Community Egypt&lt;/a&gt;!), 
+but &lt;strong&gt;a real community where you do have people watching your back.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;What makes OLS a good community is that everyone is very nice and helpful, plus they teach you open principles – values like collaboration, transparency, and community contribution.
+After finishing the program–which has a unique mentoring component that’s a really good advantage–they may ask if you want to become a facilitator, mentor or expert. 
+I did experience the facilitator role, and it was a nice way to get involved with the community.&lt;/p&gt;
+
+&lt;p&gt;Later, about seven months ago, they interviewed me to be a &lt;strong&gt;Resident Fellow for marketing and outreach&lt;/strong&gt;. 
+From this point, I worked more closely with the community. Being part of the core team showed me a different side and a deeper side of OLS!&lt;/p&gt;
+
+&lt;p&gt;At the very beginning, I had an onboarding person in addition to my line manager.
+So, if I was struggling with anything, I had people watching my back–I really liked this point.&lt;/p&gt;
+
+&lt;p&gt;Another advantage of this fellowship is that I collaborated with different and diverse people, plus used many platforms, which made me gain new experience for personal and technical skills.&lt;/p&gt;
+
+&lt;p&gt;As a Resident Fellow for marketing, especially for the Nebula program, I started with a survey to identify the gaps and opportunities to work on. 
+Then, I wrote the marketing plan and applied it to the program marketing campaign.&lt;/p&gt;
+
+&lt;p&gt;The impact and the engagement we had were great, and the feedback and testimonials (Testimonials) we received were stunning and motivated. 
+I also had the chance to experience some of the cohort management tasks like leading a graduation call, facilitating some cohort calls, even leading a workshop to market Nebula’s new cohort.&lt;/p&gt;
+
+&lt;p&gt;Also, being part of a team that lives in different time zones encouraged me to be more flexible and open to collaborating with each other. 
+At the end of my fellowship, there are some things I really appreciate and am glad to have, which are the good friends I gained, the team meetings I enjoyed, 
+and the 1:1 meetings with my manager, &lt;a href=&quot;/people.html#iramosp&quot;&gt;Irene Ramos&lt;/a&gt; and the lovely &lt;a href=&quot;/people.html#npdebs&quot;&gt;Debs&lt;/a&gt; (my onboarding person) who is always checking in on me.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+        <link>https://we-are-ols.org//posts/2025/04/30/from-mentee-to-resident-fellow/</link>
+        <guid isPermaLink="true">https://we-are-ols.org//posts/2025/04/30/from-mentee-to-resident-fellow/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Request for bids: two short-term contracts</title>
+        <description>&lt;p&gt;&lt;strong&gt;UPDATE 2025-05-19: Application period extension&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We have extended the timeline by one additional week. Please submit applications by end of day (anywhere in the world) 26 May 2025. Expect all timelines in the information sheets to be extended by one week to compensate for the extension.&lt;/p&gt;
+
+&lt;p&gt;In addition, please note that contract completion may result in further contracts if the initial consultancy was successful.&lt;/p&gt;
+
+&lt;h2 id=&quot;original-post&quot;&gt;Original post:&lt;/h2&gt;
+
+&lt;p&gt;One of OLS’s key organisational priorities over the next 1-2 years is creating additional organisational stability. We are inviting community members and value-aligned individuals and organisations to pitch for two short-term contracts.&lt;/p&gt;
+
+&lt;p&gt;Each contract is allocated a budget of $5,000 USD.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Contract 1: &lt;strong&gt;marketing and income diversification&lt;/strong&gt;. &lt;a href=&quot;https://docs.google.com/document/d/1nWa1wOoyiSyGu1p3lFqw9XVitvLa6KQXH4v68tHgDG8/edit?tab=t.0&quot;&gt;Requirements information sheet&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Contract 2: &lt;strong&gt;policy consultancy&lt;/strong&gt;. &lt;a href=&quot;https://docs.google.com/document/d/1tV8OZU7kEetqAHSemGfXPnGqFcPHQOkz4-F0jiH0Diw/edit?tab=t.0&quot;&gt;Requirements information sheet&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Both contracts are &lt;strong&gt;open to applications from anywhere in the world&lt;/strong&gt;, although the policy consultancy requires awareness of up-to-date legal regulations in the United Kingdom, so may be more likely to be awarded to someone who is or has lived in the United Kingdom.&lt;/p&gt;
+
+&lt;p&gt;Contracts may be awarded to &lt;strong&gt;organisations or individuals&lt;/strong&gt; who meet the requirements. Applicants may apply for one or both of the contracts; they will be assessed separately.&lt;/p&gt;
+
+&lt;h2 id=&quot;timeline&quot;&gt;Timeline:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Call for bids announced: 2025-04-29&lt;/li&gt;
+  &lt;li&gt;Bids due by: &lt;del&gt;2025-05-19&lt;/del&gt; 2025-05-26 end of day (anywhere in the world)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For the remainder of the timeline and other details, please see the information sheets.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+        <link>https://we-are-ols.org//posts/2025/04/29/consultancy-short-term-two-contracts/</link>
+        <guid isPermaLink="true">https://we-are-ols.org//posts/2025/04/29/consultancy-short-term-two-contracts/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>OLS Organisational Values: Draft is Open for Community Review</title>
+        <description>&lt;h1 id=&quot;seeking-feedback-from-our-community-members-on-proposed-organisational-values-your-perspective-matters&quot;&gt;Seeking Feedback from Our Community Members on Proposed Organisational Values: Your Perspective Matters!&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Note: The feedback phase has concluded, and a page is published on the OLS website: http://we-are-ols.org/ols-values. You are very welcome to still comment by creating an issue on this repository or by reaching out to the OLS team by email: team@we-are-ols.org.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;At OLS, our community is at the heart of everything we do.
+To ensure our core principles reflect and represent the collective vision and aspirations of our members, we are delighted to share the revised &lt;strong&gt;draft of our Organisational Values&lt;/strong&gt;, which is now open for community review!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Community Review Period runs throughout April and May 2025, with the last day for comments being 30th May 2025.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;The current version of the OLS’s values draft was developed through discussions and internal reviews from the OLS Team and our Governance Advisory Committee in 2023 and 2024.
+We have taken the time to reflect on what defines OLS since our launch in 2020, and how we want to operate as a community-driven organisation over the coming years.&lt;/p&gt;
+
+&lt;p&gt;Now, we’re opening the draft for community review via a Google Document - &lt;a href=&quot;https://docs.google.com/document/d/1SeAqomXt_ZrTYUQydOmqLgnI8tGxtCpr22Wu9xm5Y9g/edit?tab=t.0&quot;&gt;draft in comment mode here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We have also shared details on the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ols-governance&lt;/code&gt; GitHub Repository (&lt;a href=&quot;https://github.com/open-life-science/ols-governance/issues/12&quot;&gt;issue #12&lt;/a&gt;), where all comments will be summarised periodically before a final draft is merged.&lt;/p&gt;
+
+&lt;h3 id=&quot;who-is-in-our-community&quot;&gt;Who is in our community&lt;/h3&gt;
+
+&lt;p&gt;Our community members include Open Seeds and Nebula fellows, mentors, experts, and collaborators of the OLS community.
+Your perspective is integral to shaping the foundational values of OLS that will guide the work of everyone involved.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-share-your-feedback&quot;&gt;How to Share Your Feedback&lt;/h2&gt;
+
+&lt;p&gt;We’ve made it easy for you to contribute to the draft directly via a Google Document.
+Please access the &lt;a href=&quot;https://docs.google.com/document/d/1SeAqomXt_ZrTYUQydOmqLgnI8tGxtCpr22Wu9xm5Y9g/edit?tab=t.0&quot;&gt;draft in comment mode here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You can suggest edits, leave new comments, or respond to other comments.
+If you prefer using GitHub, you can directly leave your comments on the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ols-governance&lt;/code&gt; GitHub Repository (&lt;a href=&quot;https://github.com/open-life-science/ols-governance/issues/12&quot;&gt;issue #12&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2 id=&quot;review-timeline&quot;&gt;Review Timeline&lt;/h2&gt;
+
+&lt;p&gt;Here’s a breakdown of the review process and important dates to keep in mind:&lt;/p&gt;
+
+&lt;h3 id=&quot;preparation-and-announcement-before-7th-april&quot;&gt;Preparation and Announcement (Before 7th April)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;OLS leadership has finalised the Draft with approval from our governance committee.&lt;/li&gt;
+  &lt;li&gt;Feedback will be collected via the Google Doc and summarised on a GitHub issue (linked to this post).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;This announcement marks the start of the Community Review Period!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;community-review-period-april---may-2025---deadline-30th-may&quot;&gt;Community Review Period (April - May 2025 - Deadline: 30th May)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We will actively monitor the Google Document for your initial questions and comments, and share them on the GitHub issue linked to this post. Your feedback through these channels will be really helpful.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mid-Review Check-in (End of April 2025):&lt;/strong&gt; We will summarise the feedback received up to this point, address common themes, and assess if any additional support is needed.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Final Feedback Push (Leading up to 30th May):&lt;/strong&gt; We will send out reminders as the deadline approaches.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Deadline for Comments: Friday, 30th May 2025.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;analysis-and-revision-1-2-weeks-after-30th-may&quot;&gt;Analysis and Revision (1-2 Weeks after 30th May)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We will carefully compile and analyse all the feedback we receive from our community.&lt;/li&gt;
+  &lt;li&gt;Key themes, suggestions, and concerns will be identified and addressed.&lt;/li&gt;
+  &lt;li&gt;The values document will be revised based on your input, considering the impact and feasibility of suggestions.&lt;/li&gt;
+  &lt;li&gt;All changes made will be documented, along with the reasoning behind them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;The final version of the values document will be approved by the OLS team and the Governance Committee.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;communication-and-implementation&quot;&gt;Communication and Implementation&lt;/h3&gt;
+
+&lt;p&gt;The finalised organisational values will be communicated back to the community, accompanied by a summary of the feedback we received and the resulting changes. We will then operationalise and implement these values across all aspects of OLS.&lt;/p&gt;
+
+&lt;h2 id=&quot;join-us-in-finalising-our-shared-values&quot;&gt;Join us in finalising our shared values!&lt;/h2&gt;
+
+&lt;p&gt;We encourage and welcome your contributions to the values draft and invite engagement in this review process.
+Your participation will help us shape the guiding values for OLS!&lt;/p&gt;
+
+&lt;p&gt;If you have any immediate questions, please don’t hesitate to reach out to OLS directors by emailing &lt;a href=&quot;mailto:directors@we-are-ols.org&quot;&gt;directors@we-are-ols.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+        <link>https://we-are-ols.org//posts/2025/04/03/ols-values-draft-for-review/</link>
+        <guid isPermaLink="true">https://we-are-ols.org//posts/2025/04/03/ols-values-draft-for-review/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Job vacancy - OLS Research Fellow</title>
+        <description>&lt;h1 id=&quot;role-ols-research-fellow---research-funding-ecosystem&quot;&gt;Role: OLS Research Fellow - Research Funding Ecosystem&lt;/h1&gt;
+
+&lt;p&gt;OLS is offering an exciting opportunity for a &lt;strong&gt;one-year, fixed-term Research Fellowship&lt;/strong&gt; position titled &lt;strong&gt;OLS Research Fellow - Research Funding Ecosystem&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Location: Remote&lt;/li&gt;
+  &lt;li&gt;Total budget:
+    &lt;ul&gt;
+      &lt;li&gt;UK Salary: GBP 23,500 per annum for a 60% role.&lt;/li&gt;
+      &lt;li&gt;Contractors (outside the UK): USD 33,400.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Deadline for application: 15 April 2025&lt;/li&gt;
+  &lt;li&gt;Email your CV and Cover Letter to &lt;a href=&quot;mailto:jobs@we-are-ols.org&quot;&gt;jobs@we-are-ols.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;about-the-opportunity&quot;&gt;About the Opportunity&lt;/h2&gt;
+
+&lt;p&gt;This fellowship is embedded within a newly funded project focused on research and curriculum development aimed at improving the current understanding of the global research funding landscape. The OLS Research Fellow will play a crucial role in contributing to this project by joining the project delivery team.&lt;/p&gt;
+
+&lt;h3 id=&quot;about-ols&quot;&gt;About OLS&lt;/h3&gt;
+
+&lt;p&gt;OLS (Open Life Science) is a not-for-profit organisation dedicated to fostering open science practices in research. Through training and mentoring of researchers, community building and research-based improvement in open science, we aim to foster a more equitable and accessible research ecosystem.&lt;/p&gt;
+
+&lt;p&gt;This research fellowship position offers a unique opportunity to work with the OLS team while engaging in impactful research and contributing to the development of resources within the research ecosystem.&lt;/p&gt;
+
+&lt;h2 id=&quot;eligibility&quot;&gt;Eligibility&lt;/h2&gt;
+
+&lt;p&gt;This fellowship is open to individuals within the OLS community, encompassing Open Seeds and Nebula fellows, mentors, and experts.
+A strong understanding and existing familiarity with the OLS community’s values, workflows, and network will benefit candidates and the OLS team, leading to a more efficient and impactful fellowship experience.&lt;/p&gt;
+
+&lt;p&gt;Key responsibilities and qualifications required for the role are described below.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;The deadline for submitting your CV and a cover letter is 15 April 2025.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;key-responsibilities&quot;&gt;Key Responsibilities:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Map the needs and assets associated with research funding and project sustainability, with a focus on the global research community and access for groups underrepresented in research, including researchers in Low- and Middle-Income Countries.&lt;/li&gt;
+  &lt;li&gt;Collect information on funding mechanisms and grant opportunities aligned with our project goals.&lt;/li&gt;
+  &lt;li&gt;Conduct short-term quantitative and qualitative work to gather insights into the specific challenges and opportunities for researchers in different geographical contexts.&lt;/li&gt;
+  &lt;li&gt;Identify and engage with successful open science leaders, funders and initiatives that can contribute to our project goals.&lt;/li&gt;
+  &lt;li&gt;Design and facilitate participatory workshops and surveys to collect expertise and insights related to the research funding ecosystem.&lt;/li&gt;
+  &lt;li&gt;Track their progress, maintain resources developed in this project and create reports to share insights with the team regularly.&lt;/li&gt;
+  &lt;li&gt;Work with another &lt;em&gt;Research Fellow for Curriculum Development&lt;/em&gt; regularly to share knowledge, practices and general feedback on each other’s work.&lt;/li&gt;
+  &lt;li&gt;Collaborate with the Finance Manager to design and iterate on the &lt;a href=&quot;https://we-are-ols.org/open-incubator/fiscal-hosting/&quot;&gt;Fiscally Sponsored Community&lt;/a&gt; processes and requirements.&lt;/li&gt;
+  &lt;li&gt;Most importantly, find opportunities for collaboration and aligning their work, avoiding duplication of efforts and improving the use of shared opportunities.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;general-expectations&quot;&gt;General expectations:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Integrate open science practices and community engagement practices (FAIR principles, open collaboration, open-source software) into training resources.&lt;/li&gt;
+  &lt;li&gt;Attend selected conferences (in person or online) to connect with key stakeholders and build collaboration through their work&lt;/li&gt;
+  &lt;li&gt;Develop assessment criteria, tools and mechanisms for their project to keep information up to date.&lt;/li&gt;
+  &lt;li&gt;Collaborate with the OLS team to translate outputs from their work to inform other project activities.&lt;/li&gt;
+  &lt;li&gt;Openly communicate their work and engage OLS community members where possible and appropriate.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;general-and-role-specific-qualifications&quot;&gt;General and Role-Specific Qualifications&lt;/h2&gt;
+
+&lt;h3 id=&quot;general-qualifications&quot;&gt;General Qualifications:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Master’s or PhD in any discipline involving research data analysis, or equivalent relevant experience.&lt;/li&gt;
+  &lt;li&gt;Excellent communication and collaboration skills.&lt;/li&gt;
+  &lt;li&gt;Active open science advocacy to promote open science/source practices, including reproducibility, FAIR principles and research best practices.&lt;/li&gt;
+  &lt;li&gt;Experience in community organising and social engagement, and understanding of participatory research methodologies.&lt;/li&gt;
+  &lt;li&gt;Understanding of mixed method approach and some experience working with quantitative and/or qualitative research data.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;role-specific-qualification&quot;&gt;Role-Specific Qualification:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Understanding of the needs, opportunities, and considerations when working with underrepresented communities, especially in LMICs.&lt;/li&gt;
+  &lt;li&gt;Background working in research administration, project/grant management and/or international collaborative projects with multiple stakeholders.&lt;/li&gt;
+  &lt;li&gt;Knowledge of funding mechanisms and grant opportunities in research. Knowledge of funding systems in health and biological sciences will be a plus.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-to-apply&quot;&gt;How to Apply&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Application should be submitted by emailing a CV and a cover letter to &lt;a href=&quot;mailto:jobs@we-are-ols.org&quot;&gt;jobs@we-are-ols.org&lt;/a&gt; by 15 April&lt;/strong&gt;, midnight anywhere in the world.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;A short resume or CV should highlight &lt;strong&gt;“General Qualifications”&lt;/strong&gt; listed above&lt;/li&gt;
+  &lt;li&gt;A cover letter (1-2 pages max) that addresses your relevant background and experience highlighting &lt;strong&gt;“Role-Specific Qualification”&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Please include examples from 1-2 projects you have worked on&lt;/li&gt;
+      &lt;li&gt;Make sure to include your approaches to open working and resource-sharing&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Provide links to projects and/or openly published resources&lt;/strong&gt; that you have developed either on your own or in collaboration with other contributors&lt;/li&gt;
+      &lt;li&gt;Also state personal strengths/skills that you’d like to build in this role&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;benefits-and-salary&quot;&gt;Benefits and salary&lt;/h2&gt;
+
+&lt;p&gt;This role has been allocated an overall budget of &lt;strong&gt;USD 33,400 for 12 months.&lt;/strong&gt; Contractors (outside the UK) will receive the full amount, which includes a 15% uplift for independently managed taxes, pensions, and benefits. UK-based applicants’ tax, NI, and benefits are handled as part of our PAYE system and will receive approximately GBP 23,500 per annum.&lt;/p&gt;
+
+&lt;p&gt;In addition to the stipend, the fellow will have access to the organisation’s infrastructure, leadership coaching, and our global community of individuals and organisations promoting open science in research.&lt;/p&gt;
+
+&lt;p&gt;The successful candidate will have the opportunity to discuss their availability, weekly hours in this role and preferences with the OLS team after the selection process.&lt;/p&gt;
+
+&lt;p&gt;If the successful candidate has the right to work in the UK and is based in the UK (where OLS is registered as a company), we will offer:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Employment status currently calculated for 60% Full-Time Equivalent in OLS&lt;/li&gt;
+  &lt;li&gt;30 days of annual leave, plus Bank Holidays or a local cultural/national equivalent.&lt;/li&gt;
+  &lt;li&gt;5% employer pension contributions.&lt;/li&gt;
+  &lt;li&gt;Private healthcare plan&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If the successful candidate is based outside the UK, we will work to offer the best equivalent options available in compliance with local and international labour laws, or equivalent pay as a contractor to allow these benefits to be purchased locally.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Flexible working location and hours:&lt;/strong&gt; OLS is committed to providing a nurturing and flexible work environment. This position offers fully remote work. While we maintain flexibility, we request that your working hours include an overlap of at least 2 hours with the UK/Europe-based OLS leadership team. Please be advised that non-UK applicants will be hired as contractors and will be responsible for their own tax and benefits arrangements.&lt;/p&gt;
+
+&lt;h2 id=&quot;evaluation-and-selection-process&quot;&gt;Evaluation and selection process:&lt;/h2&gt;
+
+&lt;h3 id=&quot;stage-1-cv-and-cover-letter-review&quot;&gt;Stage 1: &lt;em&gt;CV and cover letter review&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;The first stage review and selection of the applicants based on their CV and cover letter reflecting their potential to fill this role&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Each application will be scored for meeting general and role-specific qualifications&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The project team will review applications to determine which ones meet the criteria.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Scoring System:&lt;/strong&gt; 0: Criteria not met, 1: Criteria partly met, 2: Criteria fully met&lt;/p&gt;
+
+&lt;h3 id=&quot;stage-2-written-follow-up&quot;&gt;Stage 2: &lt;em&gt;Written follow-up&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;The second stage will require shortlisted applicants to describe their approach to delivering on responsibilities, with this description reflecting their understanding of the role’s opportunities and challenges.&lt;/p&gt;
+
+&lt;h3 id=&quot;stage-3-interview-conducted-in-english&quot;&gt;Stage 3: &lt;em&gt;Interview conducted in English&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;The third stage will consist of a short interview (30-40 minutes) with the OLS team, followed by informal discussions to select the most suitable candidate for this role.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;The earliest start for the successful candidate in this role will be in June 2025.  Exceptions can be discussed at the appointment stage.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;contact&quot;&gt;&lt;strong&gt;Contact:&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;For any further information or inquiries, please contact &lt;a href=&quot;mailto:jobs@we-are-ols.org&quot;&gt;jobs@we-are-ols.org&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;OLS celebrates diversity and is committed to creating a safe and inclusive environment for all employees. If you feel that the description of this role does not match up to the commitment to these ideals, please let us know via &lt;a href=&quot;mailto:jobs@we-are-ols.org&quot;&gt;jobs@we-are-ols.org&lt;/a&gt;, or contact the OLS directors directly &lt;a href=&quot;mailto:directors@we-are-ols.org&quot;&gt;directors@we-are-ols.org&lt;/a&gt;. The OLS Code of Conduct can be found here: &lt;a href=&quot;https://we-are-ols.org/code-of-conduct&quot;&gt;https://we-are-ols.org/code-of-conduct&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+        <link>https://we-are-ols.org//posts/2025/03/27/research-fellow-role/</link>
+        <guid isPermaLink="true">https://we-are-ols.org//posts/2025/03/27/research-fellow-role/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>My FOSS Backstage 2025 Experience</title>
+        <description>&lt;h2 id=&quot;day-1-waving-through-awindow&quot;&gt;Day 1: Waving Through a Window&lt;/h2&gt;
+&lt;p&gt;Attending &lt;a href=&quot;https://25.foss-backstage.de/&quot;&gt;FOSS Backstage&lt;/a&gt; online was a contrast to my past virtual conference experiences, especially compared to the highly engaging &lt;a href=&quot;https://www.software.ac.uk/workshop/collaborations-workshop-2025-cw25&quot;&gt;Collaborations Workshop&lt;/a&gt;. 
+There was no opportunity to ask speakers questions directly, no intentional networking efforts, and little to differentiate attending live from simply waiting for the recordings to be released.
+While the platform itself was user-friendly and easy to navigate, the nature of the talks further contributed to my sense of disconnection. 
+&lt;em&gt;Legal &amp;amp; Compliance, Economics, Governance&lt;/em&gt; - these topics, while critical to open source, are not my usual focus. As a result, much of the content went over my head. 
+To make matters worse, scheduling conflicts meant I missed some talks I had been looking forward to.&lt;/p&gt;
+
+&lt;h2 id=&quot;day-2-finding-mytribe&quot;&gt;Day 2: Finding my Tribe!&lt;/h2&gt;
+&lt;p&gt;Despite the continued lack of online engagement, the quality of talks on Day 2 completely made up for my initial disappointment. 
+The sessions were rich, insightful, and deeply resonant.&lt;/p&gt;
+
+&lt;h3 id=&quot;anatomy-of-an-open-internship-program-how-we-run-outreachy-anna-esó&quot;&gt;Anatomy of an Open Internship Program: How We Run Outreachy - Anna e só&lt;/h3&gt;
+&lt;p&gt;Every time I hear Anna speak, compassion absolutely shines through. Outreachy has run for 15+ years, overcoming numerous challenges, and Anna’s words help me see into the heart that has sustained it.
+A key discussion point was why some organisations continue to return as Outreachy partners. Anna explained that many long-standing partners recognise their privilege and use it to bring others into FOSS. Past interns also return as mentors, giving back to the community that helped them grow.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“I want them [Outreachy interns] to succeed even more than I have…”&lt;/em&gt; - these words will keep resounding for a long time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1280/1*LnfM4wFzXLcWYKY8XuAdIg.png&quot; alt=&quot;An individual wearing a facemask presents a talk, with slides displayed on the right. The words on the current slide describe the Phases of Outreachy and what constitutes a program cycle.&quot; style=&quot;max-width: 80%; max-height: 600px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The session was further enriched by the moderator in the bUm Box room, who shared how being an Outreachy mentor had deeply enriched his experience as a developer.&lt;/p&gt;
+
+&lt;h3 id=&quot;bridging-the-gap-between-designers--open-source-communities-nina-rojc-leia-ruffini-and-kolaojoodide&quot;&gt;Bridging the Gap Between Designers &amp;amp; Open Source Communities - Nina Rojc, Leia Ruffini, and Kola Ojoodide&lt;/h3&gt;
+&lt;p&gt;This talk addressed several long-standing questions I’ve had, such as:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Why aren’t there more open source designers?&lt;/li&gt;
+  &lt;li&gt;If they exist, why aren’t they more visible?&lt;/li&gt;
+  &lt;li&gt;What prevents designers from contributing to Open Source?&lt;/li&gt;
+  &lt;li&gt;How can we balance creative expression with design guidelines?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The speakers emphasised the role of clear contribution guidelines and diplomacy in managing diverse ideas within open source projects. A structured process helps create space for creativity while maintaining coherence.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/24b13583-e778-428e-bdec-7d8e4ffb9245&quot; alt=&quot;Screenshot of a virtual talk at FOSS Backstage. On the left, some obstacles for design contributions are listed and on the right, are 4 squares containing 3 presenters and an audience.&quot; style=&quot;max-width: 80%; max-height: 600px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(Side note: Kola has a very soothing voice!)&lt;/p&gt;
+
+&lt;h3 id=&quot;tokenism-in-open-source-diversity-or-decoration-maryblessing-okolie--ijeomaonwuka&quot;&gt;Tokenism in Open Source: Diversity or Decoration? - Maryblessing Okolie &amp;amp; Ijeoma Onwuka&lt;/h3&gt;
+&lt;p&gt;Ijeoma flew 17 hours from Nigeria to Berlin to deliver her first international talk - while also professing her love for K-dramas! 
+Meanwhile, Maryblessing joined virtually. Their discussion on tokenism in open source hit close to home, especially since I personally experienced it this week (more on that in another post, perhaps).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/a5470ee2-9d9b-4d09-b3c4-f851c332dc2d&quot; alt=&quot;A black woman wearing a two-piece outfit made from traditional African prints, presents a talk, with slides displayed on the right. The words on the current slide are &amp;quot;please do not do DEl out of pity or checking a box. think of DEl as giving opportunities to groups of people with great abilities that would otherwise not have access to that opportunity.&amp;quot;&quot; style=&quot;max-width: 80%; max-height: 600px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;They challenged organisations to move beyond merely showcasing diversity in marketing materials and instead &lt;strong&gt;create genuine pathways to leadership for marginalised individuals&lt;/strong&gt;. 
+Their call to action? &lt;strong&gt;Design for everyone, enforce Codes of Conduct, improve accessibility, and build inclusive practices&lt;/strong&gt;. 
+This resonated deeply, especially as I am currently conducting an accessibility review for my organisation’s &lt;a href=&quot;https://we-are-ols.org/&quot;&gt;website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;right-to-left-left-to-right-rethinking-multilingual-design-batool-almarzouq-goodnews-sunday-sandy-and-richiemoluno&quot;&gt;Right-to-Left, Left-to-Right: Rethinking Multilingual Design - Batool Almarzouq, Goodnews Sunday Sandy and Richie Moluno&lt;/h3&gt;
+&lt;p&gt;Many software systems fail to support Right-to-Left (RTL) languages like Arabic, creating barriers for millions of users. 
+The speakers shared their experiences designing “&lt;strong&gt;Open Science MOOCs&lt;/strong&gt;“ - a multilingual platform with videos, quizzes, and RTL-friendly design.
+The discussion highlighted key UX challenges, such as how navigation arrows, horizontal progress bars, and even emojis can be misinterpreted by RTL users. 
+The takeaway? Designing for inclusivity means considering diverse reading directions and user habits from the start.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/7c74df97-7c25-477c-8544-a19fd7d0bc99&quot; alt=&quot;Screenshot of a virtual talk at FOSS Backstage, titled &amp;quot;Right-to-Left, Left-to-Right: Rethinking Multilingual Design.&amp;quot; This is delivered by three (3) speakers, each shown in a small square to the right of the slides being presented. The speakers are Batool Almarzouq, Goodnews Sandy and Richie Moluno.&quot; style=&quot;max-width: 80%; max-height: 600px;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;empowering-african-communities-using-open-source-joseph-zikusooka&quot;&gt;Empowering African Communities Using Open Source - Joseph Zikusooka&lt;/h3&gt;
+&lt;p&gt;Joseph highlighted areas where FOSS can drive impact in Africa: health, research, education, agriculture, tourism, startups, and environmental initiatives. 
+He also pointed out the challenges Africans face in getting into open source, such as high internet costs, poor connectivity, and frequent power cuts. 
+The keys to empowering African communities include support, engagement, partnerships, certification, and incubation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/863ca449-44aa-4f22-af46-aad018b87e89&quot; alt=&quot;Screenshot of a virtual talk at FOSS Backstage. On the left, a slide contains these words: &amp;quot;FOSS in Africa: Why is adoption low? Lack of awareness and motivation. Prestige using proprietary software. Vendor lock-in especially Government. Few certified / skilled open source professionals. Software piracy. Fragmented FOSS communities.&amp;quot; On the right, are 2 squares containing an audience, and the profile photo of a presenter.&quot; style=&quot;max-width: 80%; max-height: 600px;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;open-design-guide-christoph-ono--eriolfox&quot;&gt;Open Design Guide - Christoph Ono &amp;amp; Eriol Fox&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://opendesign.guide&quot;&gt;The Open Design Guide&lt;/a&gt; is &lt;strong&gt;12 chapters&lt;/strong&gt; of wisdom, and serves as a &lt;strong&gt;bridge for designers entering open source&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/92d99b56-9c6d-4de1-bbce-626db93e68fa&quot; alt=&quot;An individual wearing a black t-shirt, presents a talk, with slides displayed on the right. The current slide samples Chapter 2 of the Design Guide, titled &amp;quot;The Designer&apos;s Role.&amp;quot;&quot; style=&quot;max-width: 80%; max-height: 600px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;One thing that stood out for me was how they acknowledged the role of GenAI in the guide’s development, while admitting its limitations. 
+I particularly loved the idea of a reading club and plan to borrow this for my &lt;a href=&quot;https://npdebs.github.io/Pre-seeds-Program/&quot;&gt;Research 101 course&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h3 id=&quot;beyond-words-crafting-user-friendly-documentation-zainabdaodu&quot;&gt;Beyond Words: Crafting User-Friendly Documentation - Zainab Daodu&lt;/h3&gt;
+&lt;p&gt;This was a fantastic, practical talk on documentation, born out of a wealth of experience! Some key lessons (in bullet points, to make Zainab proud):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Structure content logically to enhance usability.&lt;/li&gt;
+  &lt;li&gt;Use clear, concise and &lt;strong&gt;simple&lt;/strong&gt; language to simplify technical details.&lt;/li&gt;
+  &lt;li&gt;Incorporate visuals - diagrams, flowcharts, screenshots - to aid understanding.&lt;/li&gt;
+  &lt;li&gt;Establish feedback loops for continuous documentation improvement (i.e. incorporate frequently asked questions into the docs).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/f60bc869-4167-4c7f-a880-60ff29f68263&quot; alt=&quot;Screenshot of a virtual talk on proper documentation. This is delivered by a speaker, shown in a small square to the right of the slides being presented. The speaker, Zainab, is a black female in a red top.&quot; style=&quot;max-width: 80%; max-height: 600px;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;relationship-problems-in-open-source-shauna-gordon-mckeon&quot;&gt;Relationship Problems in Open Source - Shauna Gordon-McKeon&lt;/h3&gt;
+&lt;p&gt;Shauna identified some challenges in FOSS - burnout, onboarding difficulties, funding issues, and bad User Experience. The solution? Strong relationships.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When we build personal connections, contributors and users stop being abstract figures and become real people we care about.&lt;/strong&gt; 
+The 5’Cs in relationship-building: &lt;strong&gt;Clarify, Connect, Communicate, Conflict, Commit&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/a69e53c1-7d9c-4e49-9be1-edbb2c2a647d&quot; alt=&quot;Screenshot of a virtual talk on &amp;quot;Relationship Problems in Open Source.&amp;quot; This is delivered by a speaker, Shauna, shown in a small square to the right of the slides being presented.&quot; style=&quot;max-width: 80%; max-height: 600px;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;honestly&quot;&gt;Honestly…&lt;/h2&gt;
+&lt;p&gt;…the highlight of my FOSS Backstage experience was &lt;strong&gt;seeing my sisters shine&lt;/strong&gt;! I hope to see even more underrepresented voices given platforms to speak in the future.&lt;/p&gt;
+
+&lt;p&gt;I’m eagerly looking forward to the recordings being released at the end of the week so I can catch:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;More Hearts than Stars: Smart Charging &amp;amp; Community Funding - Michael Geers&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;OSPOs for Good! Achieving the UN SDGs with Open Source - Panel Discussion&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Abundant with Life: Docs Beyond the Wall - Andrea Kao&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Commit to Inclusion: Building Better Open Source Culture - Ashley Sametz&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Building Open Digital Infrastructures for Public Health - Bianca Kastl&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Despite the slow start, FOSS Backstage 2025 ended on a high note. What I would do differently next time is be there in-person next time!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+        <link>https://we-are-ols.org//posts/2025/03/13/my-FOSS-backstage-experience/</link>
+        <guid isPermaLink="true">https://we-are-ols.org//posts/2025/03/13/my-FOSS-backstage-experience/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
