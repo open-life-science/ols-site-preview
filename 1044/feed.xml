@@ -6,9 +6,128 @@
 </description>
     <link>https://we-are-ols.org//</link>
     <atom:link href="https://we-are-ols.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 Jul 2025 13:34:39 +0000</pubDate>
-    <lastBuildDate>Wed, 30 Jul 2025 13:34:39 +0000</lastBuildDate>
+    <pubDate>Thu, 07 Aug 2025 03:12:45 +0000</pubDate>
+    <lastBuildDate>Thu, 07 Aug 2025 03:12:45 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Honest reflections on running Open Neuroseeds</title>
+        <description>&lt;p&gt;&lt;em&gt;And, why I am still in love with Open Science!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;/people.html#saravilla&quot;&gt;Sara Villa&lt;/a&gt;, Senior Resident fellow - Open Neuroseeds coordinator&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;When I started my journey as a learner in &lt;a href=&quot;https://we-are-ols.org/&quot;&gt;OLS&lt;/a&gt; in 2021, I would have never guessed that I’d be working WITH the team implementing my own training cohort at King’s College London. &lt;br /&gt;
+But I guess that’s the point of dreaming big…you can actually get high enough!!&lt;/p&gt;
+
+&lt;p&gt;Open Neuroseeds is my attempt to bring all that I love and learned about open science to my own academic research community, versioning the &lt;a href=&quot;/openseeds/&quot;&gt;Open Seeds&lt;/a&gt; format to fit requirements (learning objectives, schedules, funding, etc). 
+In this blog, I will share how I started the programme, lessons learned along the way, and most importantly, successful outcomes from it!&lt;/p&gt;
+
+&lt;p&gt;What looked like a crazy idea in the beginning, started to look like a very obvious step last year after having participated in several Open Seeds cohorts and having given several talks to promote open science within my department (&lt;a href=&quot;https://www.kcl.ac.uk/neuroscience/about/departments/wolfson&quot;&gt;Wolfson SPaRC, KCL&lt;/a&gt;) and others. 
+Being awarded a Research Culture award from King’s College London was the final push that put everything in motion. And like that, we organised Open Neuroseeds from February to June 2025.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-it-started-plans-and-fears&quot;&gt;How it started: plans and fears&lt;/h2&gt;
+
+&lt;p&gt;Starting Open NeuroSeeds was seemingly easy, I had some funding to run it and it would involve doing a version of a programme I knew and loved very well, Open Seeds. &lt;br /&gt;
+However, funds were still a bit tight and came with a deadline, so I had to recruit rather quickly and with not many communications strategies in place.&lt;/p&gt;
+
+&lt;p&gt;In order to get more participants, I opened the expression of interest for the whole School of Neuroscience and we successfully involved 10 different participants. 
+We have quite a diverse representation of research levels (from undergraduate students to PI level), but I didn’t manage to get people from professional services (one of my main goals). 
+People selected were also very diverse in their open science knowledge. Some applications included very well thought projects to work on during the mentoring part of the programme, while some applicants didn’t join with a project. 
+Since this was the first approach to open science to this type of academic setting, I’d decided to include everyone in this pilot cohort, to learn from all different perspectives. &lt;br /&gt;
+This last decision was one of the first ‘hiccups’ I encountered: coordinating this programme also involved recruiting mentors and experts, mainly from the OLS community, who had been involved in other cohorts. 
+Of course, their expectations were similar to their experiences in the past, and I underestimated the orientation needed to adjust materials to a new domain, and that participants would need extra guidance. 
+An important &lt;strong&gt;lesson learned&lt;/strong&gt; for the next iteration: regularly communicate with all participants to establish clear expectations! &lt;br /&gt;
+Needless to say, everyone adapted quite quickly and the miscommunications were solved fast enough for people to get on with their mentors and their projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/aaffe2b7-0b9b-45e5-897f-256af69c70a8&quot; alt=&quot;Screenshot of a zoom meeting with a grid of 8 people on the right, and sides projected on the left.&quot; style=&quot;max-width: 70%; max-height: 500px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;During the training weeks, we had 5 different experts to come and introduce Open Concepts, curated from previous Open Seeds lessons. The topics chosen were:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Open data&lt;/strong&gt; led by &lt;a href=&quot;https://experts.griffith.edu.au/42874-shern-tee&quot;&gt;Shern Tee&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Open Project management&lt;/strong&gt; led by &lt;a href=&quot;https://www.linkedin.com/in/ariellebennett&quot;&gt;Arielle Bennet&lt;/a&gt; - &lt;a href=&quot;https://doi.org/10.5281/zenodo.15125211&quot;&gt;See publication&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Open community management&lt;/strong&gt; led by &lt;a href=&quot;https://www.aleesteele.com/&quot;&gt;Anne Lee Steele&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://zenodo.org/records/15006451&quot;&gt;See publication&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Open tools&lt;/strong&gt; led by &lt;a href=&quot;https://ke.linkedin.com/in/pauline-karega-20b72a145&quot;&gt;Pauline Karega&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Open software and hardware&lt;/strong&gt; led by &lt;a href=&quot;https://de.linkedin.com/in/colombjulien&quot;&gt;Julien Colomb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These experts were invited from OLS and The Turing Way community to share general concepts and working examples from their projects involving open science. 
+As reflected in the feedback (shared below), our participants really appreciated their presentations and support during the programme.&lt;/p&gt;
+
+&lt;p&gt;One of my main goals was to deliver a more context-specific training in neuroscience. I can see an opportunity to curate domain-specific examples together with trainers. 
+Although it was challenging to identify neuroscience-specific experts under tight deadlines, this could be implemented for the next iterations.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-it-concluded&quot;&gt;How it concluded&lt;/h2&gt;
+
+&lt;p&gt;I can proudly say that this was an amazing experience working with the participants, and I was blown away on graduation day. 
+The participants were very engaged, plans for their projects were bold, well thought, and some of them even already being implemented. 
+You can check the presentations on our &lt;a href=&quot;https://zenodo.org/communities/openlifesci/records?q=&amp;amp;l=list&amp;amp;p=1&amp;amp;s=10&amp;amp;sort=newest&quot;&gt;Zenodo community&lt;/a&gt; and check for yourself! 
+&lt;strong&gt;Final graduates and projects list&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hannah Mcconchie: &lt;a href=&quot;https://doi.org/10.5281/zenodo.15470675&quot;&gt;Breaking Barriers: an Open Science Approach to Cross-Sector Collaboration in Neuroscience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Rita Moura: &lt;a href=&quot;https://doi.org/10.5281/zenodo.15882695&quot;&gt;Chiasma: a space for those who see science as political&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Zahra Laouby: &lt;a href=&quot;https://doi.org/10.5281/zenodo.15656467&quot;&gt;The open bench notes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Busra Mutlu Ipek: &lt;a href=&quot;https://doi.org/10.5281/zenodo.15674180&quot;&gt;Integrating Open Science into an Interdisciplinary Project on AI-Driven Neurotechnology and Responsibility&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Joseph Allison: &lt;a href=&quot;https://doi.org/10.5281/zenodo.15631356&quot;&gt;Using existing platforms to improve technical awareness and promote Open Science&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Alina Cristina Marin: &lt;a href=&quot;https://doi.org/10.5281/zenodo.15630919&quot;&gt;FAIR code for in vivo calcium imaging analysis in mouse models of pain&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Patricia Garcez: &lt;a href=&quot;https://doi.org/10.5281/zenodo.15705149&quot;&gt;Designing Open Science-Driven Assessment for Neuroscience Students&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Bahar Azizkhani: &lt;a href=&quot;https://doi.org/10.5281/zenodo.16687416&quot;&gt;Open NeuroSeeds&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/32f58247-ec1f-4c0e-8392-e71efa656b7f&quot; alt=&quot;Screenshot of a zoom meeting with 8 people smiling while sharing their Open neuroseeds project. from left to right, up to down we can see Joe, Sara, Busra, Zahra, Yo, Rita, Alina and Arielle.&quot; style=&quot;max-width: 70%; max-height: 500px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Some of the feedback was:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;The calls were all amazing. The presentations were well thought through and probably useful for people coming in from multiple levels. I was familiar with some of the topics and was a bit worried it would be a “waste of time”. It was not. All of the talks worked both as introduction and as deep dives into the topics. Congratulations to all presenters!&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;My training experience was truly amazing. The structured approach and insightful courses guided me towards new collaborations and innovative interdisciplinary projects.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;It was a really helpful experience in helping me to think beyond just a problem and how to look for opportunities to expand into other initiatives such as open science and creating platforms for such.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;That was an unforgettable journey for me to focus on interdisciplinary studies, collaborating with people who are from different fields. I truly appreciate it, and hearty thanks to the Open Seeds Program.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;I learned how critical accessibility and community is if you want research to make a real difference.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I am chuffed to say that participants were as happy as me, and that this pilot cohort has been a success!&lt;/p&gt;
+
+&lt;p&gt;One of the big surprises was the feedback received when asked which part was their favourite and 2 related things were pointed out: the favourite training session was the one delivered by Anne Lee Steele on &lt;strong&gt;Open Community Management&lt;/strong&gt;, 
+and the best moments for almost every participant were the discussions in the breakout rooms during the training calls.&lt;/p&gt;
+
+&lt;p&gt;Of course, I might be biased, but as a researcher,  I interpret these findings (within what I know was a small cohort), as an &lt;strong&gt;emerging need for connection&lt;/strong&gt; in research. Open NeuroSeeds provided the perfect stage for people to talk about their research and projects openly and in a supportive way. More specifically,  the community management call and the positive feedback on the breakout rooms discussions highlighted everything that is possible when working collaboratively and within a community.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-next&quot;&gt;What’s next&lt;/h2&gt;
+
+&lt;p&gt;I would love to repeat this experience within the Schools of Neuroscience but also other universities and departments and keep working on context-specific training. 
+I think certainly one of the changes I would like to implement is including a community strategy to make emergent groups sustainable within their own departments/schools.&lt;/p&gt;
+
+&lt;p&gt;I think it would also be helpful to include a lesson on collaborative research/work to spearhead the connections made during the programme.&lt;/p&gt;
+
+&lt;p&gt;All in all, I think this was an amazing pilot, and we will be working very hard to bring it to as many academic settings as we can. 
+&lt;strong&gt;So, get in touch and keep an eye on what’s coming!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This whole experience has only supported my views that we need more open science skills taught in academic settings. 
+There are many reasons (high expectations, low support, competitive environment…), but academic settings have changed their ways of working without realising that maintaining a research community requires new ways of working too. 
+Increased collaborative projects, together with more remote working, have changed the rules of the game. We need to focus on the people behind the science, and equip them with the best tools to make the best science they can. I strongly believe that open science can bridge the research goals and people, making teams more efficient and science more inclusive.&lt;/em&gt; &lt;br /&gt;
+&lt;strong&gt;&lt;em&gt;In the end… if we don’t dream big, why are we dreaming at all?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+        <link>https://we-are-ols.org//posts/2025/08/01/reflections-on-neuroseeds/</link>
+        <guid isPermaLink="true">https://we-are-ols.org//posts/2025/08/01/reflections-on-neuroseeds/</guid>
+        
+        
+      </item>
     
       <item>
         <title>OLS’s Five-Year Strategic Direction: From Seeds to Systems</title>
@@ -36,7 +155,7 @@ Each pillar is designed to strengthen and complement the others, nurturing resea
 
 &lt;h3 id=&quot;training-and-mentoring&quot;&gt;Training and Mentoring&lt;/h3&gt;
 
-&lt;p&gt;Since launching in 2020, OLS has become a recognised and reliable partner in open science training and mentoring, with a strong emphasis on involving our global community in both shaping and co-delivering our programs.&lt;/p&gt;
+&lt;p&gt;Since launching in 2020, OLS has become a recognised and reliable partner in &lt;a href=&quot;/open-science-training.html&quot;&gt;open science training and mentoring&lt;/a&gt;, with a strong emphasis on involving our global community in both shaping and co-delivering our programs.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Open Seeds&lt;/strong&gt;, our flagship program, has successfully run nine times, and an additional context-specific cohort of &lt;strong&gt;Open Neuro Seeds&lt;/strong&gt;, tailored for neuroscience researchers by our Senior Resident Fellow, &lt;a href=&quot;/people.html#saravilla&quot;&gt;Sara Villa&lt;/a&gt;.&lt;/li&gt;
@@ -55,9 +174,9 @@ More information on this will be shared later in the year.&lt;/p&gt;
 
 &lt;h3 id=&quot;open-research&quot;&gt;Open Research&lt;/h3&gt;
 
-&lt;p&gt;Since 2022, OLS has been actively involved in open science research. With a purpose to ground our work in evidence, we have published reports and papers under research projects, including:&lt;/p&gt;
+&lt;p&gt;Since 2022, OLS has been actively involved in &lt;a href=&quot;/open-research.html&quot;&gt;open science research&lt;/a&gt;. With a purpose to ground our work in evidence, we have published reports and papers under research projects, including:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Impact of open science training and mentoring&lt;/strong&gt;, a qualitative study funded by the Wellcome Trust Open Research Fund.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Impact of open science training and mentoring&lt;/strong&gt;, a qualitative study funded by the Wellcome Trust Open Research Fund (2022-2024).&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Widening participation in open science&lt;/strong&gt;, a policy engagement project funded under the Turing Institute’s Skills Policy Award.&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -78,7 +197,7 @@ We aim to build a more equitable and accessible research ecosystem through train
 &lt;h3 id=&quot;open-incubator&quot;&gt;Open Incubator&lt;/h3&gt;
 
 &lt;p&gt;Turning an idea into a project is a significant step, but leading and managing it effectively for long-term impact is another challenge entirely.
-The OLS Open Incubator offers vital expertise and &lt;strong&gt;Fiscal Hosting infrastructure&lt;/strong&gt;, providing community members with expert guidance, financial management, and legal support, especially during the critical early stages of open science projects or building an organisation.&lt;/p&gt;
+The OLS’s &lt;a href=&quot;/open-incubator.html&quot;&gt;Open Incubator&lt;/a&gt; offers vital expertise and &lt;strong&gt;Fiscal Hosting infrastructure&lt;/strong&gt;, providing community members with expert guidance, financial management, and legal support, especially during the critical early stages of open science projects or building an organisation.&lt;/p&gt;
 
 &lt;p&gt;This work began in 2024, and we are actively developing a sustainable, service-based financial model to not only sustain OLS as an organisation but also empower our community by supporting their initiatives.&lt;/p&gt;
 
@@ -630,118 +749,6 @@ A strong understanding and existing familiarity with the OLS community’s value
         <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
         <link>https://we-are-ols.org//posts/2025/03/27/research-fellow-role/</link>
         <guid isPermaLink="true">https://we-are-ols.org//posts/2025/03/27/research-fellow-role/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>My FOSS Backstage 2025 Experience</title>
-        <description>&lt;h2 id=&quot;day-1-waving-through-awindow&quot;&gt;Day 1: Waving Through a Window&lt;/h2&gt;
-&lt;p&gt;Attending &lt;a href=&quot;https://25.foss-backstage.de/&quot;&gt;FOSS Backstage&lt;/a&gt; online was a contrast to my past virtual conference experiences, especially compared to the highly engaging &lt;a href=&quot;https://www.software.ac.uk/workshop/collaborations-workshop-2025-cw25&quot;&gt;Collaborations Workshop&lt;/a&gt;. 
-There was no opportunity to ask speakers questions directly, no intentional networking efforts, and little to differentiate attending live from simply waiting for the recordings to be released.
-While the platform itself was user-friendly and easy to navigate, the nature of the talks further contributed to my sense of disconnection. 
-&lt;em&gt;Legal &amp;amp; Compliance, Economics, Governance&lt;/em&gt; - these topics, while critical to open source, are not my usual focus. As a result, much of the content went over my head. 
-To make matters worse, scheduling conflicts meant I missed some talks I had been looking forward to.&lt;/p&gt;
-
-&lt;h2 id=&quot;day-2-finding-mytribe&quot;&gt;Day 2: Finding my Tribe!&lt;/h2&gt;
-&lt;p&gt;Despite the continued lack of online engagement, the quality of talks on Day 2 completely made up for my initial disappointment. 
-The sessions were rich, insightful, and deeply resonant.&lt;/p&gt;
-
-&lt;h3 id=&quot;anatomy-of-an-open-internship-program-how-we-run-outreachy-anna-esó&quot;&gt;Anatomy of an Open Internship Program: How We Run Outreachy - Anna e só&lt;/h3&gt;
-&lt;p&gt;Every time I hear Anna speak, compassion absolutely shines through. Outreachy has run for 15+ years, overcoming numerous challenges, and Anna’s words help me see into the heart that has sustained it.
-A key discussion point was why some organisations continue to return as Outreachy partners. Anna explained that many long-standing partners recognise their privilege and use it to bring others into FOSS. Past interns also return as mentors, giving back to the community that helped them grow.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“I want them [Outreachy interns] to succeed even more than I have…”&lt;/em&gt; - these words will keep resounding for a long time.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1280/1*LnfM4wFzXLcWYKY8XuAdIg.png&quot; alt=&quot;An individual wearing a facemask presents a talk, with slides displayed on the right. The words on the current slide describe the Phases of Outreachy and what constitutes a program cycle.&quot; style=&quot;max-width: 80%; max-height: 600px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The session was further enriched by the moderator in the bUm Box room, who shared how being an Outreachy mentor had deeply enriched his experience as a developer.&lt;/p&gt;
-
-&lt;h3 id=&quot;bridging-the-gap-between-designers--open-source-communities-nina-rojc-leia-ruffini-and-kolaojoodide&quot;&gt;Bridging the Gap Between Designers &amp;amp; Open Source Communities - Nina Rojc, Leia Ruffini, and Kola Ojoodide&lt;/h3&gt;
-&lt;p&gt;This talk addressed several long-standing questions I’ve had, such as:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Why aren’t there more open source designers?&lt;/li&gt;
-  &lt;li&gt;If they exist, why aren’t they more visible?&lt;/li&gt;
-  &lt;li&gt;What prevents designers from contributing to Open Source?&lt;/li&gt;
-  &lt;li&gt;How can we balance creative expression with design guidelines?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The speakers emphasised the role of clear contribution guidelines and diplomacy in managing diverse ideas within open source projects. A structured process helps create space for creativity while maintaining coherence.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/24b13583-e778-428e-bdec-7d8e4ffb9245&quot; alt=&quot;Screenshot of a virtual talk at FOSS Backstage. On the left, some obstacles for design contributions are listed and on the right, are 4 squares containing 3 presenters and an audience.&quot; style=&quot;max-width: 80%; max-height: 600px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;(Side note: Kola has a very soothing voice!)&lt;/p&gt;
-
-&lt;h3 id=&quot;tokenism-in-open-source-diversity-or-decoration-maryblessing-okolie--ijeomaonwuka&quot;&gt;Tokenism in Open Source: Diversity or Decoration? - Maryblessing Okolie &amp;amp; Ijeoma Onwuka&lt;/h3&gt;
-&lt;p&gt;Ijeoma flew 17 hours from Nigeria to Berlin to deliver her first international talk - while also professing her love for K-dramas! 
-Meanwhile, Maryblessing joined virtually. Their discussion on tokenism in open source hit close to home, especially since I personally experienced it this week (more on that in another post, perhaps).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/a5470ee2-9d9b-4d09-b3c4-f851c332dc2d&quot; alt=&quot;A black woman wearing a two-piece outfit made from traditional African prints, presents a talk, with slides displayed on the right. The words on the current slide are &amp;quot;please do not do DEl out of pity or checking a box. think of DEl as giving opportunities to groups of people with great abilities that would otherwise not have access to that opportunity.&amp;quot;&quot; style=&quot;max-width: 80%; max-height: 600px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;They challenged organisations to move beyond merely showcasing diversity in marketing materials and instead &lt;strong&gt;create genuine pathways to leadership for marginalised individuals&lt;/strong&gt;. 
-Their call to action? &lt;strong&gt;Design for everyone, enforce Codes of Conduct, improve accessibility, and build inclusive practices&lt;/strong&gt;. 
-This resonated deeply, especially as I am currently conducting an accessibility review for my organisation’s &lt;a href=&quot;https://we-are-ols.org/&quot;&gt;website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;right-to-left-left-to-right-rethinking-multilingual-design-batool-almarzouq-goodnews-sunday-sandy-and-richiemoluno&quot;&gt;Right-to-Left, Left-to-Right: Rethinking Multilingual Design - Batool Almarzouq, Goodnews Sunday Sandy and Richie Moluno&lt;/h3&gt;
-&lt;p&gt;Many software systems fail to support Right-to-Left (RTL) languages like Arabic, creating barriers for millions of users. 
-The speakers shared their experiences designing “&lt;strong&gt;Open Science MOOCs&lt;/strong&gt;“ - a multilingual platform with videos, quizzes, and RTL-friendly design.
-The discussion highlighted key UX challenges, such as how navigation arrows, horizontal progress bars, and even emojis can be misinterpreted by RTL users. 
-The takeaway? Designing for inclusivity means considering diverse reading directions and user habits from the start.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/7c74df97-7c25-477c-8544-a19fd7d0bc99&quot; alt=&quot;Screenshot of a virtual talk at FOSS Backstage, titled &amp;quot;Right-to-Left, Left-to-Right: Rethinking Multilingual Design.&amp;quot; This is delivered by three (3) speakers, each shown in a small square to the right of the slides being presented. The speakers are Batool Almarzouq, Goodnews Sandy and Richie Moluno.&quot; style=&quot;max-width: 80%; max-height: 600px;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;empowering-african-communities-using-open-source-joseph-zikusooka&quot;&gt;Empowering African Communities Using Open Source - Joseph Zikusooka&lt;/h3&gt;
-&lt;p&gt;Joseph highlighted areas where FOSS can drive impact in Africa: health, research, education, agriculture, tourism, startups, and environmental initiatives. 
-He also pointed out the challenges Africans face in getting into open source, such as high internet costs, poor connectivity, and frequent power cuts. 
-The keys to empowering African communities include support, engagement, partnerships, certification, and incubation.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/863ca449-44aa-4f22-af46-aad018b87e89&quot; alt=&quot;Screenshot of a virtual talk at FOSS Backstage. On the left, a slide contains these words: &amp;quot;FOSS in Africa: Why is adoption low? Lack of awareness and motivation. Prestige using proprietary software. Vendor lock-in especially Government. Few certified / skilled open source professionals. Software piracy. Fragmented FOSS communities.&amp;quot; On the right, are 2 squares containing an audience, and the profile photo of a presenter.&quot; style=&quot;max-width: 80%; max-height: 600px;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;open-design-guide-christoph-ono--eriolfox&quot;&gt;Open Design Guide - Christoph Ono &amp;amp; Eriol Fox&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://opendesign.guide&quot;&gt;The Open Design Guide&lt;/a&gt; is &lt;strong&gt;12 chapters&lt;/strong&gt; of wisdom, and serves as a &lt;strong&gt;bridge for designers entering open source&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/92d99b56-9c6d-4de1-bbce-626db93e68fa&quot; alt=&quot;An individual wearing a black t-shirt, presents a talk, with slides displayed on the right. The current slide samples Chapter 2 of the Design Guide, titled &amp;quot;The Designer&apos;s Role.&amp;quot;&quot; style=&quot;max-width: 80%; max-height: 600px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;One thing that stood out for me was how they acknowledged the role of GenAI in the guide’s development, while admitting its limitations. 
-I particularly loved the idea of a reading club and plan to borrow this for my &lt;a href=&quot;https://npdebs.github.io/Pre-seeds-Program/&quot;&gt;Research 101 course&lt;/a&gt;!&lt;/p&gt;
-
-&lt;h3 id=&quot;beyond-words-crafting-user-friendly-documentation-zainabdaodu&quot;&gt;Beyond Words: Crafting User-Friendly Documentation - Zainab Daodu&lt;/h3&gt;
-&lt;p&gt;This was a fantastic, practical talk on documentation, born out of a wealth of experience! Some key lessons (in bullet points, to make Zainab proud):&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Structure content logically to enhance usability.&lt;/li&gt;
-  &lt;li&gt;Use clear, concise and &lt;strong&gt;simple&lt;/strong&gt; language to simplify technical details.&lt;/li&gt;
-  &lt;li&gt;Incorporate visuals - diagrams, flowcharts, screenshots - to aid understanding.&lt;/li&gt;
-  &lt;li&gt;Establish feedback loops for continuous documentation improvement (i.e. incorporate frequently asked questions into the docs).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/f60bc869-4167-4c7f-a880-60ff29f68263&quot; alt=&quot;Screenshot of a virtual talk on proper documentation. This is delivered by a speaker, shown in a small square to the right of the slides being presented. The speaker, Zainab, is a black female in a red top.&quot; style=&quot;max-width: 80%; max-height: 600px;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;relationship-problems-in-open-source-shauna-gordon-mckeon&quot;&gt;Relationship Problems in Open Source - Shauna Gordon-McKeon&lt;/h3&gt;
-&lt;p&gt;Shauna identified some challenges in FOSS - burnout, onboarding difficulties, funding issues, and bad User Experience. The solution? Strong relationships.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;When we build personal connections, contributors and users stop being abstract figures and become real people we care about.&lt;/strong&gt; 
-The 5’Cs in relationship-building: &lt;strong&gt;Clarify, Connect, Communicate, Conflict, Commit&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/a69e53c1-7d9c-4e49-9be1-edbb2c2a647d&quot; alt=&quot;Screenshot of a virtual talk on &amp;quot;Relationship Problems in Open Source.&amp;quot; This is delivered by a speaker, Shauna, shown in a small square to the right of the slides being presented.&quot; style=&quot;max-width: 80%; max-height: 600px;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;honestly&quot;&gt;Honestly…&lt;/h2&gt;
-&lt;p&gt;…the highlight of my FOSS Backstage experience was &lt;strong&gt;seeing my sisters shine&lt;/strong&gt;! I hope to see even more underrepresented voices given platforms to speak in the future.&lt;/p&gt;
-
-&lt;p&gt;I’m eagerly looking forward to the recordings being released at the end of the week so I can catch:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;More Hearts than Stars: Smart Charging &amp;amp; Community Funding - Michael Geers&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;OSPOs for Good! Achieving the UN SDGs with Open Source - Panel Discussion&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Abundant with Life: Docs Beyond the Wall - Andrea Kao&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Commit to Inclusion: Building Better Open Source Culture - Ashley Sametz&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Building Open Digital Infrastructures for Public Health - Bianca Kastl&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Despite the slow start, FOSS Backstage 2025 ended on a high note. What I would do differently next time is be there in-person next time!&lt;/p&gt;
-</description>
-        <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-        <link>https://we-are-ols.org//posts/2025/03/13/my-FOSS-backstage-experience/</link>
-        <guid isPermaLink="true">https://we-are-ols.org//posts/2025/03/13/my-FOSS-backstage-experience/</guid>
         
         
       </item>
