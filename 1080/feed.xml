@@ -6,78 +6,12 @@
 </description>
     <link>https://we-are-ols.org//</link>
     <atom:link href="https://we-are-ols.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Dec 2025 13:16:38 +0000</pubDate>
-    <lastBuildDate>Mon, 01 Dec 2025 13:16:38 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Dec 2025 13:25:27 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Dec 2025 13:25:27 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
-        <title>Sara at RSECon25</title>
-        <description>&lt;p&gt;&lt;em&gt;Only a week after joining &lt;a href=&quot;https://we-are-ols.org/&quot;&gt;OLS&lt;/a&gt; as our Training and Community lead, I packed my bag and headed over Coventry to attend &lt;a href=&quot;https://rsecon25.society-rse.org/&quot;&gt;RSEcon25&lt;/a&gt;- my first RSEcon ever! (hopefully won’t be my last).&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;I must admit I was a bit scared about attending an event mostly targeted to Research Software Engineers (RSEs), who I hadn’t interacted with much before. But I was also excited to meet in person some of the OLS team: old &lt;a href=&quot;/people.html#npdebs&quot;&gt;Deborah Udoh&lt;/a&gt; and new &lt;a href=&quot;/people.html#rivaquiroga&quot;&gt;Riva Quiroga&lt;/a&gt;. When we are so far away in space and time, even if it’s just for a few days, meeting your team members in person is quite grounding!&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;first-day-welcoming-me-to-the-campus-with-lots-of-sunshine-and-smiles---who-can-be-scared-in-that-context&quot;&gt;First day, welcoming me to the campus with lots of sunshine and smiles - &lt;em&gt;who can be scared in that context?&lt;/em&gt;&lt;/h2&gt;
-
-&lt;p&gt;I jumped right into the RSEcon experience by giving a lighting talk about &lt;a href=&quot;/knowledge_management.html&quot;&gt;OLS KMS system&lt;/a&gt; in a full room of welcoming people and other lighting talks showcasing amazing projects.&lt;/p&gt;
-
-&lt;p&gt;The first collaborative session on &lt;em&gt;Discovering Academic Open Source&lt;/em&gt; showed me that RSEs are a very talkative and collaborative gang, and that I could feel at home here. We discussed a lot in group tables about what are the benefits and barriers to OS in academia, and identified several common problems (like lack of incentives, insufficient knowledge on the specific processes…). This was a great entry point to the next session, led by &lt;a href=&quot;https://www.linkedin.com/in/ariellebennett/&quot;&gt;Arielle Bennet&lt;/a&gt;, on &lt;em&gt;Exploring Open Source Culture in Academia&lt;/em&gt;, which again led to amazing discussion among the attendees.&lt;/p&gt;
-
-&lt;p&gt;The last part of my day was a very useful and hands-on session to map my own skills to the &lt;a href=&quot;https://directframework.com/&quot;&gt;DIRECT framework&lt;/a&gt;, a tool that is showing great promise to help different dRTP roles in steps like evaluation but also role paths. I look forward to working with the DIRECT team mapping to our own OLS resources and contributing to the community.&lt;/p&gt;
-
-&lt;p&gt;Day one finished with a lovely dinner followed by comedy speaker &lt;a href=&quot;https://standupmaths.com/&quot;&gt;Matt Parker&lt;/a&gt;, who made maths and nerdiness a celebration that we all enjoyed!&lt;/p&gt;
-
-&lt;p&gt;I must admit that day already felt like a whole week had already passed… I was already knackered on day 2! XD 
-But that’s the beauty about RSEcon: volunteers and organisers were very conscious and encouraged continuous breaks 🧘, and since all talks were recorded and available virtually, it was a great backup plan when needed!&lt;/p&gt;
-
-&lt;div class=&quot;columns&quot;&gt;
-  &lt;div class=&quot;column is-6&quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/RSE-25-0298.jpg&quot; alt=&quot;Image shows Sara Villa, wearing a white blue share and holding the pointer, standing in front of an audience while delivering her talk.&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;column&quot;&gt;&lt;/div&gt; 
-    
-  &lt;div class=&quot;column is-6&quot;&gt;
-    &lt;p&gt;&lt;img src=&quot;/images/RSE-25-0299.jpg&quot; alt=&quot;Image shows a shot from the back of the room, where Sara is delivering her talk. She appears very small in front of a very big screen showing the KMS graphic&quot; /&gt;&lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;day-2-was-full-of-conscious-discussions-beyond-technical-skills&quot;&gt;Day 2 was full of conscious discussions beyond technical skills&lt;/h2&gt;
-&lt;p&gt;Mental health (&lt;a href=&quot;https://www.linkedin.com/in/mdsimpson42/&quot;&gt;Mike Simpson&lt;/a&gt;) and the unicorn tale on having to do it all (&lt;a href=&quot;https://www.linkedin.com/in/marion-weinzierl-547279191/&quot;&gt;Marion Weinzierl&lt;/a&gt;) resonated a lot with me, even not having a RSE background. I love when people think about the whole system, and embrace the complexity of working in a digital based role, which requires even more essential interpersonal skills. When I hear others talk about ‘soft skills’ it really makes me cringe: can someone really do their job when they are not feeling well? Can you work efficiently if your supervisor isn’t assertive and supportive when managing the project? These are essential skills that we all should aim to develop. Of course, we cannot know everything, and that is why having a diverse team covering different aspects of a project (comms, management, outreach, software…) is ESSENTIAL!&lt;/p&gt;
-
-&lt;p&gt;I particularly enjoyed the session about &lt;em&gt;Improving Diversity in RSE&lt;/em&gt;: thoughtful and provoking questions that we discussed in groups, prepared with lots of care by &lt;a href=&quot;https://www.linkedin.com/in/anita-banerji-33528668/&quot;&gt;Anija Banerji&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/in/ellakaye/&quot;&gt;Ella Kaye&lt;/a&gt;, &lt;a href=&quot;https://www.software.ac.uk/our-people/jasmine-folz&quot;&gt;Jasmine Folz&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/in/pauline-karega-20b72a145/&quot;&gt;Pauline Karega&lt;/a&gt; and &lt;a href=&quot;https://www.linkedin.com/in/oscarseip/&quot;&gt;Oscar Seip&lt;/a&gt;. Getting to know some of the history about inclusion in the UK RSE landscape was also very interesting!&lt;/p&gt;
-
-&lt;p&gt;Spending the afternoon with all the training folks &lt;em&gt;building a dRTP training catalogue&lt;/em&gt; was much more fun than I had anticipated! 
-How to reconcile duplication of materials while acknowledging contextualising and updates? Which training materials are more useful for specific roles? How do we build a universal catalogue accessible to dRTPs? These were some of the questions and discussions that proved that there is still so much to do, which I think is SO exciting!&lt;/p&gt;
-
-&lt;h2 id=&quot;day-3-it-was-all-about-communities&quot;&gt;Day 3 it was all about communities&lt;/h2&gt;
-
-&lt;p&gt;I took a tour through all the RSE initiatives and organisations worldwide, before one of my main involvements in the HPC community birds of a feather. I gave a talk on &lt;a href=&quot;https://doi.org/10.5281/zenodo.17092229&quot;&gt;&lt;em&gt;how open communities are an essential part of upskilling and training development&lt;/em&gt;&lt;/a&gt;, which kindled a very animated discussion about the reality of openness, collaboration and kindness in the research landscape. 
-Are people really ready to share their code and data? Are funders committed to make this a requisite? Some people seemed to think it was a utopia, but the room was full of changemakers who argued otherhwise. 
-A highlight of the week, I do love a good discussion, and even more if it involves research! 🔥🤝&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/RSE-25-0433.jpg&quot; alt=&quot;Group photo from all OLS-related people attending RSEcon25. From left to right, bottom to up: Patricia, Saranjeet, Jyoti, Toby, Sarah, Sara, Alecs, Arielle, Riva and Aman&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;lastly-the-training-community-day-was-a-great-way-to-close-the-whole-experience&quot;&gt;Lastly, the Training community day was a great way to close the whole experience&lt;/h2&gt;
-&lt;p&gt;Full of people with the shared goal of improving themselves and others, in a humble way, and not giving anything for granted… that’s not something that you can find any day! 
-After hearing from different training initiatives (OLS’s included! ), we jump right into collating resources, initiatives and priorities in the training landscape for RSEs and other dRTPs. Having in mind the competencies from the DIRECT framework was very useful for this exercise, and it was lovely to see an agreement of the need of non-technical skills, but yet essential like management, inclusive leadership and communication.  &lt;a href=&quot;https://www.linkedin.com/in/samanthaahern/&quot;&gt;Sam Ahern&lt;/a&gt; also introduced the newly launched &lt;a href=&quot;https://society-rse.org/teaching-and-training-sig/&quot;&gt;Teaching and Training SIG&lt;/a&gt; which I’m sure will bring exciting news to the community. It was a real shame that energy was quite depleted already for this satellite event, but even so, it was a great success that organisers &lt;a href=&quot;https://www.linkedin.com/in/amangoel185/&quot;&gt;Aman Goel&lt;/a&gt; and &lt;a href=&quot;https://www.linkedin.com/in/aleksandra-nenadic-bb64b96/&quot;&gt;Aleksandra Nenadic&lt;/a&gt; pulled together. &lt;strong&gt;Congrats!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;will-i-come-back&quot;&gt;Will I come back?&lt;/h2&gt;
-
-&lt;p&gt;Coming to RSEcon was a very intense but rewarding start of my new role as OLS community and training lead. It was very useful to meet value-aligned people, who shared interests and potential to see continuous improvement in our teaching and learning. The RSE community is also one of OLS’s target audience, but getting to talk and listen in this space gave me LOTS of food for thought and I came back with lots of new ideas and energy to work better and more inclusively.&lt;/p&gt;
-
-&lt;p&gt;All in all, I loved RSEcon25. I must admit I never expected RSEs to be so talkative! I loved the kindness and thoughtfulness that was put into the planning of the event. It was very inclusive and a very nurturing community.  It was a shame that a lot of similar topic sessions happened at the same time, so I was feeling FOMO all the time- but there’s always the recording to catch up!
-I will definitely come back, with my social battery at 200% and ready to keep working with such an amazing community. See you at RSEcon26!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/RSEcon25main.jpg&quot; alt=&quot;Group photo taken with a drone from the sky, to show all attendees to RSEcon25, more than 300. In the upper part of the pic there is also the RSE and RSEcon25 logos.&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-        <link>https://we-are-ols.org//posts/2025/11/18/rse-con-25-sara/</link>
-        <guid isPermaLink="true">https://we-are-ols.org//posts/2025/11/18/rse-con-25-sara/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Research Ethics: What should OLS take into account?</title>
+        <title></title>
         <description>&lt;p&gt;&lt;strong&gt;TL;DR:&lt;/strong&gt; You’re invited to share your thoughts about what is important in research ethics on &lt;a href=&quot;https://github.com/orgs/open-life-science/discussions/1079&quot;&gt;this GitHub discussion&lt;/a&gt;, or via Slack in #general.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Longer:&lt;/strong&gt; One of OLS’s three core pillars of activity is research, focusing on creating and understanding a better evidence base for equity-serving open research. Some of our previous work includes Paz Bernaldo’s &lt;a href=&quot;https://doi.org/10.5281/zenodo.15593896&quot;&gt;Open Seeds Impact paper&lt;/a&gt; (currently in press with Wellcome Open Research), and our Alan Turing Institute funded “Widening participation in data science” policy briefs: [Widening participation in data science: implementing policy for well-being in the workplace] ( https://doi.org/10.5281/zenodo.12759410) and &lt;a href=&quot;https://doi.org/10.5281/zenodo.15302045&quot;&gt;Equitable &amp;amp; Inclusive Team Science&lt;/a&gt;.&lt;/p&gt;
@@ -151,9 +85,75 @@ I will definitely come back, with my social battery at 200% and ready to keep wo
 
 &lt;p&gt;Ready to offer feedback, ask questions, or something else? feel free to contribute to the thread in the OLS Slack, and/or comment on &lt;a href=&quot;https://github.com/orgs/open-life-science/discussions/1079&quot;&gt;this discussion&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-        <link>https://we-are-ols.org//posts/2025/09/25/ethics-what-is-our-approach/</link>
-        <guid isPermaLink="true">https://we-are-ols.org//posts/2025/09/25/ethics-what-is-our-approach/</guid>
+        <pubDate>Mon, 01 Dec 2025 13:25:27 +0000</pubDate>
+        <link>https://we-are-ols.org//posts/2025/12/01/2025-09-25-ethics-what-is-our-approach/</link>
+        <guid isPermaLink="true">https://we-are-ols.org//posts/2025/12/01/2025-09-25-ethics-what-is-our-approach/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Sara at RSECon25</title>
+        <description>&lt;p&gt;&lt;em&gt;Only a week after joining &lt;a href=&quot;https://we-are-ols.org/&quot;&gt;OLS&lt;/a&gt; as our Training and Community lead, I packed my bag and headed over Coventry to attend &lt;a href=&quot;https://rsecon25.society-rse.org/&quot;&gt;RSEcon25&lt;/a&gt;- my first RSEcon ever! (hopefully won’t be my last).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I must admit I was a bit scared about attending an event mostly targeted to Research Software Engineers (RSEs), who I hadn’t interacted with much before. But I was also excited to meet in person some of the OLS team: old &lt;a href=&quot;/people.html#npdebs&quot;&gt;Deborah Udoh&lt;/a&gt; and new &lt;a href=&quot;/people.html#rivaquiroga&quot;&gt;Riva Quiroga&lt;/a&gt;. When we are so far away in space and time, even if it’s just for a few days, meeting your team members in person is quite grounding!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;first-day-welcoming-me-to-the-campus-with-lots-of-sunshine-and-smiles---who-can-be-scared-in-that-context&quot;&gt;First day, welcoming me to the campus with lots of sunshine and smiles - &lt;em&gt;who can be scared in that context?&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;I jumped right into the RSEcon experience by giving a lighting talk about &lt;a href=&quot;/knowledge_management.html&quot;&gt;OLS KMS system&lt;/a&gt; in a full room of welcoming people and other lighting talks showcasing amazing projects.&lt;/p&gt;
+
+&lt;p&gt;The first collaborative session on &lt;em&gt;Discovering Academic Open Source&lt;/em&gt; showed me that RSEs are a very talkative and collaborative gang, and that I could feel at home here. We discussed a lot in group tables about what are the benefits and barriers to OS in academia, and identified several common problems (like lack of incentives, insufficient knowledge on the specific processes…). This was a great entry point to the next session, led by &lt;a href=&quot;https://www.linkedin.com/in/ariellebennett/&quot;&gt;Arielle Bennet&lt;/a&gt;, on &lt;em&gt;Exploring Open Source Culture in Academia&lt;/em&gt;, which again led to amazing discussion among the attendees.&lt;/p&gt;
+
+&lt;p&gt;The last part of my day was a very useful and hands-on session to map my own skills to the &lt;a href=&quot;https://directframework.com/&quot;&gt;DIRECT framework&lt;/a&gt;, a tool that is showing great promise to help different dRTP roles in steps like evaluation but also role paths. I look forward to working with the DIRECT team mapping to our own OLS resources and contributing to the community.&lt;/p&gt;
+
+&lt;p&gt;Day one finished with a lovely dinner followed by comedy speaker &lt;a href=&quot;https://standupmaths.com/&quot;&gt;Matt Parker&lt;/a&gt;, who made maths and nerdiness a celebration that we all enjoyed!&lt;/p&gt;
+
+&lt;p&gt;I must admit that day already felt like a whole week had already passed… I was already knackered on day 2! XD 
+But that’s the beauty about RSEcon: volunteers and organisers were very conscious and encouraged continuous breaks 🧘, and since all talks were recorded and available virtually, it was a great backup plan when needed!&lt;/p&gt;
+
+&lt;div class=&quot;columns&quot;&gt;
+  &lt;div class=&quot;column is-6&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/RSE-25-0298.jpg&quot; alt=&quot;Image shows Sara Villa, wearing a white blue share and holding the pointer, standing in front of an audience while delivering her talk.&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;column&quot;&gt;&lt;/div&gt; 
+    
+  &lt;div class=&quot;column is-6&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/images/RSE-25-0299.jpg&quot; alt=&quot;Image shows a shot from the back of the room, where Sara is delivering her talk. She appears very small in front of a very big screen showing the KMS graphic&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;day-2-was-full-of-conscious-discussions-beyond-technical-skills&quot;&gt;Day 2 was full of conscious discussions beyond technical skills&lt;/h2&gt;
+&lt;p&gt;Mental health (&lt;a href=&quot;https://www.linkedin.com/in/mdsimpson42/&quot;&gt;Mike Simpson&lt;/a&gt;) and the unicorn tale on having to do it all (&lt;a href=&quot;https://www.linkedin.com/in/marion-weinzierl-547279191/&quot;&gt;Marion Weinzierl&lt;/a&gt;) resonated a lot with me, even not having a RSE background. I love when people think about the whole system, and embrace the complexity of working in a digital based role, which requires even more essential interpersonal skills. When I hear others talk about ‘soft skills’ it really makes me cringe: can someone really do their job when they are not feeling well? Can you work efficiently if your supervisor isn’t assertive and supportive when managing the project? These are essential skills that we all should aim to develop. Of course, we cannot know everything, and that is why having a diverse team covering different aspects of a project (comms, management, outreach, software…) is ESSENTIAL!&lt;/p&gt;
+
+&lt;p&gt;I particularly enjoyed the session about &lt;em&gt;Improving Diversity in RSE&lt;/em&gt;: thoughtful and provoking questions that we discussed in groups, prepared with lots of care by &lt;a href=&quot;https://www.linkedin.com/in/anita-banerji-33528668/&quot;&gt;Anija Banerji&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/in/ellakaye/&quot;&gt;Ella Kaye&lt;/a&gt;, &lt;a href=&quot;https://www.software.ac.uk/our-people/jasmine-folz&quot;&gt;Jasmine Folz&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/in/pauline-karega-20b72a145/&quot;&gt;Pauline Karega&lt;/a&gt; and &lt;a href=&quot;https://www.linkedin.com/in/oscarseip/&quot;&gt;Oscar Seip&lt;/a&gt;. Getting to know some of the history about inclusion in the UK RSE landscape was also very interesting!&lt;/p&gt;
+
+&lt;p&gt;Spending the afternoon with all the training folks &lt;em&gt;building a dRTP training catalogue&lt;/em&gt; was much more fun than I had anticipated! 
+How to reconcile duplication of materials while acknowledging contextualising and updates? Which training materials are more useful for specific roles? How do we build a universal catalogue accessible to dRTPs? These were some of the questions and discussions that proved that there is still so much to do, which I think is SO exciting!&lt;/p&gt;
+
+&lt;h2 id=&quot;day-3-it-was-all-about-communities&quot;&gt;Day 3 it was all about communities&lt;/h2&gt;
+
+&lt;p&gt;I took a tour through all the RSE initiatives and organisations worldwide, before one of my main involvements in the HPC community birds of a feather. I gave a talk on &lt;a href=&quot;https://doi.org/10.5281/zenodo.17092229&quot;&gt;&lt;em&gt;how open communities are an essential part of upskilling and training development&lt;/em&gt;&lt;/a&gt;, which kindled a very animated discussion about the reality of openness, collaboration and kindness in the research landscape. 
+Are people really ready to share their code and data? Are funders committed to make this a requisite? Some people seemed to think it was a utopia, but the room was full of changemakers who argued otherhwise. 
+A highlight of the week, I do love a good discussion, and even more if it involves research! 🔥🤝&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/RSE-25-0433.jpg&quot; alt=&quot;Group photo from all OLS-related people attending RSEcon25. From left to right, bottom to up: Patricia, Saranjeet, Jyoti, Toby, Sarah, Sara, Alecs, Arielle, Riva and Aman&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;lastly-the-training-community-day-was-a-great-way-to-close-the-whole-experience&quot;&gt;Lastly, the Training community day was a great way to close the whole experience&lt;/h2&gt;
+&lt;p&gt;Full of people with the shared goal of improving themselves and others, in a humble way, and not giving anything for granted… that’s not something that you can find any day! 
+After hearing from different training initiatives (OLS’s included! ), we jump right into collating resources, initiatives and priorities in the training landscape for RSEs and other dRTPs. Having in mind the competencies from the DIRECT framework was very useful for this exercise, and it was lovely to see an agreement of the need of non-technical skills, but yet essential like management, inclusive leadership and communication.  &lt;a href=&quot;https://www.linkedin.com/in/samanthaahern/&quot;&gt;Sam Ahern&lt;/a&gt; also introduced the newly launched &lt;a href=&quot;https://society-rse.org/teaching-and-training-sig/&quot;&gt;Teaching and Training SIG&lt;/a&gt; which I’m sure will bring exciting news to the community. It was a real shame that energy was quite depleted already for this satellite event, but even so, it was a great success that organisers &lt;a href=&quot;https://www.linkedin.com/in/amangoel185/&quot;&gt;Aman Goel&lt;/a&gt; and &lt;a href=&quot;https://www.linkedin.com/in/aleksandra-nenadic-bb64b96/&quot;&gt;Aleksandra Nenadic&lt;/a&gt; pulled together. &lt;strong&gt;Congrats!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;will-i-come-back&quot;&gt;Will I come back?&lt;/h2&gt;
+
+&lt;p&gt;Coming to RSEcon was a very intense but rewarding start of my new role as OLS community and training lead. It was very useful to meet value-aligned people, who shared interests and potential to see continuous improvement in our teaching and learning. The RSE community is also one of OLS’s target audience, but getting to talk and listen in this space gave me LOTS of food for thought and I came back with lots of new ideas and energy to work better and more inclusively.&lt;/p&gt;
+
+&lt;p&gt;All in all, I loved RSEcon25. I must admit I never expected RSEs to be so talkative! I loved the kindness and thoughtfulness that was put into the planning of the event. It was very inclusive and a very nurturing community.  It was a shame that a lot of similar topic sessions happened at the same time, so I was feeling FOMO all the time- but there’s always the recording to catch up!
+I will definitely come back, with my social battery at 200% and ready to keep working with such an amazing community. See you at RSEcon26!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/RSEcon25main.jpg&quot; alt=&quot;Group photo taken with a drone from the sky, to show all attendees to RSEcon25, more than 300. In the upper part of the pic there is also the RSE and RSEcon25 logos.&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+        <link>https://we-are-ols.org//posts/2025/11/18/rse-con-25-sara/</link>
+        <guid isPermaLink="true">https://we-are-ols.org//posts/2025/11/18/rse-con-25-sara/</guid>
         
         
       </item>
