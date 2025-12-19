@@ -6,9 +6,96 @@
 </description>
     <link>https://we-are-ols.org//</link>
     <atom:link href="https://we-are-ols.org//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Dec 2025 15:15:57 +0000</pubDate>
-    <lastBuildDate>Wed, 17 Dec 2025 15:15:57 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Dec 2025 10:45:27 +0000</pubDate>
+    <lastBuildDate>Fri, 19 Dec 2025 10:45:27 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Looking back five years: An incomplete history of OLS</title>
+        <description>&lt;p&gt;OLS had a directors retreat in France in 2024. It ended up being a great time for Bérénice, Malvika, and Yo to reflect on something that started as a fun idea in 2019, and took off beyond where we could have dreamed.&lt;/p&gt;
+
+&lt;p&gt;Here’s a look backwards.&lt;/p&gt;
+
+&lt;h2 id=&quot;olss-development-timeline&quot;&gt;OLS’s Development timeline&lt;/h2&gt;
+
+&lt;h3 id=&quot;2019-2020-pilot-and-unfunded-cohorts&quot;&gt;2019-2020: Pilot and unfunded cohorts&lt;/h3&gt;
+&lt;p&gt;2019 was the year we started to design and recruit OLS. We started with the &lt;a href=&quot;https://openlifesci.org/posts/2019/09/24/application/&quot;&gt;Mozilla Open Leaders X program&lt;/a&gt;, and ran OLS-1 as a fully volunteer initative while we (directors, mentors, experts) were all working full time. We co-ordinated with the sibling &lt;a href=&quot;https://www.open-bio.org/2019/11/12/supercharge-your-open-project-with-leadership-training/&quot;&gt;eLife Innovation Leaders&lt;/a&gt; programe run by Emmy Tsang, and collaborated with The Turing Way for OLS-2.&lt;/p&gt;
+
+&lt;p&gt;When we got the good news that we’d been awarded real money from EOSC-Life (yay! and uh-oh! Now what?!), we hurriedly registered a for-real grown-up &lt;a href=&quot;https://find-and-update.company-information.service.gov.uk/company/12824090&quot;&gt;company limited by guarantee&lt;/a&gt; so we’d have a legal entity to receive funds. It actually took several years for this grant to come through to our accounts, but helped pave the way for phase 2: OLS with its own money, no longer fully volunteer.&lt;/p&gt;
+
+&lt;h3 id=&quot;2020---2021-small-funding-pots-to-test-funded-cohorts&quot;&gt;2020 - 2021: Small funding pots, to test funded cohorts&lt;/h3&gt;
+
+&lt;p&gt;OLS-3 and OLS-4 ran with small-ish grants - not enough to pay staff to run the program, but enough to pay for Zoom, mentor training, and to offer money to Mentors. This was one important step for us: we set up accounts and infrastructure to receive money, and we made sure to invest in our community.  Time is an unequally distributed privilege, and our hope was that we’d end up over-representing communities that are normally unable to volunteer.&lt;/p&gt;
+
+&lt;p&gt;Emmy had joined the director team, and at this point, though, all directors were still working full-time on other things, and for OLS on a volunteer basis. Our energy was beginning to become very stretched. Luckily, something big was about to change.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Annual report for 2020: https://zenodo.org/records/4778472&lt;/li&gt;
+  &lt;li&gt;Annual report for 2021: https://zenodo.org/records/5907922&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;2022-2024-mid-range-funding-and-diversification-phase&quot;&gt;2022-2024: Mid-range funding and diversification phase&lt;/h3&gt;
+&lt;p&gt;Early 2022 marked a big change to the way we operated. We’d already known that the directors were going to struggle to continue running OLS on a volunteer basis, and had been reaching out to funders to find ways to make things work whilst still having some work-life balance.&lt;/p&gt;
+
+&lt;p&gt;Two bigger funding pots came in: Wellcome Trust supported the financing for a team member, &lt;a href=&quot;https://we-are-ols.org/posts/2022/08/10/welcome-paz/&quot;&gt;Paz Bernaldo&lt;/a&gt; to coordinate cohorts and run research on the evidence for how OLS was working (or not, if it was having negative impacts!), and &lt;a href=&quot;https://we-are-ols.org/posts/2022/01/27/runway-to-sustainability-czi-funding/&quot;&gt;CZI funded&lt;/a&gt; staffing to pay directors for their time, pay speakers, and to pay a larger honorarium for mentors. This was stable throughout OLS-5 to OLS-8.&lt;/p&gt;
+
+&lt;p&gt;We spent this time building up processes and infrastructure, whilst thinking about sustainability plans. Given dedicated director time (ranging from 10% FTE to 60% FTE - no directors are full time yet!), we were able to think about even more “grown up” things, like legal compliance, pensions, longer-term sustainability, and most frighteningly…. accounting. :scream: I don’t think any of us had really expected “let’s teach folks about open science” to become a fully fledged multi-national non profit business!&lt;/p&gt;
+
+&lt;h3 id=&quot;expanding-our-activities-to-support-our-vision&quot;&gt;Expanding our activities to support our vision&lt;/h3&gt;
+
+&lt;p&gt;Late 2022 brought the OLS leadership team to a retreat in Scotland. We’d had time to learn about operating as a genuine legal entity, and we began to clarify our roles and activities a little more - formalising many of the activities that had been implicit.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Malvika took on the role of &lt;strong&gt;Director of Partnership&lt;/strong&gt;, recognising her skill at networking with a global community.&lt;/li&gt;
+  &lt;li&gt;Bérénice formalised her role as &lt;strong&gt;Director of Learning and Technology&lt;/strong&gt;, focusing on the pedagogical approach to our curriculum, and the technology underpinning our online presence.&lt;/li&gt;
+  &lt;li&gt;Emmy stepped up to &lt;strong&gt;Director of Finance&lt;/strong&gt;, which was initially a lot more hands-on in terms of making payments, than one might expect from a directorial role…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We also noted that whilst open research training was great, it didn’t always have enough of an on-ramp, nor an easy and obvious path for &lt;em&gt;after&lt;/em&gt; training had completed. Some group brainstorming brought us three pillars of activity:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Open Science training and mentoring&lt;/strong&gt;: our “bread and butter”, the core of what we do.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Research on Open&lt;/strong&gt;: Our work should be evidenced-based, and many of us are researchers who still love creating new knowledge. Under this pillar we propose research projects, supervise students, and take time to understand existing literature.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Open Science Incubator&lt;/strong&gt;: “Incubation”, “catapult”, and similar words have a very strong meaning in the startup/business world, helping to give people a step-up when the core of what they do is already good, but they need more assistance. For OLS, this means supporting people to apply for money, to create strategic plans, to kick off as a consultancy, to create a governance structure, and coaching on the way.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This core set of pillars is prominent on our &lt;a href=&quot;https://we-are-ols.org/&quot;&gt;homepage&lt;/a&gt;, with icons designed by our incredible designer Jilaga.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://zenodo.org/records/7305243&quot;&gt;2022 Annual report&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;diversification-and-growth-phase&quot;&gt;Diversification and growth phase&lt;/h2&gt;
+
+&lt;p&gt;2023 brought us a new challenge on the horizon: funding sources running out. Our initial CZI grant was underspent, allowing us to use a no-cost extension until the end of 2024, and our Wellcome grant ran out in June 2024.&lt;/p&gt;
+
+&lt;p&gt;New money often takes a year or more to bring in, even once it is agreed by a funder or client. We also didn’t want to be a solely grant-funded organisation - it made sense to us to diversify our funding sources, and not rely on any single source. Ideally whilst also somehow making sure not to over-stretch ourselves :joy: - an easy task of course.&lt;/p&gt;
+
+&lt;p&gt;So far, this has gone well. We collaborated with MetaDocencia to win two NASA grants (focused on our training and mentoring pillar), which became &lt;a href=&quot;https://we-are-ols.org/nebula/&quot;&gt;Nebula&lt;/a&gt; and &lt;a href=&quot;https://www.metadocencia.org/proyecto/nasa-spanish/&quot;&gt;ALTa ciencia abierta&lt;/a&gt;. The &lt;a href=&quot;https://catalystproject.cloud/&quot;&gt;Catalyst project&lt;/a&gt; spanned training and incubation pillars.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://we-are-ols.org/openseeds/&quot;&gt;Open Seeds&lt;/a&gt; was named Open Seeds - previously it had been just “OLS”, to distinguish it from the NASA work, and to distinguish it from OLS as an organisation. We also successfully offered &lt;a href=&quot;https://we-are-ols.org/posts/2024/07/15/openseeds-in-2024/&quot;&gt;Open Seeds OLS-9 as a contracted service&lt;/a&gt;, rather than solely a grant-funded activity - an important first!&lt;/p&gt;
+
+&lt;p&gt;Throughout finding ways to sustain, we hired more staff and contractors, and we set up a &lt;a href=&quot;https://we-are-ols.org/posts/2024/01/26/governance-update/&quot;&gt;governance advisory board&lt;/a&gt;, to offer advice and assistance to the leadership team.&lt;/p&gt;
+
+&lt;p&gt;Bérénice led a revision of the Open Seeds curriculum, aligning it to the &lt;a href=&quot;https://www.unesco.org/en/open-science&quot;&gt;UNESCO open science definition&lt;/a&gt;. This resulted in two sets of more flexible cohort calls: The “Open Science Garden” calls, where open science technical topics such as open hardware, open source, or open participation gets covered (but not in the rigid week-by-week plan of earlier cohorts), and the “Community Café” calls, which offer similar flexibility for more human-oriented aspects of the curriculum.&lt;/p&gt;
+
+&lt;h2 id=&quot;stability-phase---doing-our-best-despite-the-odds&quot;&gt;Stability phase - doing our best despite the odds?&lt;/h2&gt;
+
+&lt;p&gt;From 2024 and onwards, our focus has been - and will continue to be - stability. Ironing out processes, adding missing-but-important functions to the team, and getting comfortable operating all three pillars of our vision. Whilst grant-funded roles offer an easy way to be clear about how long we can afford to work with individuals, we’ve also recognised the need for dedicated staff and contractors focused on specific areas that aren’t a single project. This includes “core office” and strategic roles, e.g. finance, the recent &lt;a href=&quot;https://we-are-ols.org/posts/2025/08/22/ols-is-hiring-fsc-manager/&quot;&gt;FSC Manager post&lt;/a&gt;, and directorial roles.&lt;/p&gt;
+
+&lt;p&gt;The universe hasn’t made things easy during 2025, with challenges to the USA federal grant system and the government shutdown making our NASA income unreliable, as well as various personal and family issues that have reduced team availability at short notice. Having two co-executive directors (Patricia Herterich and Yo Yehudi) definitely helped here! It’s good to see our careful attempts to create redundancy paying off a little - although it definitely was trial by “tossed in the deep end” when Yo had emergency time off the same month Patricia stepped up to the exec role!&lt;/p&gt;
+
+&lt;h2 id=&quot;what-happens-next&quot;&gt;What happens next?&lt;/h2&gt;
+
+&lt;p&gt;OLS as an organisation was registered in 2020, so we’re proud to be able to celebrate our fifth official year and step into year six soon.&lt;/p&gt;
+
+&lt;p&gt;Apart from that, well, this post is long! If you want to see our 5-year strategy for 2025 to 2030, check out our announcement of &lt;a href=&quot;https://we-are-ols.org/posts/2025/06/30/seeds-to-system-strategy/&quot;&gt;Seeds to Systems&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+        <link>https://we-are-ols.org//posts/2025/12/19/retro-five-years-OLS/</link>
+        <guid isPermaLink="true">https://we-are-ols.org//posts/2025/12/19/retro-five-years-OLS/</guid>
+        
+        
+      </item>
     
       <item>
         <title>My Third Deep Learning Indaba Experience</title>
@@ -725,74 +812,6 @@ Our missions will strategically reinforce each other, further strengthened by ou
         <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
         <link>https://we-are-ols.org//posts/2025/06/17/seeds-to-system-funding/</link>
         <guid isPermaLink="true">https://we-are-ols.org//posts/2025/06/17/seeds-to-system-funding/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>OSPARK Explainer: What is the European Open Science Cloud?</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/9e44581e-a037-4528-b02a-ed9abe5fbfa0&quot; alt=&quot;A mind map showing how EOSC concepts, such as the tripartite governance structure and Science Clusters, link together.&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;ospark-explainer-what-is-the-european-open-science-cloud&quot;&gt;OSPARK Explainer: What is the European Open Science Cloud?&lt;/h1&gt;
-
-&lt;p&gt;If you’re involved in open science within Europe, you might have heard of the &lt;strong&gt;European Open Science Cloud (EOSC)&lt;/strong&gt;, a long-term project overseen by the European Commission. However, you might have found yourself wondering, “what is EOSC?”. We hope that this short explainer will shed some light on what EOSC is and how it might help you.&lt;/p&gt;
-
-&lt;p&gt;In today’s digital world, research is increasingly dependent on sharing data, tools, and knowledge across disciplines and borders. EOSC is a large-scale, long-term project which aims to change research culture and technology usage across Europe. In particular, the project is focusing on the use of cloud computing services such as virtual machines and file storage, training, and FAIR digital objects such as datasets and software. EOSC’s aim is to develop an ecosystem in which &lt;strong&gt;open, inclusive, trustworthy, and reproducible science&lt;/strong&gt; is embedded in digital research practices; this will become a unified environment where researchers can find, share, and collaborate on digital research. The hope is that this will improve public perceptions of science and facilitate team science approaches, such as multidisciplinary and crowdsourced/citizen science projects.&lt;/p&gt;
-
-&lt;h1 id=&quot;so-what-does-eosc-look-like&quot;&gt;So what does EOSC look like?&lt;/h1&gt;
-
-&lt;p&gt;You could think of EOSC as a massive &lt;strong&gt;digital research ecosystem&lt;/strong&gt;. It’s not just a “cloud” in the sense of a network of remote servers, although this does form part of EOSC’s service offerings. EOSC is a multidisciplinary environment where researchers can discover and share digital research objects, tools, and services for research, education, and innovation.&lt;/p&gt;
-
-&lt;p&gt;One of EOSC’s strengths is its adoption of five &lt;strong&gt;Science Clusters&lt;/strong&gt;, which each focus on adapting EOSC’s services and infrastructures to the needs of specific research fields:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://envri.eu/&quot;&gt;&lt;strong&gt;ENVRI&lt;/strong&gt;&lt;/a&gt; represents earth sciences, which includes research focused on the atmosphere, ecosystem, marine environment, and solid earth. Their work has included a data portal, training gateway, and innovation hub for earth scientists.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://lifescience-ri.eu/home.html&quot;&gt;&lt;strong&gt;LS-RI&lt;/strong&gt;&lt;/a&gt; encompasses the life sciences such as biology. They offer specialised resources and services such as access to high-end microscopes, an innovation helpdesk, and biobanking support.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://projectescape.eu/&quot;&gt;&lt;strong&gt;ESCAPE&lt;/strong&gt;&lt;/a&gt; provides services for astronomy, astroparticle, and particle physics. They provide a virtual observatory which archives astronomical high-level products and provides related services, alongside data crowdsourcing and analysis platforms.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.panosc.eu/&quot;&gt;&lt;strong&gt;PaNOSC&lt;/strong&gt;&lt;/a&gt; represents facilities which work on photon and neutron (PaN) experiments. Their work has included the creation of a standard data format (NeXus), a federated search API for PaN data catalogues, and a specialised e-learning platform and training catalogue.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sshopencloud.eu/&quot;&gt;&lt;strong&gt;SSHOC&lt;/strong&gt;&lt;/a&gt; is focused on the social sciences and humanities. They have created a specialised database of training, services, and resources.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Through the Science Clusters and its open infrastructure, EOSC aims to break down silos between scientific disciplines and between EU countries. This should make it easier to find collaborators and access methodologies from adjacent disciplines, allowing researchers to work together more effectively and accelerating scientific discovery.&lt;/p&gt;
-
-&lt;h1 id=&quot;how-is-eosc-moving-forward&quot;&gt;How is EOSC moving forward?&lt;/h1&gt;
-
-&lt;p&gt;While it’s important to have a shared vision and reduce fragmentation, EOSC also recognises that different regions have different infrastructure and cultural needs. For this reason, EOSC is operating using a tripartite governance structure that operates at both the European and national levels.&lt;/p&gt;
-
-&lt;p&gt;Currently, the &lt;strong&gt;European Commission&lt;/strong&gt; provides leadership by overseeing project governance and piloting services through an &lt;strong&gt;EOSC EU Node&lt;/strong&gt;. It does this with input from stakeholders the &lt;strong&gt;EOSC Steering Board&lt;/strong&gt;, who represent the participating countries, and the &lt;strong&gt;EOSC Association&lt;/strong&gt;, who represent the research community.&lt;/p&gt;
-
-&lt;p&gt;Each participating country also has its own &lt;strong&gt;National Node&lt;/strong&gt; which likewise uses a tripartite structure. For example, Ireland’s national governance group is composed of its local European Commission representation; HEANet, who provide IT services to the Irish higher education sector; and members of relevant government departments.&lt;/p&gt;
-
-&lt;p&gt;All services and governance will eventually be &lt;strong&gt;federated&lt;/strong&gt;, with National Nodes overseeing their own digital objects and services. All federated Nodes will be expected to follow shared governance principles and be interoperable, but will have some flexibility in implementation. More information on the EOSC Federation can be found in the &lt;a href=&quot;https://eosc.eu/eosc-federation-handbook/&quot;&gt;Federation Handbook&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;so-whats-in-it-for-me&quot;&gt;So what’s in it for me?&lt;/h1&gt;
-
-&lt;p&gt;If you’re a scientist or research professional, EOSC might be useful in a few ways:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Through the EOSC EU Node, you can access &lt;strong&gt;cloud computing services&lt;/strong&gt;, such as file transfers and virtual machines, without procurement hurdles or direct costs. You don’t need to be based in Europe to use them.&lt;/li&gt;
-  &lt;li&gt;Instead of navigating different portals, repositories, and authentication systems, EOSC provides a &lt;strong&gt;single point of access&lt;/strong&gt; to a wide range of digital research tools, datasets, and services.&lt;/li&gt;
-  &lt;li&gt;From literature search to data collection, analysis, publication, and preservation, EOSC provides infrastructure that supports the &lt;strong&gt;full research lifecycle&lt;/strong&gt; and meets funders’ open science requirements.&lt;/li&gt;
-  &lt;li&gt;By making existing datasets FAIR and discoverable, EOSC helps you &lt;strong&gt;identify data that can be reused&lt;/strong&gt;. Reducing redundancy in this way can save time and resources that would otherwise be spent collecting similar data.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For scientists across and beyond Europe, EOSC offers opportunities to accelerate discovery, enhance reproducibility, and amplify the impact of your research. As it continues to develop through 2030, EOSC aims to cement Europe’s position at the forefront of open, collaborative, and impactful science.&lt;/p&gt;
-
-&lt;h2 id=&quot;glossary&quot;&gt;Glossary&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;EOSC:&lt;/strong&gt; The European Open Science Cloud, a federated system of digital research services and infrastructures.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;EOSC EU Node:&lt;/strong&gt; A Europe-wide platform which is piloting EOSC services and infrastructure.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;EOSC National Nodes:&lt;/strong&gt; Country-specific entry points within EOSC which provide researchers with access to local governance, systems, and resources which are interoperable with the wider EOSC federation.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Federation:&lt;/strong&gt; EOSC is a decentralised and interoperable system where multiple independent research infrastructures, data repositories, and service providers across multiple countries connect and collaborate.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Science Clusters:&lt;/strong&gt; Collaborative networks which focus on promoting open science practices and tailoring EOSC services and infrastructures for a group of related research disciplines.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tripartite:&lt;/strong&gt; The three-prong governance structure in EOSC: the European Commission, EOSC Association, and EOSC Steering Board at the European level; and national authorities, service providers, and research communities at the national level.&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
-        <link>https://we-are-ols.org//posts/2025/06/13/eosc-blog-post/</link>
-        <guid isPermaLink="true">https://we-are-ols.org//posts/2025/06/13/eosc-blog-post/</guid>
         
         
       </item>
