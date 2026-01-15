@@ -9182,28 +9182,6 @@ img {
   color: #fff;
 }
 
-.people-card {
-  position: relative;
-  scroll-margin-top: 8rem;
-}
-
-.people-card-link {
-  position: absolute;
-  top: 0.5rem;
-  right: 0.5rem;
-  color: #ccc !important;
-  font-size: 0.9rem;
-  z-index: 1;
-  text-decoration: none;
-  border-bottom: none !important;
-  padding: 0 !important;
-  font-weight: normal !important;
-}
-.people-card-link:hover {
-  color: #265F3F !important;
-  background: none !important;
-}
-
 .people {
   margin-bottom: 1em;
 }
@@ -9265,6 +9243,28 @@ img {
 .people .image {
   margin-left: 0px;
   margin-right: 0px;
+}
+
+.people-card {
+  position: relative;
+  scroll-margin-top: 8rem;
+}
+
+.people-card-link {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  color: #ccc !important;
+  font-size: 0.9rem;
+  z-index: 1;
+  text-decoration: none;
+  border-bottom: none !important;
+  padding: 0 !important;
+  font-weight: normal !important;
+}
+.people-card-link:hover {
+  color: #265F3F !important;
+  background: none !important;
 }
 
 .people-badge {
