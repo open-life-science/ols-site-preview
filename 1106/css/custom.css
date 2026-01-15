@@ -9182,14 +9182,12 @@ img {
   color: #fff;
 }
 
-.people {
-  margin-bottom: 1em;
-}
-.people .people-card {
+.people-card {
   position: relative;
   scroll-margin-top: 8rem;
 }
-.people .people-card-link {
+
+.people-card-link {
   position: absolute;
   top: 0.5rem;
   right: 0.5rem;
@@ -9201,9 +9199,13 @@ img {
   padding: 0 !important;
   font-weight: normal !important;
 }
-.people .people-card-link:hover {
+.people-card-link:hover {
   color: #265F3F !important;
   background: none !important;
+}
+
+.people {
+  margin-bottom: 1em;
 }
 .people .media {
   height: 230px;
