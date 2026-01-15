@@ -9187,20 +9187,23 @@ img {
 }
 .people .people-card {
   position: relative;
-  scroll-margin-top: 5rem;
+  scroll-margin-top: 8rem;
 }
 .people .people-card-link {
   position: absolute;
   top: 0.5rem;
   right: 0.5rem;
-  color: #ccc;
+  color: #ccc !important;
   font-size: 0.9rem;
   z-index: 1;
-  border-bottom: none;
+  text-decoration: none;
+  border-bottom: none !important;
+  padding: 0 !important;
+  font-weight: normal !important;
 }
 .people .people-card-link:hover {
-  color: #265F3F;
-  background: none;
+  color: #265F3F !important;
+  background: none !important;
 }
 .people .media {
   height: 230px;
