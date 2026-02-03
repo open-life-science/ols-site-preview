@@ -5,7 +5,6 @@ channels:
   - bioconda
 dependencies:
   - clang
-  - clangxx
   - gmp>=6.1.2
   - jemalloc>=5.0.1
   - libiconv>=1.15
@@ -25,4 +24,3 @@ dependencies:
   - pycountry
   - geopy
   - tox
-  - pyzotero

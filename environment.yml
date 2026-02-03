@@ -21,7 +21,6 @@ dependencies:
   - yamllint>=1.11.0
   - zlib
   - libxml2
-  - libxslt
   - pkg-config
   - pycountry
   - geopy
