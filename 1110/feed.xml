@@ -6,9 +6,286 @@
 </description>
     <link>https://we-are-ols.org//ols-site-preview/1110/</link>
     <atom:link href="https://we-are-ols.org//ols-site-preview/1110/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Feb 2026 19:04:07 +0000</pubDate>
-    <lastBuildDate>Thu, 12 Feb 2026 19:04:07 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Apr 2026 00:16:17 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Apr 2026 00:16:17 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Request for bids: Web developer short-term contract</title>
+        <description>&lt;p&gt;OLS is seeking a &lt;strong&gt;web developer&lt;/strong&gt; and &lt;strong&gt;accessibility expert&lt;/strong&gt; to support improvements to our website and documentation. We recognize that this work involves two distinct areas of expertise, and applicants may apply for one or both:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Accessibility auditing and guidance: reviewing the website to assess accessibility and producing practical recommendations and guidelines.&lt;/li&gt;
+  &lt;li&gt;Web development: redesigning and improving pages related to the OLS training strategy and updating documentation for future maintenance.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;requirements&quot;&gt;Requirements:&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;A good understanding of:
+    &lt;ul&gt;
+      &lt;li&gt;OLS’s existing activities, values, income streams, including the three OLS pillars.&lt;/li&gt;
+      &lt;li&gt;the sometimes blurry line between open-oriented values and consideration for dignity, equity, privacy, and personal/local/cultural sovereignty.&lt;/li&gt;
+      &lt;li&gt;Working across mixed-resource or and mixed-culture contexts.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tech stack&lt;/strong&gt;: The website is a Jekyll-based site with custom python scripts for data processing, hosted on GitHub pages, and deployed / tested using GitHub Actions.
+and/or&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Web accessibility knowledge.&lt;/strong&gt; We want to work with someone that treats accessibility as part of inclusion, dignity, equitable access, rather than looking for a purely compliance-driven audit. The WP related to this (WP1- see below) stems from an initial accessibility audit and the development of future accessibility guidelines, as part of OLS’s broader commitment to openness and inclusive participation.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We welcome applications from individuals specializing in either or both areas, as well as joint applications from collaborators or teams who together cover both skill sets.
+We also welcome application for Spanish speakers.&lt;/p&gt;
+
+&lt;h2 id=&quot;timeline&quot;&gt;Timeline:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Call for bids announced: 2026-03-23&lt;/li&gt;
+  &lt;li&gt;Bids due by: 2026-04-09 end of day (anywhere in the world)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;application-form&quot;&gt;&lt;a href=&quot;https://tally.so/r/rjE8Xv&quot;&gt;Application form&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;For the remainder of the timeline and other details, like deliverables and budget, please see the &lt;a href=&quot;https://docs.google.com/document/d/1H16GaztT6LrJiSNRKK_7sZl7avLTCTB2RgzrnbihGk8/edit?usp=sharing&quot;&gt;call tender&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+        <link>https://we-are-ols.org//ols-site-preview/1110/posts/2026/03/20/consultancy-web-accessibility-contract/</link>
+        <guid isPermaLink="true">https://we-are-ols.org//ols-site-preview/1110/posts/2026/03/20/consultancy-web-accessibility-contract/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>OLS Spotlight 🔦 Gracielle Higino</title>
+        <description>&lt;p&gt;We are introducing our new Nebula Resident Fellow, Gracielle Higino! Gracielle joined us in February to support the coordination and delivery of our 2026 NASA-Nebula Open Science training cohorts.&lt;br /&gt;
+After a period of onboarding, Gracielle is already killing it and doing a great job with all the cohort-related tasks, and also cheering Sara weekly!&lt;/p&gt;
+
+&lt;h3 id=&quot;welcome-to-the-ols-team-gracielle&quot;&gt;Welcome to the OLS team Gracielle!&lt;/h3&gt;
+
+&lt;div class=&quot;columns&quot;&gt;
+  &lt;div class=&quot;column is-3&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/ols-site-preview/1110/images/Gracielle.jpg&quot; alt=&quot;At the front of the image: Gracielle is wearing a long blue dress and a Christmas hat, holding her coat, very smily, posing inside a big Christmas tree&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;column&quot;&gt;
+
+    &lt;p&gt;&lt;em&gt;Name: Gracielle Higino&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;Role in OLS: Nebula Resident Fellow&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;Contact if people want to have a chat? contact at gracielle dot science.&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;Socials: gracielle.science on Bluesky.&lt;/em&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;questions-about-ols&quot;&gt;Questions about OLS&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-do-you-like-about-the-ols-community-what-makes-it-different&quot;&gt;What do you like about the OLS community? What makes it ‘different’?&lt;/h3&gt;
+
+&lt;p&gt;The OLS community has grown in a very beautiful way! We’ve got a truly diverse set of people who really care about each other and are really knowledgeable about open science and anything related to that. I’m always amazed by the depth of the discussions we have and how generous people are in sharing their knowledge. What makes this community outstanding is that it is guided by values that filter out the bad stuff and which always put people front and center. By valuing people first, OLS has thrived in building a sustainable community of people united by the same principles. I feel really lucky to be in it!&lt;/p&gt;
+
+&lt;h3 id=&quot;what-are-your-interests-besides-your-ols-work&quot;&gt;What are your interests besides your OLS work?&lt;/h3&gt;
+&lt;p&gt;I am a nerdy computational ecologist passionate about macroecology of interactions and evolution! I do love to think about how ecological interactions play a role in determining where species are and how we can use this to solve problems in biodiversity conservation. I would flip through a book about evolution anytime, discuss adaptation hypotheses during breakfast and marvel at biochemistry facts and how the human body came to be.&lt;/p&gt;
+
+&lt;h2 id=&quot;questions-about-you-and-your-interest&quot;&gt;Questions about you and your interest&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-skillexpertise-do-you-have-in-the-open-science-world-how-did-you-learn-it&quot;&gt;What skill/expertise do you have in the open science world? How did you learn it?&lt;/h3&gt;
+&lt;p&gt;The first thing I learned in the open science world was how to find open access papers. In Brazil we are huge fans of &lt;a href=&quot;https://www.scielo.br/&quot;&gt;SciELO&lt;/a&gt; and it was my first contact with the open science world when I was still in high school. Then when I was an undergraduate I was mentored by the amazing professor &lt;a href=&quot;https://marcosvital.github.io/&quot;&gt;Marcos Vital&lt;/a&gt;, who encouraged me to learn programming in R for reproducible research and to get involved in the &lt;a href=&quot;https://www.mozillafoundation.org/en/initiatives/mozilla-open-leaders/&quot;&gt;Mozilla Open Leaders program&lt;/a&gt;, which was a pivoting point in my career. Through this experience I learned important skills in community management and project management focused on open projects that are the foundation of what I do today. I developed a strategic thinking that I applied in different areas of my career, and was reflected on anything that I do, such as comprehensive documentation, EDI principles in collaboration, version control, prioritization of tasks, and most importantly, to invest in being kind to people you collaborate with and how this actually translates into the success of any project.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-a-topic-that-you-care-a-lot-about-why-is-it-important-to-you&quot;&gt;What is a topic that you care a lot about? Why is it important to you?&lt;/h3&gt;
+&lt;p&gt;I care a lot about education and mentoring, especially when it comes to helping students to become thoughtful professionals. It is very common to see students isolating during grad school and becoming real experts in one single subject, and losing sight of how this subject is connected to everything else. I think this is harmful for us as a society as we sometimes don’t get to the “second page” of the discoveries that student has made, but also for the student’s career, as it makes it harder for them to see the transferable skills they have and how they can contribute to our world in different ways.
+For me the most rewarding moment of being an educator is seeing in a mentee’s eyes that they’ve “got it” and that they know that they can fly alone from that moment on.
+I also care a lot about digital literacy, privacy and governance over the digital world. I advocate for better use of digital resources especially among seniors, as they are frequently targeted by people wanting to do harm.&lt;/p&gt;
+
+&lt;h2 id=&quot;sillyshort-ones&quot;&gt;Silly/short ones&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-is-your-favourite-quote&quot;&gt;What is your favourite quote?&lt;/h3&gt;
+&lt;p&gt;I am a The Office fan and my husband and I quote The Office at least once a day. There is one quote that I took for me as a motto that is: “Anything can happen to anyone. It’s just random.” You love this quote either if you ignore completely all the context about privileges and systemic biases or if you are well aware of them; but you also love it if it reminds you to be less attached to things - sometimes it doesn’t matter if you do your best, there are circumstances around you that are outside of your control that will determine if you get something or not. You may be the most clever scientist in your field, but if your name gives out that you’re from Latin America or that you’re a woman, your papers might never be reviewed and published in “world class journals”. That doesn’t mean you shouldn’t fight this system, it just means that being published says nothing about your quality as a professional. 
+But this quote is also absurdly rich in nuance. For context, if you don’t watch the show, The Office is a series that brings to the surface the absurdities of our society through the mouths of characters from the corporate world. It’s so satisfying to watch because we’ve all had bosses that are clearly incapable of doing their jobs, still there they are getting a bigger paycheck than you. In this case, the boss is Nellie - who you want to love as she’s one of the few women in a leading role in the series, but she also carries the privileges of being a white woman from the “global north” in a position of power, and with that comes all the systemic biases that the series compiles in her. If you look at the broader context of the quote, you can’t help but find if absurdly funny and get angry about how often it’s true:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I grew up poor. I had little formal education. No real skills. I don’t work especially hard, and most of my ideas are either unoriginal or total crap. And yet, I walked right into a job for which I was ill-prepared, ill-suited, and somebody else already had, and I got it. If you ask me, that’s the American dream right there. Anything can happen to anyone. It’s just random.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Nellie starts the scene by setting up her social context, which we know can be determinant on how hard or easy it will be for someone to get from point A to point B in life. Then she develops and describes who she is now as a professional, which is a bit disconnected from her background setting, but it also gives us a hint of where this is going: she has been making use of her privileges to get things to work for her. When she finishes this line, you can’t stop thinking about all the ill-prepared, ill-suited people in positions of power that you’ve seen throughout your life. If you think about it, there is no logical reason why these people are there. It’s just a matter of where they were born, what is the color of their skin, who they’ve met, and even the parameters that make up all the systemic biases we are so deeply submerged in which “selected” that specific person for that specific position, and all of these things are essentially random. So I love this quote because it is instantly complex, as it puts the word “random” to define something that is in practice biased, and it kinda unveils that these words are actually not antonyms, they just reflect different timeframes of the same thing. And that’s what we mean when we say we’re creating things that are “open by design”: we’re pivoting the systemic bias so we can be truly random in getting people in the room.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-your-favourite-movie&quot;&gt;What is your favourite movie?&lt;/h3&gt;
+&lt;p&gt;My go-to answer for this question is “Forrest Gump”! I love everything about this movie and my way of appreciating it has naturally changed since I first watched it. At first I loved the costume design, the soundtrack, and the whole plot. Later I learned to appreciate the subtle ironies, but also later I realized that what I thought was criticism is not actually a criticism. So I love how this movie has been present in my life and it kinda connects to my personal growth.
+BUT - I’m a movie-lover! I could talk about my favourite movieS for a very long time here! I go from &lt;em&gt;Grease&lt;/em&gt; to &lt;em&gt;La Bête&lt;/em&gt;, from &lt;em&gt;I’m Thinking of Ending Things&lt;/em&gt; to &lt;em&gt;O Auto da Compadecida&lt;/em&gt;… Let’s chat about them all!&lt;/p&gt;
+
+&lt;h2 id=&quot;deeper-ones&quot;&gt;Deeper ones&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-is-the-meaning-of-life&quot;&gt;What is the meaning of life?&lt;/h3&gt;
+&lt;p&gt;I don’t think life has a meaning and that’s what makes it so special! Because of this thinking, I feel like I need to be very mindful about my choices and how to live the best life I could. It also helps me put things in perspective (just like that quote from The Office) and understand what actually matters. Nothing is so urgent if it’s not saving someone’s life, and certainly not more urgent than just being there for the ones I love. I am involved in politics, advocacy, education, and it’s sometimes easy to think that all of these are urgent at the same time, but also it makes us anxious to think that most of the changes we want to see will take generations, if anything. Then you remember you’re just a small grain of sand and you’re of better use being persistent than being urgently impactful sometimes. This helps me pick my battles as wisely as I can.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-do-you-like-about-society&quot;&gt;What do you like about society?&lt;/h3&gt;
+&lt;p&gt;What I like about society is that love emerges no matter what. We are capable of doing extraordinary things out of love - for each other, for knowledge, for the future, for our planet. The same human beings who are capable of destroying are capable of building, and that gives me hope!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+        <link>https://we-are-ols.org//ols-site-preview/1110/posts/2026/03/19/spotlight-gracielle/</link>
+        <guid isPermaLink="true">https://we-are-ols.org//ols-site-preview/1110/posts/2026/03/19/spotlight-gracielle/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>OLS Spotlight 🔦 Laura Carter</title>
+        <description>&lt;p&gt;We are kicking off a brand new OLS blog series, in which we will spotlight our team members, their work and interests in a fun and easy way! 
+Today, we’ll start with Laura Carter, our new &lt;a href=&quot;/ols-site-preview/1110/open-incubator/fiscal-hosting/&quot;&gt;Fiscally Sponsored Community (FSC) Manager&lt;/a&gt;, who joined the team in late 2025.&lt;/p&gt;
+
+&lt;h3 id=&quot;welcome-to-the-ols-team-laura&quot;&gt;Welcome to the OLS team Laura!&lt;/h3&gt;
+
+&lt;div class=&quot;columns&quot;&gt;
+  &lt;div class=&quot;column is-3&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/ols-site-preview/1110/images/Laura.jpg&quot; alt=&quot;At the front of the image: Laura is very smily woman, wearing sunglasses and a raincoat at the Skagit Valley Tulip Festival in April 2025. Red tulip fields can be seen at the background&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;column&quot;&gt;
+
+    &lt;p&gt;&lt;em&gt;Name: Laura Carter&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;Role in OLS: Fiscally Sponsored Community (FSC) Manager&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;Contact if people want to have a chat? laura@we-are-ols.org - or book a meeting with me &lt;a href=&quot;https://calendar.app.google/oBBvmscfTgin9kS7A&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;em&gt;Socials: I’m not great at social media, but you can &lt;a href=&quot;https://www.linkedin.com/in/laura-carter-phd/&quot;&gt;follow me on LinkedIn&lt;/a&gt; if you like.&lt;/em&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;questions-about-ols&quot;&gt;Questions about OLS&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-do-you-do-at-ols-what-does-your-day-look-like&quot;&gt;What do you do at OLS? What does your day look like?&lt;/h3&gt;
+&lt;p&gt;I oversee OLS’s work with the communities and fellows that we fiscally support: in other words, the people for whom we host grants and manage contracts and accounting. I joined in November 2025 so I’m still pretty new in the role, though I’ve been an OLS mentor since 2021. 
+I’m based on traditional Duwamish lands in Seattle (UTC-8) so my day starts by checking email, Slack and GitHub (over a cup of coffee and some porridge) for anything urgent that has come up during the European working day. Then it’s on to regular work: perhaps helping one of our FSCs invoice a client for payments, finalising a contract for an Incubation Fellow, or checking in with a former Open Seeds participant who wants us to act as fiscal sponsor for a grant they’re applying for. I meet regularly with my manager and co-ED Yo to reflect on what’s going well and where we can improve, as well as with other OLS staff as a lot of our work is collaborative. I try to keep some time every day for focused work on documentation and process improvements, which usually comes once everyone further east has logged off for the day!&lt;/p&gt;
+
+&lt;h3 id=&quot;what-are-your-interests-besides-your-ols-work&quot;&gt;What are your interests besides your OLS work?&lt;/h3&gt;
+&lt;p&gt;I work for OLS part-time: the rest of my work is as a freelance researcher, mostly focusing on the social and human rights impact of technology. In particular, I look at how emerging uses of data and AI affect marginalised individuals and groups. Outside of work, I read a lot, particularly literary and speculative fiction–I stayed up far too late recently finishing Flashlight by Susan Choi–and play a lot of cosy computer games, mixed in with the occasional management sim.. I also like to explore the Pacific Northwest: I’m originally from London, so being able to hike on proper mountains is exciting for me!&lt;/p&gt;
+
+&lt;h2 id=&quot;questions-about-you-and-your-interest&quot;&gt;Questions about you and your interest&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-skillexpertise-do-you-have-in-the-open-science-world-how-did-you-learn-it&quot;&gt;What skill/expertise do you have in the open science world? How did you learn it?&lt;/h3&gt;
+&lt;p&gt;My background is in human rights, gender studies and movement building, so I didn’t do a lot of open science until my PhD when I spent a few months at the Alan Turing Institute and met some of the team behind the Turing Way handbook for reproducible, ethical and collaborative data science. I learned a lot from collaborating with data science researchers as a contributor to the Ethics section, and also found that I could apply a lot of my participatory research and human rights organizing experience to open science community building. That led me to being a participant and then a mentor with OLS’s Open Seeds programme. As well as doing my own research, I really enjoy working with researchers around the world to help them learn and apply open principles in their work!&lt;/p&gt;
+
+&lt;h3 id=&quot;what-recent-bookarticlepodcast-have-you-come-across-thats-changed-the-way-you-see-things&quot;&gt;What recent book/article/podcast have you come across that‘s changed the way you see things?&lt;/h3&gt;
+&lt;p&gt;I’m currently reading my way through the 2025 Ursula Le Guin prize nominees and most recently finished Remember You Will Die by Eden Robins. It’s a novel told through obituaries, which made me think a lot about how we are seen by different people and how knowledge is always partial and subjective: a key part of the feminist approach I use in my own research.&lt;/p&gt;
+
+&lt;h2 id=&quot;sillyshort-ones&quot;&gt;Silly/short ones&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-is-your-go-to-karaoke-song&quot;&gt;What is your go-to karaoke song?&lt;/h3&gt;
+&lt;p&gt;I lived in Japan for two years in my 20s, where I spent far too much time in karaoke bars. In my opinion, power ballads are the most fun to sing (and as a bonus, everyone else will sing along, which might drown out your occasional failure to hit a high note). I’m a fan of Alone by Heart, I’d Do Anything For Love by Meat Loaf, and if I’m feeling really ambitious, Bonnie Tyler’s Total Eclipse of the Heart.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-your-lazy-go-to-dinner&quot;&gt;What is your lazy go-to dinner?&lt;/h3&gt;
+&lt;p&gt;Fry up some sliced veggie sausage in a bit of olive oil, add some sun-dried tomatoes and lots of spinach, and stir into pasta with lots of black pepper and a bit of cheese. Yum.&lt;/p&gt;
+
+&lt;h2 id=&quot;deeper-ones&quot;&gt;Deeper ones&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-do-you-want-to-learn-next-in-life&quot;&gt;What do you want to learn next in life?&lt;/h3&gt;
+&lt;p&gt;I recently acquired some snowshoes and have been having fun exploring the mountains on them. Next I’d like to try cross-country skiing so that I can go a bit faster in the snow!&lt;/p&gt;
+
+&lt;h3 id=&quot;what-gets-you-out-of-bed&quot;&gt;What gets you out of bed?&lt;/h3&gt;
+&lt;p&gt;Metaphorically: the opportunity to find out new things about the world, and use what I’ve learned to help shift the balance of power away from rich people and powerful corporations and towards communities and people who are trying to make the world a better place. 
+Literally: often my pet budgies, who tend to get shouty if the blanket over their cage is left on too long in the morning.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+        <link>https://we-are-ols.org//ols-site-preview/1110/posts/2026/03/03/spotlight-laura/</link>
+        <guid isPermaLink="true">https://we-are-ols.org//ols-site-preview/1110/posts/2026/03/03/spotlight-laura/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Looking back five years: An incomplete history of OLS</title>
+        <description>&lt;p&gt;OLS had a directors retreat in France in 2024. It ended up being a great time for Bérénice, Malvika, and Yo to reflect on something that started as a fun idea in 2019, and took off beyond where we could have dreamed.&lt;/p&gt;
+
+&lt;p&gt;Here’s a look backwards.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ols-site-preview/1110/images/2026-02-25-retro-five-years-OLS-baby-directors.jpg&quot; alt=&quot;Group photo from the three founders of OLS. From left to right: Yochannah, Malvika and Berenice&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;olss-development-timeline&quot;&gt;OLS’s Development timeline&lt;/h2&gt;
+
+&lt;h3 id=&quot;2019-2020-pilot-and-unfunded-cohorts&quot;&gt;2019-2020: Pilot and unfunded cohorts&lt;/h3&gt;
+&lt;p&gt;2019 was the year we started to design and recruit OLS. We started with the &lt;a href=&quot;/ols-site-preview/1110/posts/2019/09/24/application/&quot;&gt;Mozilla Open Leaders X program&lt;/a&gt;, and ran OLS-1 as a fully volunteer initative while we (directors, mentors, experts) were all working full time. We co-ordinated with the sibling &lt;a href=&quot;https://www.open-bio.org/2019/11/12/supercharge-your-open-project-with-leadership-training/&quot;&gt;eLife Innovation Leaders&lt;/a&gt; programe run by Emmy Tsang, and collaborated with The Turing Way for OLS-2.&lt;/p&gt;
+
+&lt;p&gt;When we got the good news that we’d been awarded real money from EOSC-Life (yay! and uh-oh! Now what?!), we hurriedly registered a for-real grown-up &lt;a href=&quot;https://find-and-update.company-information.service.gov.uk/company/12824090&quot;&gt;company limited by guarantee&lt;/a&gt; so we’d have a legal entity to receive funds. It actually took several years for this grant to come through to our accounts, but helped pave the way for phase 2: OLS with its own money, no longer fully volunteer.&lt;/p&gt;
+
+&lt;h3 id=&quot;2020---2021-small-funding-pots-to-test-funded-cohorts&quot;&gt;2020 - 2021: Small funding pots, to test funded cohorts&lt;/h3&gt;
+
+&lt;p&gt;OLS-3 and OLS-4 ran with small-ish grants - not enough to pay staff to run the program, but enough to pay for Zoom, mentor training, and to offer money to Mentors. This was one important step for us: we set up accounts and infrastructure to receive money, and we made sure to invest in our community.  Time is an unequally distributed privilege, and our hope was that we’d end up over-representing communities that are normally unable to volunteer.&lt;/p&gt;
+
+&lt;p&gt;Emmy had joined the director team, and at this point, though, all directors were still working full-time on other things, and for OLS on a volunteer basis. Our energy was beginning to become very stretched. Luckily, something big was about to change.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zenodo.org/records/4778472&quot;&gt;Annual report for 2020&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zenodo.org/records/5907922&quot;&gt;Annual report for 2021&lt;/a&gt;
+    &lt;h3 id=&quot;2022-2024-mid-range-funding-and-diversification-phase&quot;&gt;2022-2024: Mid-range funding and diversification phase&lt;/h3&gt;
+    &lt;p&gt;Early 2022 marked a big change to the way we operated. We’d already known that the directors were going to struggle to continue running OLS on a volunteer basis, and had been reaching out to funders to find ways to make things work whilst still having some work-life balance.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Two bigger funding pots came in: Wellcome Trust supported the financing for a team member, &lt;a href=&quot;/ols-site-preview/1110/posts/2022/08/10/welcome-paz/&quot;&gt;Paz Bernaldo&lt;/a&gt; to coordinate cohorts and run research on the evidence for how OLS was working (or not, if it was having negative impacts!), and &lt;a href=&quot;/ols-site-preview/1110/posts/2022/01/27/runway-to-sustainability-czi-funding/&quot;&gt;CZI funded&lt;/a&gt; staffing to pay directors for their time, pay speakers, and to pay a larger honorarium for mentors. This was stable throughout OLS-5 to OLS-8.&lt;/p&gt;
+
+&lt;p&gt;We spent this time building up processes and infrastructure, whilst thinking about sustainability plans. Given dedicated director time (ranging from 10% FTE to 60% FTE - no directors are full time yet!), we were able to think about even more “grown up” things, like legal compliance, pensions, longer-term sustainability, and most frighteningly…. accounting :scream:.  I don’t think any of us had really expected “let’s teach folks about open science” to become a fully fledged multi-national non profit business!&lt;/p&gt;
+
+&lt;h3 id=&quot;expanding-our-activities-to-support-our-vision&quot;&gt;Expanding our activities to support our vision&lt;/h3&gt;
+
+&lt;p&gt;Late 2022 brought the OLS leadership team to a retreat in Scotland. We’d had time to learn about operating as a genuine legal entity, and we began to clarify our roles and activities a little more - formalising many of the activities that had been implicit.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Malvika took on the role of &lt;strong&gt;Director of Partnership&lt;/strong&gt;, recognising her skill at networking with a global community.&lt;/li&gt;
+  &lt;li&gt;Bérénice formalised her role as &lt;strong&gt;Director of Learning and Technology&lt;/strong&gt;, focusing on the pedagogical approach to our curriculum, and the technology underpinning our online presence.&lt;/li&gt;
+  &lt;li&gt;Emmy stepped up to &lt;strong&gt;Director of Finance&lt;/strong&gt;, which was initially a lot more hands-on in terms of making payments, than one might expect from a directorial role…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We also noted that whilst open research training was great, it didn’t always have enough of an on-ramp, nor an easy and obvious path for &lt;em&gt;after&lt;/em&gt; training had completed. Some group brainstorming brought us three pillars of activity:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Open Science training and mentoring&lt;/strong&gt;: our “bread and butter”, the core of what we do.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Research on Open&lt;/strong&gt;: Our work should be evidenced-based, and many of us are researchers who still love creating new knowledge. Under this pillar we propose research projects, supervise students, and take time to understand existing literature.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Open Science Incubator&lt;/strong&gt;: “Incubation”, “catapult”, and similar words have a very strong meaning in the startup/business world, helping to give people a step-up when the core of what they do is already good, but they need more assistance. For OLS, this means supporting people to apply for money, to create strategic plans, to kick off as a consultancy, to create a governance structure, and coaching on the way.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This core set of pillars is prominent on our &lt;a href=&quot;https://we-are-ols.org/&quot;&gt;homepage&lt;/a&gt;, with icons designed by our incredible designer Jilaga.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://zenodo.org/records/7305243&quot;&gt;2022 Annual report&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;diversification-and-growth-phase&quot;&gt;Diversification and growth phase&lt;/h2&gt;
+
+&lt;p&gt;2023 brought us a new challenge on the horizon: funding sources running out. Our initial CZI grant was underspent, allowing us to use a no-cost extension until the end of 2024, and our Wellcome grant ran out in June 2024.&lt;/p&gt;
+
+&lt;p&gt;New money often takes a year or more to bring in, even once it is agreed by a funder or client. We also didn’t want to be a solely grant-funded organisation - it made sense to us to diversify our funding sources, and not rely on any single source. Ideally whilst also somehow making sure not to over-stretch ourselves :joy: - an easy task of course.&lt;/p&gt;
+
+&lt;p&gt;So far, this has gone well. We collaborated with MetaDocencia to win two NASA grants (focused on our training and mentoring pillar), which became &lt;a href=&quot;https://we-are-ols.org/nebula/&quot;&gt;Nebula&lt;/a&gt; and &lt;a href=&quot;https://www.metadocencia.org/proyecto/nasa-spanish/&quot;&gt;ALTa ciencia abierta&lt;/a&gt;. The &lt;a href=&quot;https://catalystproject.cloud/&quot;&gt;Catalyst project&lt;/a&gt; spanned training and incubation pillars.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://we-are-ols.org/openseeds/&quot;&gt;Open Seeds&lt;/a&gt; was named Open Seeds - previously it had been just “OLS”, to distinguish it from the NASA work, and to distinguish it from OLS as an organisation. We also successfully offered &lt;a href=&quot;/ols-site-preview/1110/posts/2024/07/15/openseeds-in-2024/&quot;&gt;Open Seeds OLS-9 as a contracted service&lt;/a&gt;, rather than solely a grant-funded activity - an important first!&lt;/p&gt;
+
+&lt;p&gt;Throughout finding ways to sustain, we hired more staff and contractors, and we set up a &lt;a href=&quot;/ols-site-preview/1110/posts/2024/01/26/governance-update/&quot;&gt;governance advisory board&lt;/a&gt;, to offer advice and assistance to the leadership team.&lt;/p&gt;
+
+&lt;p&gt;Bérénice led a revision of the Open Seeds curriculum, aligning it to the &lt;a href=&quot;https://www.unesco.org/en/open-science&quot;&gt;UNESCO open science definition&lt;/a&gt;. This resulted in two sets of more flexible cohort calls: The “Open Science Garden” calls, where open science technical topics such as open hardware, open source, or open participation gets covered (but not in the rigid week-by-week plan of earlier cohorts), and the “Community Café” calls, which offer similar flexibility for more human-oriented aspects of the curriculum.&lt;/p&gt;
+
+&lt;h2 id=&quot;stability-phase---doing-our-best-despite-the-odds&quot;&gt;Stability phase - doing our best despite the odds?&lt;/h2&gt;
+
+&lt;p&gt;From 2024 and onwards, our focus has been - and will continue to be - stability. Ironing out processes, adding missing-but-important functions to the team, and getting comfortable operating all three pillars of our vision. Whilst grant-funded roles offer an easy way to be clear about how long we can afford to work with individuals, we’ve also recognised the need for dedicated staff and contractors focused on specific areas that aren’t a single project. This includes “core office” and strategic roles, e.g. finance, the recent &lt;a href=&quot;/ols-site-preview/1110/posts/2025/08/22/ols-is-hiring-fsc-manager/&quot;&gt;FSC Manager post&lt;/a&gt;, and directorial roles.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ols-site-preview/1110/images/2026-02-25-retro-five-years-OLS-rsecongroup.jpg&quot; alt=&quot;Group photo from all OLS-related people attending RSEcon24. From left to right: Patricia, Sarah, David, Debs, Toby, Yochannah, Aman, Pauline and Saranjeet&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The universe hasn’t made things easy during 2025, with challenges to the USA federal grant system and the government shutdown making our NASA income unreliable, as well as various personal and family issues that have reduced team availability at short notice. Having two co-executive directors (Patricia Herterich and Yo Yehudi) definitely helped here! It’s good to see our careful attempts to create redundancy paying off a little - although it definitely was trial by “tossed in the deep end” when Yo had emergency time off the same month Patricia stepped up to the exec role!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ols-site-preview/1110/images/RSE-25-0433.jpg&quot; alt=&quot;Group photo from all OLS-related people attending RSEcon25. From left to right, bottom to up: Patricia, Saranjeet, Jyoti, Toby, Sarah, Sara, Alecs, Arielle, Riva and Aman&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-happens-next&quot;&gt;What happens next?&lt;/h2&gt;
+
+&lt;p&gt;OLS as an organisation was registered in 2020, so we’re proud to be able to celebrate our fifth official year and step into year six in 2026.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ols-site-preview/1110/images/2026-02-25-retro-five-years-OLS-directors-2025.jpg&quot; alt=&quot;Group photo from three of our 4 directors in 2025. From left to right: Patricia, Yochannah and Malvika&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Apart from that, well, this post is long! If you want to see our 5-year strategy for 2025 to 2030, check out our announcement of &lt;a href=&quot;/ols-site-preview/1110/posts/2025/06/30/seeds-to-system-strategy/&quot;&gt;Seeds to Systems&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+        <link>https://we-are-ols.org//ols-site-preview/1110/posts/2026/02/25/retro-five-years-OLS/</link>
+        <guid isPermaLink="true">https://we-are-ols.org//ols-site-preview/1110/posts/2026/02/25/retro-five-years-OLS/</guid>
+        
+        
+      </item>
     
       <item>
         <title>From grant writing to grant readiness with eLife Community Ambassadors</title>
@@ -472,306 +749,6 @@ By working together, we can ensure that the future of open science is not only i
         <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
         <link>https://we-are-ols.org//ols-site-preview/1110/posts/2025/08/22/ols-is-hiring-fsc-manager/</link>
         <guid isPermaLink="true">https://we-are-ols.org//ols-site-preview/1110/posts/2025/08/22/ols-is-hiring-fsc-manager/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>My Open Science Retreat Experience (#OSR25CH)</title>
-        <description>&lt;p&gt;When I signed up for the Open Science Retreat, I was fairly nervous. 
-The unconference model was new to me… plus, I’m definitely the type of person who prefers structure and pre-planning! 
-The schedule left me with more questions than expectations: What would I be doing? Would I fit in? Would they force me to go hiking?!&lt;/p&gt;
-
-&lt;p&gt;However, all of those worries dissipated the moment my train rounded a corner and revealed a snow-capped mountain emerging across a vast lake. 
-The location for OSR25CH was breathtaking and unlike anywhere I’d been before. So beautiful that I accidentally got a bus in the wrong direction and added two hours (and a lovely lake view) to my trip. 
-And yes, there were opportunities to go hiking! But as I quickly discovered, these were entirely optional.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/7f74f9f6-26b0-4561-a136-bb0458aa2a23&quot; alt=&quot;A view from the mountain. In the foreground is a small Swiss village with traditional houses, dotted with alpine trees and surrounded by green fields. In the background is a lake, large mountains, and a partially cloudy sky.&quot; style=&quot;max-width: 70%; max-height: 500px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The Open Science Retreat follows an unconference format, meaning that attendees themselves choose the contents of the sessions. 
-For this reason, it’s unclear exactly what you might be doing until you arrive. The topics you focus on are entirely dependent on the people who attend.&lt;/p&gt;
-
-&lt;p&gt;And what amazing people attended! The retreat brought together a wonderful mixture of people from diverse professional backgrounds, academic disciplines, career stages, nationalities, and life experiences. 
-Throughout the week, I had fascinating conversations on all sorts of topics, including positivity journaling, life in Alaska, competitive synchronised ice skating, the process of buying a house (or land) in multiple African countries, and flamenco guitar. 
-I even got some good anime recommendations!&lt;/p&gt;
-
-&lt;p&gt;Of course, we talked extensively about open science too. Throughout the week, I participated in engaging discussion groups, insightful short sessions, and practical workshops. 
-On top of that, excellent conversations happened in more casual settings: on walks, over meals, and while hanging out in the evenings.&lt;/p&gt;
-
-&lt;h2 id=&quot;unconference-sessions&quot;&gt;&lt;strong&gt;Unconference Sessions&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;A key aspect of the unconference was collaborative work in topic groups. Attendees proposed potential topics, and we self-organised into groups based on our shared interests. 
-I proposed a topic myself and was delighted when others showed interest! I’m really interested in how people share and engage with open science initiatives - a line of thought we’re developing with the &lt;a href=&quot;https://digital-research.academy/&quot;&gt;Digital Research Academy&lt;/a&gt; as part of the &lt;a href=&quot;https://we-are-ols.org/posts/2024/12/11/ols-dra-ospark-announcement/&quot;&gt;OSPARK Bootcamp project&lt;/a&gt; - so my proposal was around marketing and communications. The group quickly came to the agreement that “marketing” is a word which a lot of scientists don’t really like. Given that, we developed a &lt;a href=&quot;https://zenodo.org/records/15301862&quot;&gt;primer on outreach for open science initiatives&lt;/a&gt;. You can find that alongside a whole load of amazing conference outputs on the &lt;a href=&quot;https://www.researchequals.com/collections/k86g-wf&quot;&gt;OSR25CH’s ResearchEquals collection&lt;/a&gt;. Shoutout to my excellent group mates, Doaa Abdelkader, Anastasia Afanaseva, José Francisco Pereira Cardoso, Jens Dierkes, Christian Meesters, and Heidi Seibold. You were all a pleasure to work with and I hope we can keep collaborating in the future!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/19b7ce19-f24d-428a-bc9e-47b5d7b22013&quot; alt=&quot;A presentation from the Primer on Open Science Outreach team.&quot; style=&quot;max-width: 70%; max-height: 500px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;One discussion group which stood out to me was organised around the concept of creativity. What does creativity actually mean in open research, where a big part of our job is following procedures? Through the discussion, I came to realise that creativity is sometimes assumed to mean breaking the rules. However, working within constraints, such as funding, rules, or structures, may actually promote creativity in some situations. Finding new ways to do things within and beyond academic systems is a core part of the open science movement. One working group which exemplified this to me is a topic group focused on the intersection of open science and activism, whose outputs included an online community space and a zine. I found the supportive, flexible, and communal environment of OSR25CH to be particularly beneficial to our creativity overall. So much learning and idea generation happened in the flexible time: over coffee breaks, meals, and into the evenings.&lt;/p&gt;
-
-&lt;h2 id=&quot;adventures-in-the-mountains&quot;&gt;&lt;strong&gt;Adventures in the Mountains&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/9051af81-fa8b-4c14-9daf-88f87bd2b92a&quot; alt=&quot;A presentation from the Primer on Open Science Outreach team.&quot; style=&quot;max-width: 70%; max-height: 500px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Finally, I was lucky enough to meet and spend time with wonderful OLS community members at the Open Science Retreat - Doaa Abdelkader and Nyasita Ondari. 
-Doaa and I had worked together online throughout her fellowship, so it was lovely to finally meet in-person. We all made time to go on trips in the local area together. 
-Remember that wrong bus I took at the start? At that time, I found myself in a beautiful area which had lovely views of one of Interlaken’s lakes, so we all went there together! 
-We also went to Lauterbrunen, an adorable village in a valley dotted with waterfalls. We shared stories of our home countries and travels; laughed together; and even swapped coins! My new coin collection starts with an Egyptian pound and a Kenyan shilling.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/75b37da0-b040-4821-843a-4ad888589400&quot; alt=&quot;Doaa and Bethan smiling and holding OLS stickers.&quot; style=&quot;max-width: 70%; max-height: 500px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;My experience at the Open Science Retreat was overwhelmingly positive. It was a genuinely accepting and inclusive space where I discussed what I care about and made some wonderful friends. I can’t wait for &lt;a href=&quot;https://open.science-retreat.org/&quot;&gt;OSR26UK&lt;/a&gt;!&lt;/p&gt;
-</description>
-        <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
-        <link>https://we-are-ols.org//ols-site-preview/1110/posts/2025/08/08/osr25ch/</link>
-        <guid isPermaLink="true">https://we-are-ols.org//ols-site-preview/1110/posts/2025/08/08/osr25ch/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Honest reflections on running Open Neuroseeds</title>
-        <description>&lt;p&gt;&lt;em&gt;And, why I am still in love with Open Science!&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;a href=&quot;/ols-site-preview/1110/people.html#saravilla&quot;&gt;Sara Villa&lt;/a&gt;, Senior Resident fellow - Open Neuroseeds coordinator&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;When I started my journey as a learner in &lt;a href=&quot;https://we-are-ols.org/&quot;&gt;OLS&lt;/a&gt; in 2021, I would have never guessed that I’d be working WITH the team implementing my own training cohort at King’s College London. &lt;br /&gt;
-But I guess that’s the point of dreaming big…you can actually get high enough!!&lt;/p&gt;
-
-&lt;p&gt;Open Neuroseeds is my attempt to bring all that I love and learned about open science to my own academic research community, versioning the &lt;a href=&quot;/ols-site-preview/1110/openseeds/&quot;&gt;Open Seeds&lt;/a&gt; format to fit requirements (learning objectives, schedules, funding, etc). 
-In this blog, I will share how I started the programme, lessons learned along the way, and most importantly, successful outcomes from it!&lt;/p&gt;
-
-&lt;p&gt;What looked like a crazy idea in the beginning, started to look like a very obvious step last year after having participated in several Open Seeds cohorts and having given several talks to promote open science within my department (&lt;a href=&quot;https://www.kcl.ac.uk/neuroscience/about/departments/wolfson&quot;&gt;Wolfson SPaRC, KCL&lt;/a&gt;) and others. 
-Being awarded a Research Culture award from King’s College London was the final push that put everything in motion. And like that, we organised Open Neuroseeds from February to June 2025.&lt;/p&gt;
-
-&lt;h2 id=&quot;how-it-started-plans-and-fears&quot;&gt;How it started: plans and fears&lt;/h2&gt;
-
-&lt;p&gt;Starting Open NeuroSeeds was seemingly easy, I had some funding to run it and it would involve doing a version of a programme I knew and loved very well, Open Seeds. &lt;br /&gt;
-However, funds were still a bit tight and came with a deadline, so I had to recruit rather quickly and with not many communications strategies in place.&lt;/p&gt;
-
-&lt;p&gt;In order to get more participants, I opened the expression of interest for the whole School of Neuroscience and we successfully involved 10 different participants. 
-We have quite a diverse representation of research levels (from undergraduate students to PI level), but I didn’t manage to get people from professional services (one of my main goals). 
-People selected were also very diverse in their open science knowledge. Some applications included very well thought projects to work on during the mentoring part of the programme, while some applicants didn’t join with a project. 
-Since this was the first approach to open science to this type of academic setting, I’d decided to include everyone in this pilot cohort, to learn from all different perspectives. &lt;br /&gt;
-This last decision was one of the first ‘hiccups’ I encountered: coordinating this programme also involved recruiting mentors and experts, mainly from the OLS community, who had been involved in other cohorts. 
-Of course, their expectations were similar to their experiences in the past, and I underestimated the orientation needed to adjust materials to a new domain, and that participants would need extra guidance. 
-An important &lt;strong&gt;lesson learned&lt;/strong&gt; for the next iteration: regularly communicate with all participants to establish clear expectations! &lt;br /&gt;
-Needless to say, everyone adapted quite quickly and the miscommunications were solved fast enough for people to get on with their mentors and their projects.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/aaffe2b7-0b9b-45e5-897f-256af69c70a8&quot; alt=&quot;Screenshot of a zoom meeting with a grid of 8 people on the right, and sides projected on the left.&quot; style=&quot;max-width: 70%; max-height: 500px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;During the training weeks, we had 5 different experts to come and introduce Open Concepts, curated from previous Open Seeds lessons. The topics chosen were:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Open data&lt;/strong&gt; led by &lt;a href=&quot;https://experts.griffith.edu.au/42874-shern-tee&quot;&gt;Shern Tee&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Open Project management&lt;/strong&gt; led by &lt;a href=&quot;https://www.linkedin.com/in/ariellebennett&quot;&gt;Arielle Bennet&lt;/a&gt; - &lt;a href=&quot;https://doi.org/10.5281/zenodo.15125211&quot;&gt;See publication&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Open community management&lt;/strong&gt; led by &lt;a href=&quot;https://www.aleesteele.com/&quot;&gt;Anne Lee Steele&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;https://zenodo.org/records/15006451&quot;&gt;See publication&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Open tools&lt;/strong&gt; led by &lt;a href=&quot;https://ke.linkedin.com/in/pauline-karega-20b72a145&quot;&gt;Pauline Karega&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Open software and hardware&lt;/strong&gt; led by &lt;a href=&quot;https://de.linkedin.com/in/colombjulien&quot;&gt;Julien Colomb&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These experts were invited from OLS and The Turing Way community to share general concepts and working examples from their projects involving open science. 
-As reflected in the feedback (shared below), our participants really appreciated their presentations and support during the programme.&lt;/p&gt;
-
-&lt;p&gt;One of my main goals was to deliver a more context-specific training in neuroscience. I can see an opportunity to curate domain-specific examples together with trainers. 
-Although it was challenging to identify neuroscience-specific experts under tight deadlines, this could be implemented for the next iterations.&lt;/p&gt;
-
-&lt;h2 id=&quot;how-it-concluded&quot;&gt;How it concluded&lt;/h2&gt;
-
-&lt;p&gt;I can proudly say that this was an amazing experience working with the participants, and I was blown away on graduation day. 
-The participants were very engaged, plans for their projects were bold, well thought, and some of them even already being implemented. 
-You can check the presentations on our &lt;a href=&quot;https://zenodo.org/communities/openlifesci/records?q=&amp;amp;l=list&amp;amp;p=1&amp;amp;s=10&amp;amp;sort=newest&quot;&gt;Zenodo community&lt;/a&gt; and check for yourself! 
-&lt;strong&gt;Final graduates and projects list&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hannah Mcconchie: &lt;a href=&quot;https://doi.org/10.5281/zenodo.15470675&quot;&gt;Breaking Barriers: an Open Science Approach to Cross-Sector Collaboration in Neuroscience&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Rita Moura: &lt;a href=&quot;https://doi.org/10.5281/zenodo.15882695&quot;&gt;Chiasma: a space for those who see science as political&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Zahra Laouby: &lt;a href=&quot;https://doi.org/10.5281/zenodo.15656467&quot;&gt;The open bench notes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Busra Mutlu Ipek: &lt;a href=&quot;https://doi.org/10.5281/zenodo.15674180&quot;&gt;Integrating Open Science into an Interdisciplinary Project on AI-Driven Neurotechnology and Responsibility&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Joseph Allison: &lt;a href=&quot;https://doi.org/10.5281/zenodo.15631356&quot;&gt;Using existing platforms to improve technical awareness and promote Open Science&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Alina Cristina Marin: &lt;a href=&quot;https://doi.org/10.5281/zenodo.15630919&quot;&gt;FAIR code for in vivo calcium imaging analysis in mouse models of pain&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Patricia Garcez: &lt;a href=&quot;https://doi.org/10.5281/zenodo.15705149&quot;&gt;Designing Open Science-Driven Assessment for Neuroscience Students&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Bahar Azizkhani: &lt;a href=&quot;https://doi.org/10.5281/zenodo.16687416&quot;&gt;Open NeuroSeeds&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://github.com/user-attachments/assets/32f58247-ec1f-4c0e-8392-e71efa656b7f&quot; alt=&quot;Screenshot of a zoom meeting with 8 people smiling while sharing their Open neuroseeds project. from left to right, up to down we can see Joe, Sara, Busra, Zahra, Yo, Rita, Alina and Arielle.&quot; style=&quot;max-width: 70%; max-height: 500px;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Some of the feedback was:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;The calls were all amazing. The presentations were well thought through and probably useful for people coming in from multiple levels. I was familiar with some of the topics and was a bit worried it would be a “waste of time”. It was not. All of the talks worked both as introduction and as deep dives into the topics. Congratulations to all presenters!&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;My training experience was truly amazing. The structured approach and insightful courses guided me towards new collaborations and innovative interdisciplinary projects.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;It was a really helpful experience in helping me to think beyond just a problem and how to look for opportunities to expand into other initiatives such as open science and creating platforms for such.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;That was an unforgettable journey for me to focus on interdisciplinary studies, collaborating with people who are from different fields. I truly appreciate it, and hearty thanks to the Open Seeds Program.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;I learned how critical accessibility and community is if you want research to make a real difference.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I am chuffed to say that participants were as happy as me, and that this pilot cohort has been a success!&lt;/p&gt;
-
-&lt;p&gt;One of the big surprises was the feedback received when asked which part was their favourite and 2 related things were pointed out: the favourite training session was the one delivered by Anne Lee Steele on &lt;strong&gt;Open Community Management&lt;/strong&gt;, 
-and the best moments for almost every participant were the discussions in the breakout rooms during the training calls.&lt;/p&gt;
-
-&lt;p&gt;Of course, I might be biased, but as a researcher,  I interpret these findings (within what I know was a small cohort), as an &lt;strong&gt;emerging need for connection&lt;/strong&gt; in research. Open NeuroSeeds provided the perfect stage for people to talk about their research and projects openly and in a supportive way. More specifically,  the community management call and the positive feedback on the breakout rooms discussions highlighted everything that is possible when working collaboratively and within a community.&lt;/p&gt;
-
-&lt;h2 id=&quot;whats-next&quot;&gt;What’s next&lt;/h2&gt;
-
-&lt;p&gt;I would love to repeat this experience within the Schools of Neuroscience but also other universities and departments and keep working on context-specific training. 
-I think certainly one of the changes I would like to implement is including a community strategy to make emergent groups sustainable within their own departments/schools.&lt;/p&gt;
-
-&lt;p&gt;I think it would also be helpful to include a lesson on collaborative research/work to spearhead the connections made during the programme.&lt;/p&gt;
-
-&lt;p&gt;All in all, I think this was an amazing pilot, and we will be working very hard to bring it to as many academic settings as we can. 
-&lt;strong&gt;So, get in touch and keep an eye on what’s coming!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This whole experience has only supported my views that we need more open science skills taught in academic settings. 
-There are many reasons (high expectations, low support, competitive environment…), but academic settings have changed their ways of working without realising that maintaining a research community requires new ways of working too. 
-Increased collaborative projects, together with more remote working, have changed the rules of the game. We need to focus on the people behind the science, and equip them with the best tools to make the best science they can. I strongly believe that open science can bridge the research goals and people, making teams more efficient and science more inclusive.&lt;/em&gt; &lt;br /&gt;
-&lt;strong&gt;&lt;em&gt;In the end… if we don’t dream big, why are we dreaming at all?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-        <link>https://we-are-ols.org//ols-site-preview/1110/posts/2025/08/01/reflections-on-neuroseeds/</link>
-        <guid isPermaLink="true">https://we-are-ols.org//ols-site-preview/1110/posts/2025/08/01/reflections-on-neuroseeds/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>OLS’s Five-Year Strategic Direction: From Seeds to Systems</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/ols-site-preview/1110/images/2025-06-seedstosystem-mindmap.png&quot; alt=&quot;A strategy mindmap developed with the group described in this post&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Imagine a world where researchers everywhere, especially those underrepresented, under-served or with fewer resources, have the opportunities and support system to transform their brilliant ideas into a tangible impact.
-That’s the shared goal we at OLS have!&lt;/p&gt;
-
-&lt;p&gt;After five fantastic years of building OLS from the ground up, thanks to the incredible collaboration from our community, we are thrilled to announce our strategic direction for the next five years (2025-2030): &lt;strong&gt;“Seeds to Systems.”&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This theme, alongside &lt;a href=&quot;/ols-site-preview/1110/ols-values.html&quot;&gt;our values&lt;/a&gt;, signifies our commitment to &lt;em&gt;solidifying a systems&lt;/em&gt; approach in our work, building on a strong foundation, where we can continue to advance our vision for open science capacity building and diversifying leadership in research worldwide.&lt;/p&gt;
-
-&lt;p&gt;Part of this work is supported by the Chan Zuckerberg Initiative, announced in a &lt;a href=&quot;/ols-site-preview/1110/posts/2025/06/17/seeds-to-system-funding/&quot;&gt;previous post&lt;/a&gt;.
-The full proposal can be read on Zenodo (&lt;a href=&quot;https://zenodo.org/records/15729807&quot;&gt;DOI: 10.5281/zenodo.15729807&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;The team currently involved in strategic planning and development of our strategy are &lt;strong&gt;Malvika Sharan, Yo Yehudi, Patricia Herterich, Irene Ramos, Riva Quiroga and Bethan Iley&lt;/strong&gt;.
-Alongside them, other OLS team members will be supporting the realisation of this strategy.&lt;/p&gt;
-
-&lt;p&gt;Read the details below and reach out to them for any questions, ideas or interest in collaboration (email: &lt;a href=&quot;mailto:team@we-are-ols.org&quot;&gt;team@we-are-ols.org&lt;/a&gt;).&lt;/p&gt;
-
-&lt;h2 id=&quot;our-mission-areas-three-pillars&quot;&gt;Our Mission Areas: Three Pillars&lt;/h2&gt;
-
-&lt;p&gt;Over the past few years, we have formalised our efforts into three interconnected mission areas, which we call OLS’s Pillars: &lt;strong&gt;Training and Mentoring, Open Research, and Open Incubator Programme&lt;/strong&gt;.
-Each pillar is designed to strengthen and complement the others, nurturing researchers to take their ideas to sustainable projects.&lt;/p&gt;
-
-&lt;h3 id=&quot;training-and-mentoring&quot;&gt;Training and Mentoring&lt;/h3&gt;
-
-&lt;p&gt;Since launching in 2020, OLS has become a recognised and reliable partner in &lt;a href=&quot;/ols-site-preview/1110/open-science-training.html&quot;&gt;open science training and mentoring&lt;/a&gt;, with a strong emphasis on involving our global community in both shaping and co-delivering our programs.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Open Seeds&lt;/strong&gt;, our flagship program, has successfully run nine times, and an additional context-specific cohort of &lt;strong&gt;Open Neuro Seeds&lt;/strong&gt;, tailored for neuroscience researchers by our Senior Resident Fellow, &lt;a href=&quot;/ols-site-preview/1110/people.html#saravilla&quot;&gt;Sara Villa&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Custom training&lt;/strong&gt;, like for &lt;strong&gt;mentoring and Ally Skills&lt;/strong&gt;, or other open science training like &lt;strong&gt;Nebula&lt;/strong&gt;, funded by NASA, which has provided two cohorts of Open Science 101 training and supported Open Seeds fellows in engaging with this initiative.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These structured programs remain crucial for onboarding researchers into open science, and we have also been offering &lt;strong&gt;customised training and mentorship support for various organisations&lt;/strong&gt;. 
-We will continue to strengthen this service area, aiming to generate revenue, providing a sustainable funding stream for Open Seeds and Nebula, which currently rely on grants and sponsorships.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What’s Next?&lt;/strong&gt; Under “Seeds to Systems,” we are developing &lt;strong&gt;advanced training&lt;/strong&gt; for researchers and open science practitioners with projects ready to transition to the next stage.
-This program will equip them with the skills and strategies needed to design compelling project proposals, secure funding, and acquire resources to sustain their work using open-source/science solutions.
-A new &lt;strong&gt;Seeds to Systems Curriculum&lt;/strong&gt; will be designed to directly leverage learnings and collaborations from Open Seeds.&lt;/p&gt;
-
-&lt;p&gt;This mission will be developed in alignment with the &lt;strong&gt;Open Research&lt;/strong&gt; and &lt;strong&gt;Open Incubator&lt;/strong&gt; mission areas, providing critical resources and a progression path for researchers.
-More information on this will be shared later in the year.&lt;/p&gt;
-
-&lt;h3 id=&quot;open-research&quot;&gt;Open Research&lt;/h3&gt;
-
-&lt;p&gt;Since 2022, OLS has been actively involved in &lt;a href=&quot;/ols-site-preview/1110/open-research.html&quot;&gt;open science research&lt;/a&gt;. With a purpose to ground our work in evidence, we have published reports and papers under research projects, including:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Impact of open science training and mentoring&lt;/strong&gt;, a qualitative study funded by the Wellcome Trust Open Research Fund (2022-2024).&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Widening participation in open science&lt;/strong&gt;, a policy engagement project funded under the Turing Institute’s Skills Policy Award.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We have also co-written a meta-research paper with community members, analysing quantitative data from eight cohorts of Open Seeds, providing valuable insights into our program’s effectiveness.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What’s Next?&lt;/strong&gt; Research will be fundamental to “Seeds to Systems,” ensuring our training and operations are rooted in evidence and best practices.
-Currently, two key research projects have been scoped:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Leverage points for community and project sustainability&lt;/strong&gt; to understand the challenges and needs of researchers, and identify key learning modules, the “leverage points”, for the Seeds to Systems curriculum.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Research Funding Ecosystem&lt;/strong&gt; to map and document resources our global research community can refer to as part of training for securing research funding and fostering project sustainability.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These projects will directly inform and shape our other missions, ensuring they address the real-world skills and resources needed to lead and manage sustainable projects.
-This direct feedback loop demonstrates how Research will reinforce the other missions. 
-We aim to build a more equitable and accessible research ecosystem through training, mentorship, and community building.&lt;/p&gt;
-
-&lt;h3 id=&quot;open-incubator&quot;&gt;Open Incubator&lt;/h3&gt;
-
-&lt;p&gt;Turning an idea into a project is a significant step, but leading and managing it effectively for long-term impact is another challenge entirely.
-The OLS’s &lt;a href=&quot;/ols-site-preview/1110/open-incubator.html&quot;&gt;Open Incubator&lt;/a&gt; offers vital expertise and &lt;strong&gt;Fiscal Hosting infrastructure&lt;/strong&gt;, providing community members with expert guidance, financial management, and legal support, especially during the critical early stages of open science projects or building an organisation.&lt;/p&gt;
-
-&lt;p&gt;This work began in 2024, and we are actively developing a sustainable, service-based financial model to not only sustain OLS as an organisation but also empower our community by supporting their initiatives.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What’s Next?&lt;/strong&gt; This mission will become a focus of “Seeds to Systems.” Open Incubator will both guide our community members in identifying resources and directly provide the “system” they need to thrive and sustain their projects.&lt;/p&gt;
-
-&lt;p&gt;As the name suggests, OLS fellows and researchers with viable projects will be ideal candidates for Fiscal hosting, providing essential infrastructure for them to flourish.
-This completes the cycle, with the Incubator then providing real-world examples and data that can inform future Research and Training mission areas.&lt;/p&gt;
-
-&lt;h2 id=&quot;community-is-always-at-the-core&quot;&gt;Community is Always at the Core&lt;/h2&gt;
-
-&lt;p&gt;As always, the community is at the core of everything we do in OLS. “Seeds to Systems” will carry our commitment to &lt;strong&gt;community engagement and collaboration&lt;/strong&gt;. All our strategic projects – from research and development of new training modules to the evolution of our incubator services – will be co-created and informed by the diverse voices and experiences of our global community.
-We will actively foster participatory design, exchange feedback, and leverage the expertise of our fellows, mentors, partners, and the wider open science ecosystem to ensure our programs are relevant, inclusive, and truly responsive to the needs of researchers worldwide.
-This collaborative ethos will continue to drive OLS forward, transforming individual “seeds” into thriving, interconnected “systems” of open research.&lt;/p&gt;
-
-&lt;h2 id=&quot;cross-theme-priorities&quot;&gt;Cross-Theme Priorities&lt;/h2&gt;
-
-&lt;p&gt;All our work will be guided by OLS’s vision, mission and values (the latter revised by the OLS team and Governance Advisory Committee, and currently being reviewed by our community).
-Our missions will strategically reinforce each other, further strengthened by our overarching priorities:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Strengthening Partnership Network:&lt;/strong&gt; Continuing to work with our collaborators to combine efforts and amplify our shared impact in open science.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Meeting Business Needs:&lt;/strong&gt; Developing strong policies and processes, enhancing fundraising, and revenue for meeting OLS’s business needs.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Organisational Sustainability:&lt;/strong&gt; Ensuring OLS has the resources and resilience to continue its vital work long term.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The “Seeds to Systems” theme will provide strategic direction for our training, mentorship, and community-building initiatives, contributing to building a more equitable and accessible research ecosystem.&lt;/p&gt;
-
-&lt;p&gt;We are incredibly excited about this next chapter and look forward to working with you - stay tuned for future updates or directly reach out to the team by emailing &lt;a href=&quot;mailto:team@we-are-ols.org&quot;&gt;team@we-are-ols.org&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-        <link>https://we-are-ols.org//ols-site-preview/1110/posts/2025/06/30/seeds-to-system-strategy/</link>
-        <guid isPermaLink="true">https://we-are-ols.org//ols-site-preview/1110/posts/2025/06/30/seeds-to-system-strategy/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Announcing Funding for the Seeds to Systems Initiative</title>
-        <description>&lt;p&gt;OLS is thrilled to announce the &lt;strong&gt;‘Seeds to Systems’&lt;/strong&gt; initiative made possible by generous funding from the Open Science Program of Chan Zuckerberg Initiative (&lt;a href=&quot;http://chanzuckerberg.com/&quot;&gt;CZI&lt;/a&gt;). This funding will build up OLS’s capacity to support individuals and teams in biomedical and related research fields who are ready to transition their open source/science projects to the next stage.&lt;/p&gt;
-
-&lt;p&gt;This announcement marks a significant beginning of &lt;strong&gt;OLS’s new strategic direction for 2025-2030&lt;/strong&gt;, reinforcing our commitment to fostering a thriving open science ecosystem. Building upon the proven success of our flagship program, &lt;a href=&quot;/ols-site-preview/1110/openseeds/&quot;&gt;Open Seeds&lt;/a&gt;, the ‘Seeds to Systems’ initiative will support open research projects (the “seeds”) by developing and systematising strategies, processes, and infrastructure needed to sustain their work in the long term.&lt;/p&gt;
-
-&lt;p&gt;Our work under this initiative will enable the &lt;strong&gt;development of a research-based curriculum and training programme&lt;/strong&gt; targeted at projects that have become established, such as research initiatives, research communities of practice, or volunteer-run organisations. This will be complemented by our &lt;a href=&quot;/ols-site-preview/1110/open-incubator/fiscal-hosting/&quot;&gt;fiscal hosting&lt;/a&gt; infrastructure. The goal is to build researchers’ skills and expertise needed to &lt;strong&gt;navigate the complex research funding and sustainability landscape&lt;/strong&gt;, and ensure the effective management and impactful delivery of their open research projects. This work encompasses three key components:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Open Research:&lt;/strong&gt; Conducting community-based research and building reference resources for a Seeds to System curriculum informed by the current research ecosystem and sustainability models.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Cohort-Based Training and Mentoring:&lt;/strong&gt; Providing Seeds to Systems training with personalised mentorship and a supportive peer network for collaborative learning and problem-solving.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fiscal Hosting Infrastructure:&lt;/strong&gt; Offering critical support such as fiscal hosting, finance management and essential legal guidance, particularly crucial during the early stages of project development and management.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Through rigorous impact assessment and a dedicated community feedback process, we will ensure that ‘Seeds to Systems’ is continuously developed and delivers tangible impact for our community members, extending the positive outcomes of open science throughout their wider research communities.&lt;/p&gt;
-
-&lt;p&gt;Find more details in a separate post (coming soon) announcing our strategic direction.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
-        <link>https://we-are-ols.org//ols-site-preview/1110/posts/2025/06/17/seeds-to-system-funding/</link>
-        <guid isPermaLink="true">https://we-are-ols.org//ols-site-preview/1110/posts/2025/06/17/seeds-to-system-funding/</guid>
         
         
       </item>
