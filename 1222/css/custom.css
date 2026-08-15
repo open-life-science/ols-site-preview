@@ -9703,6 +9703,54 @@ code {
   max-width: 600px;
 }
 
+.three-column-gallery {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.three-column-gallery.three-column-gallery figure {
+  flex: 1;
+  margin: 0;
+  text-align: center;
+}
+
+.three-column-gallery.three-column-gallery img {
+  display: block;
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  object-position: top;
+}
+
+.three-column-gallery figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.9em;
+}
+
+.two-column-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.two-column-gallery img {
+  display: block;
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+@media (max-width: 768px) {
+  .two-column-gallery {
+    grid-template-columns: 1fr;
+  }
+  .three-column-gallery {
+    flex-direction: column;
+  }
+}
 .dataTables_length select.custom-select {
   padding-right: 1.75rem !important;
   background-position: right 0.6rem center;
