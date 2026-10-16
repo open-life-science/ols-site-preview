@@ -9114,6 +9114,34 @@ img {
   font-weight: bold;
 }
 
+.content .tabs a {
+  border-bottom-color: hsl(0, 0%, 86%);
+  color: hsl(0, 0%, 29%);
+  padding: 0.5em 1em;
+}
+.content .tabs a:hover {
+  border-bottom-color: hsl(0, 0%, 21%);
+  color: hsl(0, 0%, 21%);
+}
+
+.content .tabs.is-boxed li.is-active a {
+  background-color: #fff;
+  border-color: hsl(0, 0%, 86%);
+  border-bottom-color: transparent;
+  color: #265F3F;
+}
+
+.content .tabs.is-toggle li.is-active a {
+  background-color: #265F3F;
+  border-color: #265F3F;
+  color: #fff;
+}
+
+.seeds-to-systems .session-card {
+  height: 100%;
+  scroll-margin-top: 5rem;
+}
+
 .hero {
   background-clip: border-box;
   background-color: #333;
