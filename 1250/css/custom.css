@@ -9176,12 +9176,23 @@ img {
 .hero-body p {
   color: #fff;
 }
+.hero-body a {
+  color: #fff;
+  text-decoration: underline;
+}
+.hero-body a:hover, .hero-body a:focus {
+  color: #fff;
+  text-decoration-thickness: 2px;
+}
 .no-image .hero-body {
   padding-top: 80px;
   text-shadow: none;
 }
 .no-image .hero-body p {
   color: #464646;
+}
+.no-image .hero-body a {
+  color: #265F3F;
 }
 @media screen and (min-width: 769px), print {
   .hero-body {
