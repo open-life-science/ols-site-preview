@@ -6,9 +6,52 @@
 </description>
     <link>https://we-are-ols.org//ols-site-preview/1253/</link>
     <atom:link href="https://we-are-ols.org//ols-site-preview/1253/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Nov 2026 22:53:30 +0000</pubDate>
-    <lastBuildDate>Tue, 03 Nov 2026 22:53:30 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2026 17:55:26 +0000</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2026 17:55:26 +0000</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>One Year of OLS&apos;s Fiscally Sponsored Communities Programme</title>
+        <description>&lt;p&gt;In November 2025 I joined OLS as the first dedicated staff member on the organisation’s &lt;a href=&quot;/ols-site-preview/1253/open-incubator/fiscal-hosting/&quot;&gt;Fiscally Sponsored Communities Programme&lt;/a&gt;. 
+One year on: what have we been up to?&lt;/p&gt;
+
+&lt;p&gt;Our ongoing communities continue to go from strength to strength. 
+&lt;a href=&quot;https://www.rcmcooperative.com/&quot;&gt;RCM Co-op&lt;/a&gt; continues to establish themselves as a centre of excellence and expertise for research community management in the UK and beyond. 
+We employ one member of staff through OLS, and hope to bring on a second one soon. 
+&lt;a href=&quot;https://rse-aunz.org/&quot;&gt;RSE AUNZ&lt;/a&gt; have just finished organising three Research Software conferences, aiming to build and strengthen communities of research software engineers across &lt;a href=&quot;https://research-software-africa.org/&quot;&gt;Asia-Australia&lt;/a&gt;, &lt;a href=&quot;https://rs-latam.org/&quot;&gt;Latin America&lt;/a&gt;, and &lt;a href=&quot;https://research-software-africa.org/&quot;&gt;Africa&lt;/a&gt;: and they’ve already started organising for 2027.&lt;/p&gt;
+
+&lt;p&gt;Our fiscal sponsorship programme isn’t just for long-term arrangements. 
+We acted as UK fiscal host for this year’s &lt;a href=&quot;https://open.science-retreat.org/&quot;&gt;Open Science Retreat&lt;/a&gt;, organised by the &lt;a href=&quot;https://digital-research.academy/&quot;&gt;Digital Research Academy&lt;/a&gt; and held in Machynlleth, Wales. 
+While we’ll be ending the fiscal sponsorship relationship soon, we still collaborate with DRA on other projects like &lt;a href=&quot;https://oscars-project.eu/projects/ospark-bootcamp-open-science-promotion-and-advocacy-research-knowledge-bootcamp&quot;&gt;OSPARK&lt;/a&gt; (and you might just see some OLS folks at next year’s retreat in Germany!).&lt;/p&gt;
+
+&lt;p&gt;This year, we started hosting Incubation Fellows: individuals who are building open research communities. 
+These placements are designed to be fixed term, to enable Fellows to focus on building out stable and sustainable community infrastructure. 
+Jyoti Bhogal is currently developing &lt;a href=&quot;https://rse-asia.github.io/RSE_Asia/&quot;&gt;RSE Asia Association&lt;/a&gt; (including collaborating with RSE AUNZ on the RSE Asia-Australia conference). 
+Ella Kaye from &lt;a href=&quot;https://rainbowr.org/&quot;&gt;rainbowR&lt;/a&gt; has completed her fellowship, with rainbowR establishing itself as a financially independent organisation after a successful first conference held in February 2026. 
+Ella told us what she learned in a &lt;a href=&quot;/ols-site-preview/1253/posts/2026/09/07/rainbow-r-fiscal-sponsorship/&quot;&gt;blog post&lt;/a&gt; earlier this year.&lt;/p&gt;
+
+&lt;div class=&quot;columns is-variable is-6&quot;&gt;
+&lt;div class=&quot;column is-5&quot;&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/ols-site-preview/1253/images/2026-11-fsc-manager.jpg&quot; alt=&quot;Photo of Laura, Patricia and Sara (calling in remotely) at OLS&apos;s 2026 team retreat in the UK. Photo by Riva.&quot; /&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;div class=&quot;column&quot;&gt;
+
+    &lt;p&gt;Behind the scenes, a lot of work has gone in to building out processes and policies to help our fiscal sponsorship programme run smoothly: from an array of github issues to manage grant applications and contracts on behalf of our organisations, to reviewing internal policies and procedures to check that they cover our global community, to helping troubleshoot missing honoraria payments and last minute budget reviews. 
+While I’m the only dedicated FSC member of staff, the programme couldn’t run without finance, comms and management colleagues from across the UK and the Americas. 
+We work mostly remotely, but we did get to spend a few days together on a farm in the UK in June on OLS’s annual retreat (pictured above): making sure our programmes are learning from each other, planning for the future, and meeting some friendly cows, chickens and goats.&lt;/p&gt;
+
+    &lt;p&gt;Heading into 2027, I’m excited to report that we’re in talks with some new communities who are interested in OLS fiscal hosting. 
+If you’re working on open research and you think your community might benefit from fiscal sponsorship, you can read more about what it entails on our &lt;a href=&quot;/ols-site-preview/1253/open-incubator/fiscal-hosting/&quot;&gt;website&lt;/a&gt;: please do get in touch if you’d like to discuss this with us!&lt;/p&gt;
+  &lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+        <link>https://we-are-ols.org//ols-site-preview/1253/posts/2026/11/01/one-year-fsc-programme/</link>
+        <guid isPermaLink="true">https://we-are-ols.org//ols-site-preview/1253/posts/2026/11/01/one-year-fsc-programme/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Seeds to Systems Cohort - Week 1: Welcome!</title>
@@ -525,44 +568,6 @@ This feedback is also very useful to the ongoing work that we are doing to map o
         <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
         <link>https://we-are-ols.org//ols-site-preview/1253/posts/2026/07/21/ssi-cohort-training/</link>
         <guid isPermaLink="true">https://we-are-ols.org//ols-site-preview/1253/posts/2026/07/21/ssi-cohort-training/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>OLS Community Spotlight Series 2026: Remembering what the OPEN magic is about</title>
-        <description>&lt;p&gt;OLS community has ALWAYS been at the center of what we do. In the end, we couldn’t sustain this organisation without our trianing participants, mentors, experts, facilitators…&lt;/p&gt;
-
-&lt;p&gt;After publising &lt;a href=&quot;/ols-site-preview/1253/posts/2026/02/25/retro-five-years-OLS/&quot;&gt;our 5 years blog of OLS&lt;/a&gt;, where we highlight what’s been happening over the years and what the team has been working on…we realised, what about our community? &lt;strong&gt;Why don’t we spotlight the AMAZING work that the OLS community has been doing over the years?&lt;/strong&gt; And that is how the OLS Community Spotlight series was born!&lt;/p&gt;
-
-&lt;p&gt;Over January and February 2026, we held a series of gathering where different people from the community, who have engaged in different roles, presented their journey after becoming part of the OLS community. We got to see where different projects are after years, how people have evolved after participating in our training programmes…&lt;/p&gt;
-
-&lt;p&gt;The result?  &lt;strong&gt;5 inspiring sessions showcasing 17 of the most interesting and diverse journeys within the community&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Check the recordings in our public &lt;a href=&quot;https://www.youtube.com/playlist?list=PL1CvC6Ez54KAPCXHvwFxCPisoQJctx1Sw&quot;&gt;YouTube playlist!&lt;/a&gt; to witness the wisdom below for yourself!&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;You never know what directions things are going to take: be open! - Anne Steele&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;DON’T START ALONE, don’t work alone! - Doaa Abdelkader&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;I learned that I have a voice, and that my voice can be heard 💓 - Sabrina López&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;With OLS we see the big picture - Alexander Martinez Mendez&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/ols-site-preview/1253/images/community_spotlight_series/CSS_YT_thumbnail-session4.jpg&quot; alt=&quot;Image shows the YT thumbnail for one of the sessions with headshots of several speakers.&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-        <link>https://we-are-ols.org//ols-site-preview/1253/posts/2026/07/21/OLS-community-spotlight-series/</link>
-        <guid isPermaLink="true">https://we-are-ols.org//ols-site-preview/1253/posts/2026/07/21/OLS-community-spotlight-series/</guid>
         
         
       </item>
